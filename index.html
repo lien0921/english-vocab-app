@@ -3,38 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta name="theme-color" content="#6366f1">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="VocabApp">
-
-    <title>英文單字 3D 閃示卡 - 全系列</title>
+    <title>英文單字 3D 閃示卡 - 專業學習版</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap" rel="stylesheet">
     <style>
-        /* 新增的分級按鈕樣式 */
-        .level-nav {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin-bottom: 20px;
+        /* 為了對齊圖片中的 UI 風格，不改動外部 style.css 的前提下進行補丁 */
+        header { background: white !important; box-shadow: 0 10px 30px rgba(0,0,0,0.05) !important; padding: 40px !important; border-radius: 24px !important; }
+        h1 { color: #8b5cf6 !important; background: none !important; -webkit-text-fill-color: initial !important; margin-bottom: 20px !important; }
+        
+        .level-nav { display: flex; justify-content: center; gap: 10px; margin-bottom: 25px; }
+        .lvl-btn { padding: 8px 20px; border: 2.5px solid #8b5cf6; background: white; color: #8b5cf6; border-radius: 20px; cursor: pointer; font-weight: bold; }
+        .lvl-btn.active { background: #6366f1; color: white; border-color: #6366f1; }
+        
+        .mode-nav { display: flex; justify-content: center; gap: 15px; margin: 20px 0; }
+        .mode-btn { padding: 10px 22px; border: 1.5px solid #e2e8f0; background: white; border-radius: 14px; cursor: pointer; font-size: 1rem; color: #475569; display: flex; align-items: center; gap: 8px; }
+        .mode-btn.active { background: #475569; color: white; border-color: #475569; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+
+        /* 測驗 2x2 選項佈局 */
+        .quiz-options { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; width: 100%; margin-top: 20px; }
+        .quiz-opt-btn { width: 100%; padding: 12px; border: 1.5px solid #bae6fd; border-radius: 12px; background: white; color: #0369a1; cursor: pointer; font-weight: 500; }
+        
+        /* 強化卡片背面的例句區塊樣式 */
+        .card-back { padding: 25px !important; display: flex; flex-direction: column; justify-content: center; }
+        .example-box { 
+            background: #f1f5f9; padding: 15px; border-radius: 12px; 
+            font-size: 0.95rem; width: 100%; cursor: pointer; 
+            position: relative; transition: 0.2s; margin-top: 10px;
         }
-        .lvl-btn {
-            padding: 8px 20px;
-            border: 2px solid #6366f1;
-            background: white;
-            color: #6366f1;
-            border-radius: 20px;
-            cursor: pointer;
-            font-weight: bold;
-            transition: 0.3s;
-        }
-        .lvl-btn.active {
-            background: #6366f1;
-            color: white;
-        }
+        .example-box:hover { background: #e2e8f0; }
+        .pronounce-icon { color: #6366f1; font-size: 1.2rem; cursor: pointer; margin-bottom: 5px; }
     </style>
 </head>
 <body>
@@ -49,7 +46,13 @@
                 <button class="lvl-btn" onclick="switchLevel('B2', this)">B2</button>
             </div>
 
-            <div class="search-box">
+            <div class="mode-nav">
+                <button id="mode-study" class="mode-btn active" onclick="setMode('study')">📖 學習模式</button>
+                <button id="mode-quiz" class="mode-btn" onclick="setMode('quiz')">📝 10題測驗</button>
+                <button id="mode-wrong" class="mode-btn" onclick="setMode('wrong')">❌ 錯題本</button>
+            </div>
+
+            <div id="search-section" class="search-box">
                 <input type="text" id="searchInput" placeholder="搜尋單字或中文...">
             </div>
             
@@ -57,8 +60,7 @@
             <div id="stats" class="stats">載入中...</div>
         </header>
 
-        <main id="vocabList" class="vocab-grid">
-            </main>
+        <main id="vocabList" class="vocab-grid"></main>
     </div>
     <script src="app.js"></script>
 </body>

@@ -45,7 +45,6 @@ function setMode(mode) {
     }
 }
 
-// 核心發音功能
 function speak(t) {
     if (!t) return;
     window.speechSynthesis.cancel();
@@ -57,11 +56,17 @@ function speak(t) {
 
 function render(data) {
     const list = document.getElementById('vocabList');
-    document.getElementById('stats').innerText = `(${currentLevel}) 共 ${data.length} 個單字`;
+    document.getElementById('stats').innerText = (currentMode === 'wrong') ? `錯題本：共 ${data.length} 個單字` : `(${currentLevel}) 共 ${data.length} 個單字`;
     
+    // 如果錯題本是空的
+    if (data.length === 0 && currentMode === 'wrong') {
+        list.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:50px; color:#94a3b8;">目前沒有錯題紀錄 🎉</div>`;
+        return;
+    }
+
     list.innerHTML = data.map(item => {
         const theme = colorThemes[item.word.toUpperCase().charCodeAt(0) % colorThemes.length];
-        const safeExample = item.example.replace(/'/g, "\\'"); // 處理英文單引號
+        const safeExample = item.example.replace(/'/g, "\\'"); 
         
         return `
         <div class="card-container">
@@ -71,7 +76,7 @@ function render(data) {
                     <span style="color:#64748b; font-weight:600;">${item.pos}</span>
                 </div>
                 <div class="card-back" style="border: 2px solid ${theme.border}">
-                    <div class="pronounce-icon" onclick="event.stopPropagation(); speak('${item.word}')">🔊 點擊朗讀單字</div>
+                    <div class="pronounce-icon" onclick="event.stopPropagation(); speak('${item.word}')">🔊 朗讀單字</div>
                     <p class="chinese-text" style="font-size:1.6rem; color:#1e293b; margin:10px 0;">${item.chinese}</p>
                     
                     <div class="example-box" onclick="event.stopPropagation(); speak('${safeExample}')">
@@ -82,14 +87,32 @@ function render(data) {
                         </div>
                     </div>
                     
-                    ${currentMode === 'wrong' ? `<button onclick="removeWrong(event, '${item.word}')" style="margin-top:10px; color:#ef4444; border:none; background:none; cursor:pointer; font-size:0.8rem;">[ 移除錯題 ]</button>` : ''}
+                    ${currentMode === 'wrong' ? `
+                        <button onclick="removeWrong(event, '${item.word}')" 
+                                style="margin-top:15px; background:#fee2e2; color:#ef4444; border:1px solid #fecaca; padding:8px 20px; border-radius:10px; cursor:pointer; font-weight:bold; transition: 0.2s;">
+                            🗑️ 移除此題
+                        </button>
+                    ` : ''}
                 </div>
             </div>
         </div>`;
     }).join('');
 }
 
-// 測驗與導覽邏輯
+// 修正後的移除邏輯
+function removeWrong(event, wordText) {
+    if (event) event.stopPropagation(); // 關鍵：阻止卡片翻轉
+    
+    // 從陣列中過濾掉該單字
+    wrongWords = wrongWords.filter(w => w.word !== wordText);
+    
+    // 更新本地儲存
+    localStorage.setItem('wrongWords', JSON.stringify(wrongWords));
+    
+    // 立即重新渲染畫面
+    renderActiveContent();
+}
+
 function startQuiz() {
     quizQueue = [...vocabulary].sort(() => 0.5 - Math.random()).slice(0, 10);
     currentQuizIndex = 0;
@@ -108,9 +131,9 @@ function showQuizQuestion() {
 
     list.innerHTML = `
     <div style="grid-column: 1/-1; display:flex; justify-content:center;">
-        <div class="card-container" style="max-width: 420px; width: 100%; height: 480px;">
+        <div class="card-container" style="max-width: 420px; width: 100%; height: 500px;">
             <div class="card" id="quiz-card">
-                <div class="card-front" style="border-top: 10px solid #bae6fd; background:#f0f9ff; justify-content: flex-start; padding-top: 40px;">
+                <div class="card-front" style="border-top: 12px solid #bae6fd; background:#f0f9ff; justify-content: flex-start; padding-top: 40px;">
                     <h3 style="color:#0369a1; font-size:2.8rem; margin:0;">${item.word}</h3>
                     <span style="color:#64748b; margin-bottom:30px;">${item.pos}</span>
                     <div class="quiz-options">
@@ -123,7 +146,7 @@ function showQuizQuestion() {
                     <div class="example-box" onclick="speak('${item.example.replace(/'/g, "\\'")}')">
                         <small style="color:#6366f1">點擊聽例句 🔊</small><br>
                         ${item.example}<br>
-                        <span style="color:#64748b; font-size:0.85rem;">( ${item.description} )</span>
+                        <span style="color:#64748b; font-size:0.85rem;">( ${item.description || '暫無翻譯'} )</span>
                     </div>
                     <button onclick="nextQuestion()" style="margin-top:20px; padding:12px 30px; background:#6366f1; color:white; border:none; border-radius:12px; cursor:pointer; font-weight:bold;">
                         ${currentQuizIndex === 9 ? '查看結果' : '下一題 →'}
@@ -137,6 +160,8 @@ function showQuizQuestion() {
 function checkAnswer(btn, selected, correct, english) {
     const card = document.getElementById('quiz-card');
     btn.style.background = (selected === correct) ? "#dcfce7" : "#fee2e2";
+    btn.style.borderColor = (selected === correct) ? "#22c55e" : "#ef4444";
+    
     if (selected !== correct && !wrongWords.find(w => w.word === english)) {
         wrongWords.push(vocabulary.find(v => v.word === english));
         localStorage.setItem('wrongWords', JSON.stringify(wrongWords));
@@ -149,7 +174,9 @@ function nextQuestion() {
     else { alert("測驗結束！"); setMode('study'); }
 }
 
-function renderActiveContent() { render(currentMode === 'wrong' ? wrongWords : vocabulary); }
+function renderActiveContent() { 
+    render(currentMode === 'wrong' ? wrongWords : vocabulary); 
+}
 
 function switchLevel(level, btn) {
     document.querySelectorAll('.lvl-btn').forEach(b => b.classList.remove('active'));
@@ -160,6 +187,7 @@ function switchLevel(level, btn) {
 
 function createNav() {
     const nav = document.getElementById('alphabet-nav');
+    if(!nav) return;
     let html = `<button class="abc-btn active" onclick="filterLetter('ALL', this)">ALL</button>`;
     "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach(l => {
         html += `<button class="abc-btn" onclick="filterLetter('${l}', this)">${l}</button>`;

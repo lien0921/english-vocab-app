@@ -1,0 +1,127 @@
+:root {
+    --primary: #6366f1;
+    --bg: #f8fafc;
+    --shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background-color: var(--bg);
+    margin: 0; padding: 0;
+}
+
+.app-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+    position: sticky;
+    top: 10px;
+    z-index: 100;
+}
+
+h1 {
+    font-weight: 800;
+    background: linear-gradient(135deg, #6366f1, #a855f7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0 0 15px 0;
+}
+
+.search-box input {
+    width: 90%;
+    max-width: 400px;
+    padding: 12px 20px;
+    border-radius: 30px;
+    border: 2px solid #e2e8f0;
+    outline: none;
+}
+
+/* 字母按鈕區：手機上可滑動 */
+.alphabet-buttons {
+    display: flex;
+    overflow-x: auto;
+    gap: 8px;
+    padding: 10px 0;
+    scrollbar-width: none; /* Firefox 隱藏捲軸 */
+}
+.alphabet-buttons::-webkit-scrollbar { display: none; } /* Chrome 隱藏捲軸 */
+
+.abc-btn {
+    flex: 0 0 auto;
+    background: white;
+    border: 1px solid #ddd;
+    padding: 6px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.abc-btn.active { background: var(--primary); color: white; }
+
+/* 3D 卡片佈局 */
+.vocab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    perspective: 1500px;
+}
+
+.card-container {
+    height: 280px; /* 固定高度防止翻轉時跳動 */
+}
+
+.card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+}
+
+.card.flipped { transform: rotateY(180deg); }
+
+.card-front, .card-back {
+    position: absolute;
+    inset: 0;
+    backface-visibility: hidden;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: var(--shadow);
+    background: white;
+}
+
+.card-back { transform: rotateY(180deg); text-align: center; }
+
+.chinese-text { font-size: 1.2rem; font-weight: 700; margin: 10px 0; }
+
+.example {
+    background: #f1f5f9;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    width: 90%;
+}
+
+.voice-btn { border: none; background: #fff; cursor: pointer; font-size: 1.2rem; }
+
+/* 手機適配補丁 */
+@media (max-width: 600px) {
+    .vocab-grid { grid-template-columns: 1fr; }
+    .card-container { height: 320px; } /* 手機版例句可能長，高度拉高 */
+}
+
+
+

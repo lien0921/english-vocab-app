@@ -58,7 +58,6 @@ function render(data) {
     const list = document.getElementById('vocabList');
     document.getElementById('stats').innerText = (currentMode === 'wrong') ? `錯題本：共 ${data.length} 個單字` : `(${currentLevel}) 共 ${data.length} 個單字`;
     
-    // 如果錯題本是空的
     if (data.length === 0 && currentMode === 'wrong') {
         list.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:50px; color:#94a3b8;">目前沒有錯題紀錄 🎉</div>`;
         return;
@@ -72,6 +71,7 @@ function render(data) {
         <div class="card-container">
             <div class="card" onclick="this.classList.toggle('flipped')">
                 <div class="card-front" style="border-top: 8px solid ${theme.border}; background:${theme.bg}">
+                    <div style="font-size: 2.8rem; margin-bottom: 10px;">${item.icon || '📖'}</div>
                     <h3 style="color:${theme.border}; font-size:2.2rem; margin:0;">${item.word}</h3>
                     <span style="color:#64748b; font-weight:600;">${item.pos}</span>
                 </div>
@@ -89,7 +89,7 @@ function render(data) {
                     
                     ${currentMode === 'wrong' ? `
                         <button onclick="removeWrong(event, '${item.word}')" 
-                                style="margin-top:15px; background:#fee2e2; color:#ef4444; border:1px solid #fecaca; padding:8px 20px; border-radius:10px; cursor:pointer; font-weight:bold; transition: 0.2s;">
+                                style="margin-top:15px; background:#fee2e2; color:#ef4444; border:1px solid #fecaca; padding:8px 20px; border-radius:10px; cursor:pointer; font-weight:bold;">
                             🗑️ 移除此題
                         </button>
                     ` : ''}
@@ -99,17 +99,11 @@ function render(data) {
     }).join('');
 }
 
-// 修正後的移除邏輯
+// 移除錯題邏輯 (確保穩定)
 function removeWrong(event, wordText) {
-    if (event) event.stopPropagation(); // 關鍵：阻止卡片翻轉
-    
-    // 從陣列中過濾掉該單字
+    if (event) event.stopPropagation(); 
     wrongWords = wrongWords.filter(w => w.word !== wordText);
-    
-    // 更新本地儲存
     localStorage.setItem('wrongWords', JSON.stringify(wrongWords));
-    
-    // 立即重新渲染畫面
     renderActiveContent();
 }
 

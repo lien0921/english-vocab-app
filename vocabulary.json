@@ -18,7 +18,8 @@
     "pos": "prep., adv.",
     "chinese": "在...上方",
     "example": "The plane is flying above the clouds.",
-    "description": "飛機正飛在雲層上方。"
+    "description": "飛機正飛在雲層上方。",
+    "icon": "☁️"
   },
   {
     "word": "across",
@@ -32,7 +33,8 @@
     "pos": "n.",
     "chinese": "行動、動作",
     "example": "We need to take action now.",
-    "description": "我們現在需要採取行動。"
+    "description": "我們現在需要採取行動。",
+    "icon": "🎬"
   },
   {
     "word": "activity",

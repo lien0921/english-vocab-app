@@ -194,6 +194,11 @@ function filterLetter(l, btn) {
     btn.classList.add('active');
     const filtered = l === 'ALL' ? vocabulary : vocabulary.filter(v => v.word.toUpperCase().startsWith(l));
     render(filtered);
+    // --- 新增：點擊字母後自動回到最上方 ---
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth' // 使用平滑捲動效果，體驗更好
+    });
 }
 
 document.getElementById('searchInput').addEventListener('input', (e) => {

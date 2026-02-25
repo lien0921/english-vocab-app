@@ -1,0 +1,4636 @@
+[
+  {
+    "word": "abandon",
+    "pos": "v.",
+    "chinese": "拋棄、放棄",
+    "example": "They had to abandon the car in the snow.",
+    "description": "他們不得不把車遺棄在雪地裡。"
+  },
+  {
+    "word": "abroad",
+    "pos": "adv.",
+    "chinese": "在國外",
+    "example": "She decided to study abroad next year.",
+    "description": "她決定明年去國外留學。"
+  },
+  {
+    "word": "absolute",
+    "pos": "adj.",
+    "chinese": "絕對的、完全的",
+    "example": "It is the absolute truth.",
+    "description": "這是絕對的事實。"
+  },
+  {
+    "word": "acceptable",
+    "pos": "adj.",
+    "chinese": "可接受的",
+    "example": "This noise level is not acceptable.",
+    "description": "這種噪音程度是不可接受的。"
+  },
+  {
+    "word": "accompany",
+    "pos": "v.",
+    "chinese": "陪同、伴隨",
+    "example": "I will accompany you to the hospital.",
+    "description": "我會陪你去醫院。"
+  },
+  {
+    "word": "accurate",
+    "pos": "adj.",
+    "chinese": "準確的、精確的",
+    "example": "The report was very accurate.",
+    "description": "這份報告非常準確。"
+  },
+  {
+    "word": "accuse",
+    "pos": "v.",
+    "chinese": "指控、控告",
+    "example": "They accused him of stealing the money.",
+    "description": "他們指控他偷了那筆錢。"
+  },
+  {
+    "word": "acknowledge",
+    "pos": "v.",
+    "chinese": "承認、感謝、告知收到",
+    "example": "He acknowledged that he had made a mistake.",
+    "description": "他承認他犯了一個錯誤。"
+  },
+  {
+    "word": "acquire",
+    "pos": "v.",
+    "chinese": "獲得、購得、習得",
+    "example": "The company has acquired a new business.",
+    "description": "該公司收購了一項新業務。"
+  },
+  {
+    "word": "actual",
+    "pos": "adj.",
+    "chinese": "實際的、真實的",
+    "example": "What was the actual cost of the project?",
+    "description": "專案的實際費用是多少？"
+  },
+  {
+    "word": "adapt",
+    "pos": "v.",
+    "chinese": "適應、改編",
+    "example": "You need to adapt to the new environment.",
+    "description": "你需要適應新環境。"
+  },
+  {
+    "word": "additional",
+    "pos": "adj.",
+    "chinese": "額外的",
+    "example": "Do you need any additional information?",
+    "description": "你需要任何額外資訊嗎？"
+  },
+  {
+    "word": "address",
+    "pos": "v.",
+    "chinese": "處理、解決、演說",
+    "example": "We must address the problem immediately.",
+    "description": "我們必須立刻處理這個問題。"
+  },
+  {
+    "word": "adopt",
+    "pos": "v.",
+    "chinese": "採納、收養",
+    "example": "The school decided to adopt a new teaching method.",
+    "description": "學校決定採用一種新的教學方法。"
+  },
+  {
+    "word": "advance",
+    "pos": "n./v./adj.",
+    "chinese": "前進、進展、預先的",
+    "example": "We need to plan in advance.",
+    "description": "我們需要預先計畫。"
+  },
+  {
+    "word": "affair",
+    "pos": "n.",
+    "chinese": "事務、事件",
+    "example": "She is interested in world affairs.",
+    "description": "她對國際事務很感興趣。"
+  },
+  {
+    "word": "afterward",
+    "pos": "adv.",
+    "chinese": "之後、後來",
+    "example": "We ate dinner and went home afterward.",
+    "description": "我們吃了晚餐，然後（之後）就回家了。"
+  },
+  {
+    "word": "agency",
+    "pos": "n.",
+    "chinese": "代理機構、仲介",
+    "example": "He works for an advertising agency.",
+    "description": "他在一家廣告代理商工作。"
+  },
+  {
+    "word": "agenda",
+    "pos": "n.",
+    "chinese": "議程",
+    "example": "What's on the agenda for today's meeting?",
+    "description": "今天會議的議程是什麼？"
+  },
+  {
+    "word": "aggressive",
+    "pos": "adj.",
+    "chinese": "具侵略性的、積極進取的",
+    "example": "He has a very aggressive dog.",
+    "description": "他有一隻非常有侵略性的狗。"
+  },
+  {
+    "word": "aid",
+    "pos": "n./v.",
+    "chinese": "援助、幫助",
+    "example": "The country received foreign aid after the earthquake.",
+    "description": "地震後該國收到了外國援助。"
+  },
+  {
+    "word": "aircraft",
+    "pos": "n.",
+    "chinese": "航空器、飛機",
+    "example": "The aircraft landed safely on the runway.",
+    "description": "飛機安全降落在跑道上。"
+  },
+  {
+    "word": "alarm",
+    "pos": "v.",
+    "chinese": "使驚恐、使擔憂",
+    "example": "The news alarmed many people.",
+    "description": "這消息讓許多人感到驚恐。"
+  },
+  {
+    "word": "alter",
+    "pos": "v.",
+    "chinese": "改變、修改",
+    "example": "We had to alter our plans at the last minute.",
+    "description": "我們不得不在最後一刻修改計畫。"
+  },
+  {
+    "word": "amount",
+    "pos": "v.",
+    "chinese": "總計、等於",
+    "example": "The bill amounted to $200.",
+    "description": "帳單總計兩百美元。"
+  },
+  {
+    "word": "anniversary",
+    "pos": "n.",
+    "chinese": "週年紀念日",
+    "example": "Today is our wedding anniversary.",
+    "description": "今天是我們的結婚週年紀念日。"
+  },
+  {
+    "word": "anxious",
+    "pos": "adj.",
+    "chinese": "焦慮的、渴望的",
+    "example": "She is anxious about the job interview.",
+    "description": "她對工作面試感到焦慮。"
+  },
+  {
+    "word": "apparent",
+    "pos": "adj.",
+    "chinese": "明顯的",
+    "example": "The reason for his failure was apparent.",
+    "description": "他失敗的原因很明顯。"
+  },
+  {
+    "word": "apparently",
+    "pos": "adv.",
+    "chinese": "顯然地、據說",
+    "example": "Apparently, the meeting has been canceled.",
+    "description": "顯然地，會議已經取消了。"
+  },
+  {
+    "word": "appeal",
+    "pos": "n./v.",
+    "chinese": "吸引力、呼籲、上訴",
+    "example": "This kind of music has a wide appeal.",
+    "description": "這種音樂有廣泛的吸引力。"
+  },
+  {
+    "word": "approach",
+    "pos": "n./v.",
+    "chinese": "接近、方法、處理",
+    "example": "We need a new approach to this problem.",
+    "description": "我們需要一個處理這個問題的新方法。"
+  },
+  {
+    "word": "appropriate",
+    "pos": "adj.",
+    "chinese": "合適的、恰當的",
+    "example": "This dress is not appropriate for a funeral.",
+    "description": "這件衣服不適合參加葬禮。"
+  },
+  {
+    "word": "approval",
+    "pos": "n.",
+    "chinese": "贊成、批准",
+    "example": "The project needs the manager's approval.",
+    "description": "專案需要經理的批准。"
+  },
+  {
+    "word": "approve",
+    "pos": "v.",
+    "chinese": "贊成、同意、批准",
+    "example": "My parents don't approve of my new boyfriend.",
+    "description": "我父母不同意（不贊成）我的新男友。"
+  },
+  {
+    "word": "arise",
+    "pos": "v.",
+    "chinese": "發生、出現、由...引起",
+    "example": "A new problem has arisen.",
+    "description": "一個新問題出現了。"
+  },
+  {
+    "word": "armed",
+    "pos": "adj.",
+    "chinese": "武裝的、持械的",
+    "example": "There was an armed guard at the bank.",
+    "description": "銀行有一名武裝警衛。"
+  },
+  {
+    "word": "arms",
+    "pos": "n.",
+    "chinese": "武器、軍火",
+    "example": "The police found a collection of illegal arms.",
+    "description": "警方發現了一批非法武器。"
+  },
+  {
+    "word": "artificial",
+    "pos": "adj.",
+    "chinese": "人造的、人工的",
+    "example": "This juice has no artificial colors.",
+    "description": "這種果汁沒有添加人造色素。"
+  },
+  {
+    "word": "ashamed",
+    "pos": "adj.",
+    "chinese": "感到羞愧的",
+    "example": "You should be ashamed of yourself.",
+    "description": "你應該為自己感到羞愧。"
+  },
+  {
+    "word": "aside",
+    "pos": "adv.",
+    "chinese": "在旁邊、到一邊",
+    "example": "Put your books aside for a moment.",
+    "description": "先把你的書放在一旁。"
+  },
+  {
+    "word": "aspect",
+    "pos": "n.",
+    "chinese": "方面、層面",
+    "example": "Every aspect of the plan was carefully considered.",
+    "description": "計畫的每個方面都被仔細考慮過。"
+  },
+  {
+    "word": "assess",
+    "pos": "v.",
+    "chinese": "評估、評定",
+    "example": "We need to assess the situation carefully.",
+    "description": "我們需要仔細評估情況。"
+  },
+  {
+    "word": "assessment",
+    "pos": "n.",
+    "chinese": "評估、評價",
+    "example": "The final assessment will be based on your exam results.",
+    "description": "最終評估將根據你的考試成績而定。"
+  },
+  {
+    "word": "associate",
+    "pos": "v.",
+    "chinese": "聯想、與...交往",
+    "example": "Most people associate summer with the beach.",
+    "description": "大多數人將夏天與海灘聯想在一起。"
+  },
+  {
+    "word": "associated",
+    "pos": "adj.",
+    "chinese": "相關聯的",
+    "example": "There are many risks associated with smoking.",
+    "description": "吸菸會帶來許多相關的風險。"
+  },
+  {
+    "word": "association",
+    "pos": "n.",
+    "chinese": "協會、關聯",
+    "example": "He is a member of the medical association.",
+    "description": "他是醫學協會的成員。"
+  },
+  {
+    "word": "assume",
+    "pos": "v.",
+    "chinese": "假定、假設",
+    "example": "Let's assume that he is telling the truth.",
+    "description": "讓我們假設他在說實話。"
+  },
+  {
+    "word": "attempt",
+    "pos": "n./v.",
+    "chinese": "嘗試、企圖",
+    "example": "He made an attempt to break the world record.",
+    "description": "他嘗試打破世界紀錄。"
+  },
+  {
+    "word": "attorney",
+    "pos": "n.",
+    "chinese": "律師",
+    "example": "My attorney will handle the legal documents.",
+    "description": "我的律師會處理法律文件。"
+  },
+  {
+    "word": "back",
+    "pos": "v.",
+    "chinese": "支持、後退",
+    "example": "The government is backing the new project.",
+    "description": "政府正支持這項新計畫。"
+  },
+  {
+    "word": "bacteria",
+    "pos": "n.",
+    "chinese": "細菌",
+    "example": "Some bacteria are good for your health.",
+    "description": "有些細菌對你的健康有益。"
+  },
+  {
+    "word": "bar",
+    "pos": "v.",
+    "chinese": "禁止、阻擋",
+    "example": "He was barred from the club for fighting.",
+    "description": "他因為打架而被禁止進入該俱樂部。"
+  },
+  {
+    "word": "barrier",
+    "pos": "n.",
+    "chinese": "障礙、屏障",
+    "example": "Language can be a barrier to communication.",
+    "description": "語言可能成為溝通的障礙。"
+  },
+  {
+    "word": "basically",
+    "pos": "adv.",
+    "chinese": "基本上",
+    "example": "Basically, I agree with everything you said.",
+    "description": "基本上，我同意你所說的一切。"
+  },
+  {
+    "word": "battle",
+    "pos": "v.",
+    "chinese": "搏鬥、奮鬥",
+    "example": "She is battling a serious illness.",
+    "description": "她正與嚴重的疾病搏鬥。"
+  },
+  {
+    "word": "bear",
+    "pos": "deal with",
+    "chinese": "(v.) 忍受、負擔",
+    "example": "I can't bear the pain anymore.",
+    "description": "我再也無法忍受這種疼痛了。"
+  },
+  {
+    "word": "beat",
+    "pos": "n.",
+    "chinese": "節拍、跳動",
+    "example": "Can you feel the beat of the music?",
+    "description": "你能感受到音樂的節拍嗎？"
+  },
+  {
+    "word": "beyond",
+    "pos": "prep./adv.",
+    "chinese": "超出、在...之外",
+    "example": "The situation is beyond our control.",
+    "description": "情況超出了我們的控制範圍。"
+  },
+  {
+    "word": "bill",
+    "pos": "v.",
+    "chinese": "開帳單、寄發帳單",
+    "example": "We will bill you for the services next month.",
+    "description": "我們下個月會寄帳單給您。"
+  },
+  {
+    "word": "bitter",
+    "pos": "adj.",
+    "chinese": "苦的、憤恨的、嚴寒的",
+    "example": "He felt bitter about losing his job.",
+    "description": "他對失去工作感到憤恨不平。"
+  },
+  {
+    "word": "blame",
+    "pos": "v./n.",
+    "chinese": "責備、歸咎",
+    "example": "Don't blame me for your mistakes.",
+    "description": "不要把你的錯誤歸咎於我。"
+  },
+  {
+    "word": "blind",
+    "pos": "adj.",
+    "chinese": "盲的、失明的",
+    "example": "He has been blind since birth.",
+    "description": "他自出生以來就失明了。"
+  },
+  {
+    "word": "bond",
+    "pos": "n.",
+    "chinese": "紐帶、聯繫、債券",
+    "example": "There is a strong bond between the two sisters.",
+    "description": "這兩姊妹之間有著深厚的感情聯繫（紐帶）。"
+  },
+  {
+    "word": "border",
+    "pos": "v.",
+    "chinese": "與...接壤",
+    "example": "France borders Germany.",
+    "description": "法國與德國接壤。"
+  },
+  {
+    "word": "broadcast",
+    "pos": "n./v.",
+    "chinese": "廣播、播送",
+    "example": "The concert was broadcast live on TV.",
+    "description": "音樂會在電視上現場直播。"
+  },
+  {
+    "word": "budget",
+    "pos": "n.",
+    "chinese": "預算",
+    "example": "We need to stay within our budget.",
+    "description": "我們需要維持在預算範圍內。"
+  },
+  {
+    "word": "bullet",
+    "pos": "n.",
+    "chinese": "子彈",
+    "example": "The bullet hit the wall.",
+    "description": "子彈擊中了牆壁。"
+  },
+  {
+    "word": "bunch",
+    "pos": "n.",
+    "chinese": "一串、一群",
+    "example": "He bought a bunch of flowers for his wife.",
+    "description": "他買了一束（串）花給他的太太。"
+  },
+  {
+    "word": "burn",
+    "pos": "n.",
+    "chinese": "燒傷、燙傷",
+    "example": "She has a small burn on her finger.",
+    "description": "她的手指上有個小燙傷。"
+  },
+  {
+    "word": "bush",
+    "pos": "n.",
+    "chinese": "灌木、叢林",
+    "example": "A rabbit jumped out of the bush.",
+    "description": "一隻兔子從灌木叢裡跳了出來。"
+  },
+  {
+    "word": "but",
+    "pos": "prep.",
+    "chinese": "除...之外 (等於 except)",
+    "example": "Everyone but Joe attended the meeting.",
+    "description": "除了喬以外，每個人都參加了會議。"
+  },
+  {
+    "word": "calculate",
+    "pos": "v.",
+    "chinese": "計算 (p. 2)",
+    "example": "You should calculate the cost of the materials before buying them.",
+    "description": "在購買材料之前，你應該先計算它們的成本。"
+  },
+  {
+    "word": "cancel",
+    "pos": "v.",
+    "chinese": "取消 (p. 2)",
+    "example": "The concert was canceled because the singer was ill.",
+    "description": "音樂會因為歌手生病而取消了。"
+  },
+  {
+    "word": "cancer",
+    "pos": "n.",
+    "chinese": "癌症 (p. 2)",
+    "example": "Smoking is the leading cause of lung cancer.",
+    "description": "吸菸是導致肺癌的主要原因。"
+  },
+  {
+    "word": "capable",
+    "pos": "adj.",
+    "chinese": "有能力的 (p. 2)",
+    "example": "She is capable of running the entire department by herself.",
+    "description": "她有能力獨自管理整個部門。"
+  },
+  {
+    "word": "capacity",
+    "pos": "n.",
+    "chinese": "容量、能力 (p. 2)",
+    "example": "The theater was filled to capacity last night.",
+    "description": "昨晚劇院座無虛席（達到了容量上限）。"
+  },
+  {
+    "word": "capture",
+    "pos": "v./n.",
+    "chinese": "捕捉、捕獲 (p. 2)",
+    "example": "The police managed to capture the thief after a short chase.",
+    "description": "警察在短暫追逐後成功捕捉到了小偷。"
+  },
+  {
+    "word": "cast",
+    "pos": "n./v.",
+    "chinese": "演員陣容、投射 (p. 2)",
+    "example": "The film has an all-star cast.",
+    "description": "這部電影擁有全明星的演員陣容。"
+  },
+  {
+    "word": "catch",
+    "pos": "n.",
+    "chinese": "接住、捕捉 (p. 2)",
+    "example": "He made a brilliant catch in the final minutes of the game.",
+    "description": "他在比賽最後幾分鐘做了一次精彩的接球。"
+  },
+  {
+    "word": "chain",
+    "pos": "v.",
+    "chinese": "用鏈鎖住 (p. 2)",
+    "example": "The dog was chained to a post in the yard.",
+    "description": "這隻狗被用鏈條鎖在院子的柱子上。"
+  },
+  {
+    "word": "chair",
+    "pos": "v.",
+    "chinese": "主持 (p. 2)",
+    "example": "She was chosen to chair the committee meeting.",
+    "description": "她被選中主持委員會會議。"
+  },
+  {
+    "word": "chairman",
+    "pos": "n.",
+    "chinese": "主席 (p. 2)",
+    "example": "The chairman opened the meeting with a brief speech.",
+    "description": "主席以簡短的發言拉開了會議的序幕。"
+  },
+  {
+    "word": "challenge",
+    "pos": "v.",
+    "chinese": "挑戰 (p. 2)",
+    "example": "I challenge you to a game of chess.",
+    "description": "我挑戰你跟我下一盤西洋棋。"
+  },
+  {
+    "word": "characteristic",
+    "pos": "n./adj.",
+    "chinese": "特徵、特有的 (p. 2)",
+    "example": "What are the main characteristics of this species?",
+    "description": "這個物種的主要特徵是什麼？"
+  },
+  {
+    "word": "chart",
+    "pos": "v.",
+    "chinese": "繪製圖表、計畫 (p. 2)",
+    "example": "The explorers charted the path of the river.",
+    "description": "探險家們繪製了這條河流的路徑圖。"
+  },
+  {
+    "word": "chief",
+    "pos": "adj./n.",
+    "chinese": "主要的、首領 (p. 2)",
+    "example": "The chief problem we face is a lack of funding.",
+    "description": "我們面臨的主要問題是缺乏資金。"
+  },
+  {
+    "word": "circumstance",
+    "pos": "n.",
+    "chinese": "情況、環境 (p. 2)",
+    "example": "I cannot help you under these circumstances.",
+    "description": "在這種情況下，我無法幫助你。"
+  },
+  {
+    "word": "cite",
+    "pos": "v.",
+    "chinese": "引用、舉證 (p. 2)",
+    "example": "The student cited many sources in her research paper.",
+    "description": "這名學生在她的研究論文中引用了許多來源。"
+  },
+  {
+    "word": "citizen",
+    "pos": "n.",
+    "chinese": "公民 (p. 2)",
+    "example": "The government is responsible for protecting its citizens.",
+    "description": "政府有責任保護其公民。"
+  },
+  {
+    "word": "civil",
+    "pos": "adj.",
+    "chinese": "公民的、民事的 (p. 2)",
+    "example": "The lawyer specializes in civil law.",
+    "description": "這位律師專攻民法（民事法律）。"
+  },
+  {
+    "word": "classic",
+    "pos": "adj./n.",
+    "chinese": "經典的、名著 (p. 2)",
+    "example": "This is a classic example of modern architecture.",
+    "description": "這是現代建築的一個經典範例。"
+  },
+  {
+    "word": "closely",
+    "pos": "adv.",
+    "chinese": "緊密地、仔細地 (p. 2)",
+    "example": "The manager is following the situation closely.",
+    "description": "經理正密切（仔細地）關注局勢的發展。"
+  },
+  {
+    "word": "collapse",
+    "pos": "v./n.",
+    "chinese": "坍塌、崩潰 (p. 2)",
+    "example": "The peace talks collapsed after several days of arguing.",
+    "description": "在爭論數日後，和平談判崩潰（破裂）了。"
+  },
+  {
+    "word": "combination",
+    "pos": "n.",
+    "chinese": "結合、組合 (p. 2)",
+    "example": "The drink is a combination of fruit juices.",
+    "description": "這種飲料是多種果汁的結合。"
+  },
+  {
+    "word": "comfort",
+    "pos": "n./v.",
+    "chinese": "安慰、舒適 (p. 2)",
+    "example": "She tried to comfort the crying child.",
+    "description": "她試圖安慰那個哭泣的孩子。"
+  },
+  {
+    "word": "command",
+    "pos": "n./v.",
+    "chinese": "命令、指揮 (p. 2)",
+    "example": "The soldiers followed the general's command.",
+    "description": "士兵們服從了將軍的命令。"
+  },
+  {
+    "word": "commission",
+    "pos": "n./v.",
+    "chinese": "委員會、委託、佣金 (p. 2)",
+    "example": "He earns a commission on every car he sells.",
+    "description": "他賣出的每一輛車都能賺取佣金。"
+  },
+  {
+    "word": "commitment",
+    "pos": "n.",
+    "chinese": "承諾、奉獻 (p. 2)",
+    "example": "I have a commitment to finish this work by Friday.",
+    "description": "我承諾在週五前完成這項工作。"
+  },
+  {
+    "word": "committee",
+    "pos": "n.",
+    "chinese": "委員會 (p. 2)",
+    "example": "The committee decided to postpone the event.",
+    "description": "委員會決定推遲活動。"
+  },
+  {
+    "word": "commonly",
+    "pos": "adv.",
+    "chinese": "通常地、平凡地 (p. 2)",
+    "example": "It is commonly believed that exercise is good for health.",
+    "description": "人們普遍認為（通常相信）運動對健康有益。"
+  },
+  {
+    "word": "complex",
+    "pos": "n.",
+    "chinese": "綜合設施 (p. 2)",
+    "example": "The university built a new research complex.",
+    "description": "大學建造了一座新的研究綜合設施。"
+  },
+  {
+    "word": "complicated",
+    "pos": "adj.",
+    "chinese": "複雜的 (p. 2)",
+    "example": "The rules of the game are very complicated.",
+    "description": "這個遊戲的規則非常複雜。"
+  },
+  {
+    "word": "component",
+    "pos": "n.",
+    "chinese": "零件、成分 (p. 2)",
+    "example": "Oxygen is a major component of air.",
+    "description": "氧氣是空氣的主要成分。"
+  },
+  {
+    "word": "concentration",
+    "pos": "n.",
+    "chinese": "專注、濃度 (p. 3)",
+    "example": "Loud noises can affect your concentration.",
+    "description": "大聲的噪音會影響你的專注力。"
+  },
+  {
+    "word": "concept",
+    "pos": "n.",
+    "chinese": "概念 (p. 3)",
+    "example": "She explained the basic concepts of physics to us.",
+    "description": "她向我們解釋了物理學的基本概念。"
+  },
+  {
+    "word": "concern",
+    "pos": "n./v.",
+    "chinese": "關心、擔心 (p. 3)",
+    "example": "The pollution of the river is a major concern.",
+    "description": "河流污染是一個主要的擔憂（關心的問題）。"
+  },
+  {
+    "word": "concerned",
+    "pos": "adj.",
+    "chinese": "擔心的、有關的 (p. 3)",
+    "example": "The parents are concerned about their child's future.",
+    "description": "父母們對孩子的未來感到擔心。"
+  },
+  {
+    "word": "conduct",
+    "pos": "v./n.",
+    "chinese": "執行、實施、行為 (p. 3)",
+    "example": "The company is conducting a survey on customer satisfaction.",
+    "description": "公司正在執行一項關於客戶滿意度的調查。"
+  },
+  {
+    "word": "confidence",
+    "pos": "n.",
+    "chinese": "信心 (p. 3)",
+    "example": "He has a lot of confidence in his own abilities.",
+    "description": "他對自己的能力非常有信心。"
+  },
+  {
+    "word": "conflict",
+    "pos": "n./v.",
+    "chinese": "衝突、矛盾 (p. 3)",
+    "example": "There is a conflict between the two reports.",
+    "description": "這兩份報告之間存在衝突（矛盾）。"
+  },
+  {
+    "word": "confusing",
+    "pos": "adj.",
+    "chinese": "令人困惑的 (p. 3)",
+    "example": "The instructions are very confusing.",
+    "description": "這些說明令人感到非常困惑。"
+  },
+  {
+    "word": "congress",
+    "pos": "n.",
+    "chinese": "國會、議會 (p. 3)",
+    "example": "The law was passed by congress last month.",
+    "description": "這項法律上個月由國會通過。"
+  },
+  {
+    "word": "conscious",
+    "pos": "adj.",
+    "chinese": "有意識的、察覺的 (p. 3)",
+    "example": "I became conscious of someone following me.",
+    "description": "我察覺到有人在跟蹤我。"
+  },
+  {
+    "word": "conservative",
+    "pos": "adj./n.",
+    "chinese": "保守的、保守主義者 (p. 3)",
+    "example": "He has very conservative views on social issues.",
+    "description": "他對社會議題有非常保守的觀點。"
+  },
+  {
+    "word": "consideration",
+    "pos": "n.",
+    "chinese": "考慮 (p. 3)",
+    "example": "Please take my suggestions into consideration.",
+    "description": "請將我的建議納入考慮。"
+  },
+  {
+    "word": "consistent",
+    "pos": "adj.",
+    "chinese": "一致的、始終如一的 (p. 3)",
+    "example": "The results are consistent with our previous findings.",
+    "description": "結果與我們之前的發現是一致的。"
+  },
+  {
+    "word": "constant",
+    "pos": "adj.",
+    "chinese": "不斷的、持續的 (p. 3)",
+    "example": "The dog needs constant attention.",
+    "description": "這隻狗需要持續不斷的關注。"
+  },
+  {
+    "word": "constantly",
+    "pos": "adv.",
+    "chinese": "不斷地 (p. 3)",
+    "example": "He is constantly complaining about his job.",
+    "description": "他不斷地在抱怨他的工作。"
+  },
+  {
+    "word": "construct",
+    "pos": "v.",
+    "chinese": "建造、構成 (p. 3)",
+    "example": "The bridge was constructed in the 19th century.",
+    "description": "這座橋是在 19 世紀建造的。"
+  },
+  {
+    "word": "construction",
+    "pos": "n.",
+    "chinese": "建造、建築物 (p. 3)",
+    "example": "The road is closed due to construction work.",
+    "description": "這條路因建造（施工）工程而關閉。"
+  },
+  {
+    "word": "contemporary",
+    "pos": "adj.",
+    "chinese": "當代的、同時代的 (p. 3)",
+    "example": "She studies contemporary English literature.",
+    "description": "她研究當代英國文學。"
+  },
+  {
+    "word": "contest",
+    "pos": "n./v.",
+    "chinese": "比賽、競爭 (p. 3)",
+    "example": "He won first prize in the singing contest.",
+    "description": "他在歌唱比賽中獲得了一等獎。"
+  },
+  {
+    "word": "contract",
+    "pos": "n./v.",
+    "chinese": "合約、契約 (p. 3)",
+    "example": "You must sign the contract before starting work.",
+    "description": "你在開始工作前必須簽署合約。"
+  },
+  {
+    "word": "contribute",
+    "pos": "v.",
+    "chinese": "貢獻、捐助 (p. 3)",
+    "example": "Many people contributed money to the charity.",
+    "description": "許多人向慈善機構捐助了金錢。"
+  },
+  {
+    "word": "contribution",
+    "pos": "n.",
+    "chinese": "貢獻、捐款 (p. 3)",
+    "example": "He made a significant contribution to the scientific research.",
+    "description": "他對這項科學研究做出了重大的貢獻。"
+  },
+  {
+    "word": "convert",
+    "pos": "v.",
+    "chinese": "轉變、轉換 (p. 3)",
+    "example": "They converted the old barn into a house.",
+    "description": "他們將舊穀倉轉變成（改建成）了一棟房子。"
+  },
+  {
+    "word": "convinced",
+    "pos": "adj.",
+    "chinese": "確信的 (p. 3)",
+    "example": "I am convinced that he is telling the truth.",
+    "description": "我確信他是在說實話。"
+  },
+  {
+    "word": "core",
+    "pos": "n./adj.",
+    "chinese": "核心 (p. 3)",
+    "example": "The core of the problem is a lack of communication.",
+    "description": "問題的核心是缺乏溝通。"
+  },
+  {
+    "word": "corporate",
+    "pos": "adj.",
+    "chinese": "公司的、法人的 (p. 3)",
+    "example": "The company is looking for a new corporate headquarters.",
+    "description": "公司正在尋找新的公司（企業）總部。"
+  },
+  {
+    "word": "council",
+    "pos": "n.",
+    "chinese": "理事會、議會 (p. 3)",
+    "example": "The local council has decided to build a new park.",
+    "description": "當地議會已決定建造一個新公園。"
+  },
+  {
+    "word": "county",
+    "pos": "n.",
+    "chinese": "郡、縣 (p. 3)",
+    "example": "There are several major cities in this county.",
+    "description": "這個郡（縣）內有幾個主要城市。"
+  },
+  {
+    "word": "courage",
+    "pos": "n.",
+    "chinese": "勇氣 (p. 3)",
+    "example": "It takes a lot of courage to speak in front of a large audience.",
+    "description": "在大群觀眾面前演講需要很大的勇氣。"
+  },
+  {
+    "word": "crash",
+    "pos": "n./v.",
+    "chinese": "撞擊、崩潰 (p. 3)",
+    "example": "The car was badly damaged in the crash.",
+    "description": "汽車在撞擊（車禍）中嚴重受損。"
+  },
+  {
+    "word": "creation",
+    "pos": "n.",
+    "chinese": "創造、創立 (p. 3)",
+    "example": "The creation of the Internet has changed the world.",
+    "description": "網際網路的創造改變了世界。"
+  },
+  {
+    "word": "creature",
+    "pos": "n.",
+    "chinese": "生物 (p. 3)",
+    "example": "The ocean is full of strange creatures.",
+    "description": "海洋充滿了奇怪的生物。"
+  },
+  {
+    "word": "credit",
+    "pos": "v.",
+    "chinese": "歸功於、信任 (p. 3)",
+    "example": "The researchers are credited with discovering the new vaccine.",
+    "description": "研究人員被歸功於發現了這種新疫苗。"
+  },
+  {
+    "word": "crew",
+    "pos": "n.",
+    "chinese": "全體工作人員 (p. 3)",
+    "example": "The plane's crew made sure all passengers were safe.",
+    "description": "飛機的全體機組人員確保了所有乘客的安全。"
+  },
+  {
+    "word": "crisis",
+    "pos": "n.",
+    "chinese": "危機 (p. 3)",
+    "example": "The country is facing a serious economic crisis.",
+    "description": "國家正臨嚴重的經濟危機。"
+  },
+  {
+    "word": "criterion",
+    "pos": "n.",
+    "chinese": "標準 (p. 3)",
+    "example": "What are the criteria for selecting the winner?",
+    "description": "評選獲勝者的標準是什麼？"
+  },
+  {
+    "word": "critic",
+    "pos": "n.",
+    "chinese": "評論家 (p. 3)",
+    "example": "The film received mixed reviews from the critics.",
+    "description": "這部電影收到了評論家們褒貶不一的評價。"
+  },
+  {
+    "word": "critical",
+    "pos": "adj.",
+    "chinese": "關鍵的、批評的 (p. 3)",
+    "example": "The first few hours after surgery are critical.",
+    "description": "手術後的最初幾個小時是關鍵的。"
+  },
+  {
+    "word": "criticism",
+    "pos": "n.",
+    "chinese": "批評 (p. 3)",
+    "example": "The government's plan has faced a lot of criticism.",
+    "description": "政府的計劃面臨了許多批評。"
+  },
+  {
+    "word": "criticize",
+    "pos": "v.",
+    "chinese": "批評 (p. 3)",
+    "example": "It's easy to criticize other people's work.",
+    "description": "批評別人的工作很容易。"
+  },
+  {
+    "word": "crop",
+    "pos": "n.",
+    "chinese": "農作物 (p. 3)",
+    "example": "Rice is the main crop in this region.",
+    "description": "稻米是該地區的主要農作物。"
+  },
+  {
+    "word": "crucial",
+    "pos": "adj.",
+    "chinese": "至關重要的 (p. 3)",
+    "example": "Education plays a crucial role in a person's life.",
+    "description": "教育在一個人的一生中扮演著至關重要的角色。"
+  },
+  {
+    "word": "cry",
+    "pos": "n.",
+    "chinese": "喊叫 (p. 3)",
+    "example": "We heard a cry for help from the garden.",
+    "description": "我們聽到花園傳來一聲呼救的喊叫。"
+  },
+  {
+    "word": "cure",
+    "pos": "v./n.",
+    "chinese": "治癒、療法 (p. 3)",
+    "example": "Doctors are searching for a cure for the common cold.",
+    "description": "醫生們正在尋找治療普通感冒的療法。"
+  },
+  {
+    "word": "current",
+    "pos": "n.",
+    "chinese": "水流、趨勢 (p. 3)",
+    "example": "The swimmer was swept away by a strong current.",
+    "description": "游泳者被一股強勁的水流沖走了。"
+  },
+  {
+    "word": "curve",
+    "pos": "n./v.",
+    "chinese": "曲線、彎曲 (p. 3)",
+    "example": "The road has many sharp curves.",
+    "description": "這條路有許多急轉彎（曲線）。"
+  },
+  {
+    "word": "curved",
+    "pos": "adj.",
+    "chinese": "弧形的、彎曲的 (p. 3)",
+    "example": "The knife has a curved blade.",
+    "description": "這把刀有一個彎曲的（弧形）刀刃。"
+  },
+  {
+    "word": "date",
+    "pos": "v.",
+    "chinese": "標註日期、確定年代",
+    "example": "The documents were dated back to the sixteenth century.",
+    "description": "這些文件的年代可以追溯到十六世紀。"
+  },
+  {
+    "word": "debate",
+    "pos": "n./v.",
+    "chinese": "辯論、討論",
+    "example": "The parliament is holding a debate on the new tax law.",
+    "description": "議會正在就新的稅法進行辯論。"
+  },
+  {
+    "word": "debt",
+    "pos": "n.",
+    "chinese": "債務",
+    "example": "The company is struggling to pay off its heavy debts.",
+    "description": "這家公司正努力償還其沉重的債務。"
+  },
+  {
+    "word": "decent",
+    "pos": "adj.",
+    "chinese": "正派的、體面的、還不錯的",
+    "example": "I just want to find a decent job with a good salary.",
+    "description": "我只是想找一份體面且薪水不錯的工作。"
+  },
+  {
+    "word": "declare",
+    "pos": "v.",
+    "chinese": "宣布、聲明",
+    "example": "The government has declared a state of emergency.",
+    "description": "政府已宣布進入緊急狀態。"
+  },
+  {
+    "word": "decline",
+    "pos": "v./n.",
+    "chinese": "下降、衰退、謝絕",
+    "example": "The number of tourists has declined significantly this year.",
+    "description": "今年遊客的人數顯著下降了。"
+  },
+  {
+    "word": "decorate",
+    "pos": "v.",
+    "chinese": "裝飾",
+    "example": "They are planning to decorate the room for the party.",
+    "description": "他們計畫為了派對來裝飾房間。"
+  },
+  {
+    "word": "decoration",
+    "pos": "n.",
+    "chinese": "裝飾物、裝潢",
+    "example": "The Christmas decorations were put up in early December.",
+    "description": "聖誕裝飾物在十二月初就掛起來了。"
+  },
+  {
+    "word": "decrease",
+    "pos": "v./n.",
+    "chinese": "減少",
+    "example": "We need to decrease our spending on luxury items.",
+    "description": "我們需要減少在奢侈品上的支出。"
+  },
+  {
+    "word": "deeply",
+    "pos": "adv.",
+    "chinese": "深深地",
+    "example": "I was deeply moved by the kindness of the strangers.",
+    "description": "我被陌生人的善意深深地打動了。"
+  },
+  {
+    "word": "defeat",
+    "pos": "v./n.",
+    "chinese": "擊敗、失敗",
+    "example": "The army was defeated in a decisive battle.",
+    "description": "軍隊在一場決定性的戰鬥中被擊敗了。"
+  },
+  {
+    "word": "defend",
+    "pos": "v.",
+    "chinese": "防禦、辯護",
+    "example": "The lawyer is preparing to defend his client in court.",
+    "description": "律師正準備在法庭上為他的當事人辯護。"
+  },
+  {
+    "word": "defense",
+    "pos": "n.",
+    "chinese": "防禦、國防",
+    "example": "The country is increasing its spending on national defense.",
+    "description": "國家正在增加其在國防上的支出。"
+  },
+  {
+    "word": "delay",
+    "pos": "v./n.",
+    "chinese": "延遲、耽擱",
+    "example": "The train was delayed for two hours due to a technical fault.",
+    "description": "由於技術故障，火車延遲了兩個小時。"
+  },
+  {
+    "word": "deliberate",
+    "pos": "adj.",
+    "chinese": "故意的、謹慎的",
+    "example": "The speech was a deliberate attempt to provoke the audience.",
+    "description": "這場演說是一次故意的企圖，旨在挑釁觀眾。"
+  },
+  {
+    "word": "deliberately",
+    "pos": "adv.",
+    "chinese": "故意地",
+    "example": "I believe he deliberately ignored my email.",
+    "description": "我相信他故意無視了我的電子郵件。"
+  },
+  {
+    "word": "delivery",
+    "pos": "n.",
+    "chinese": "遞送、交付",
+    "example": "The store offers free delivery on orders over fifty dollars.",
+    "description": "該商店對超過五十美元的訂單提供免費遞送服務。"
+  },
+  {
+    "word": "demand",
+    "pos": "n./v.",
+    "chinese": "要求、需求",
+    "example": "There is a high demand for organic vegetables these days.",
+    "description": "現今對有機蔬菜的需求很高。"
+  },
+  {
+    "word": "demonstrate",
+    "pos": "v.",
+    "chinese": "證明、示範、遊行抗議",
+    "example": "The experiment was designed to demonstrate the effects of heat.",
+    "description": "這個實驗旨在示範（證明）熱度的影響。"
+  },
+  {
+    "word": "deny",
+    "pos": "v.",
+    "chinese": "否認、拒絕",
+    "example": "He denied taking the money from the safe.",
+    "description": "他否認從保險箱裡拿了錢。"
+  },
+  {
+    "word": "depressed",
+    "pos": "adj.",
+    "chinese": "沮喪的、憂鬱的",
+    "example": "She felt depressed after failing the exam.",
+    "description": "她在考試不及格後感到很沮喪。"
+  },
+  {
+    "word": "depressing",
+    "pos": "adj.",
+    "chinese": "令人沮喪的",
+    "example": "The news about the environment is very depressing.",
+    "description": "關於環境的消息非常令人沮喪。"
+  },
+  {
+    "word": "depth",
+    "pos": "n.",
+    "chinese": "深度",
+    "example": "The divers reached a depth of thirty meters.",
+    "description": "潛水員們達到了三十公尺的深度。"
+  },
+  {
+    "word": "desert",
+    "pos": "v.",
+    "chinese": "拋棄、遺棄",
+    "example": "The village was deserted after the volcano erupted.",
+    "description": "火山爆發後，這個村莊就被遺棄（荒廢）了。"
+  },
+  {
+    "word": "deserve",
+    "pos": "v.",
+    "chinese": "值得、應得",
+    "example": "After all that hard work, you deserve a long holiday.",
+    "description": "在做了那麼多努力之後，你值得擁有一個長假。"
+  },
+  {
+    "word": "desire",
+    "pos": "n./v.",
+    "chinese": "渴望、慾望",
+    "example": "He has a strong desire to travel the world.",
+    "description": "他有著環遊世界的強烈渴望。"
+  },
+  {
+    "word": "desperate",
+    "pos": "adj.",
+    "chinese": "絕望的、渴望的、急迫的",
+    "example": "They were desperate for food and clean water.",
+    "description": "他們非常急迫地需要食物和乾淨的水。"
+  },
+  {
+    "word": "detail",
+    "pos": "v.",
+    "chinese": "詳述",
+    "example": "The report details the events leading up to the accident.",
+    "description": "該報告詳述了導致事故發生的各項事件。"
+  },
+  {
+    "word": "detailed",
+    "pos": "adj.",
+    "chinese": "詳細的",
+    "example": "The police provided a detailed description of the suspect.",
+    "description": "警方提供了關於嫌疑犯的詳細描述。"
+  },
+  {
+    "word": "detect",
+    "pos": "v.",
+    "chinese": "偵測、察覺",
+    "example": "The smoke alarm is designed to detect even small fires.",
+    "description": "煙霧報警器旨在偵測即使是很小的火災。"
+  },
+  {
+    "word": "dig",
+    "pos": "v.",
+    "chinese": "挖掘",
+    "example": "The dog was digging a hole in the backyard.",
+    "description": "這隻狗正在後院挖一個洞。"
+  },
+  {
+    "word": "discipline",
+    "pos": "n.",
+    "chinese": "紀律、學科",
+    "example": "The teacher maintains strict discipline in the classroom.",
+    "description": "老師在教室裡維持著嚴格的紀律。"
+  },
+  {
+    "word": "discount",
+    "pos": "v.",
+    "chinese": "忽視、不予考慮、打折",
+    "example": "We cannot discount the possibility of further delays.",
+    "description": "我們不能忽視進一步延遲的可能性。"
+  },
+  {
+    "word": "dismiss",
+    "pos": "v.",
+    "chinese": "解僱、開除、不予理會",
+    "example": "The boss dismissed him for being late three times.",
+    "description": "老闆因為他遲到三次而解僱了他。"
+  },
+  {
+    "word": "display",
+    "pos": "v./n.",
+    "chinese": "顯示、展示",
+    "example": "The new products are on display in the window.",
+    "description": "新產品正在櫥窗裡展示。"
+  },
+  {
+    "word": "distribute",
+    "pos": "v.",
+    "chinese": "分發、分配",
+    "example": "The organization distributes food to the poor.",
+    "description": "該組織將食物分發給窮人。"
+  },
+  {
+    "word": "distribution",
+    "pos": "n.",
+    "chinese": "分配、分佈",
+    "example": "The map shows the distribution of the population.",
+    "description": "地圖顯示了人口的分佈情況。"
+  },
+  {
+    "word": "divide",
+    "pos": "n.",
+    "chinese": "分歧、界線",
+    "example": "There is a deep divide between the two political parties.",
+    "description": "這兩個政黨之間存在著深的分歧。"
+  },
+  {
+    "word": "division",
+    "pos": "n.",
+    "chinese": "部門、分配、分開",
+    "example": "She works in the sales division of the company.",
+    "description": "她在公司的銷售部門工作。"
+  },
+  {
+    "word": "document",
+    "pos": "v.",
+    "chinese": "記錄、證明",
+    "example": "The film documents the lives of rare animals in the wild.",
+    "description": "這部電影記錄了野外稀有動物的生活。"
+  },
+  {
+    "word": "domestic",
+    "pos": "adj.",
+    "chinese": "國內的、家庭的",
+    "example": "The airline handles both domestic and international flights.",
+    "description": "這家航空公司同時處理國內和國際航班。"
+  },
+  {
+    "word": "dominate",
+    "pos": "v.",
+    "chinese": "支配、統治、在...中占首要地位",
+    "example": "One large company dominates the local market.",
+    "description": "一家大公司支配了當地市場。"
+  },
+  {
+    "word": "downward",
+    "pos": "adj./adv.",
+    "chinese": "向下的",
+    "example": "The price of oil showed a downward trend this month.",
+    "description": "本月油價呈現下降趨勢。"
+  },
+  {
+    "word": "dozen",
+    "pos": "n./det.",
+    "chinese": "一打、十二個",
+    "example": "I bought a dozen eggs from the market.",
+    "description": "我從市場買了一打雞蛋。"
+  },
+  {
+    "word": "draft",
+    "pos": "n./v.",
+    "chinese": "草案、起草",
+    "example": "He is working on the first draft of his new book.",
+    "description": "他正在起草他新書的第一稿。"
+  },
+  {
+    "word": "drag",
+    "pos": "v.",
+    "chinese": "拖曳",
+    "example": "I had to drag the heavy suitcase across the floor.",
+    "description": "我不得不把沉重的行李箱在地板上拖過。"
+  },
+  {
+    "word": "dramatic",
+    "pos": "adj.",
+    "chinese": "劇烈的、戲劇性的",
+    "example": "There has been a dramatic increase in sales recently.",
+    "description": "最近銷量有了劇烈的增長。"
+  },
+  {
+    "word": "edit",
+    "pos": "v.",
+    "chinese": "編輯",
+    "example": "It took her several hours to edit the final chapter of the book.",
+    "description": "她花了幾個小時來編輯這本書的最後一章。"
+  },
+  {
+    "word": "edition",
+    "pos": "n.",
+    "chinese": "版本",
+    "example": "The second edition of the textbook includes new research.",
+    "description": "這本教科書的第二版包含了新的研究內容。"
+  },
+  {
+    "word": "efficient",
+    "pos": "adj.",
+    "chinese": "有效率的",
+    "example": "The new heating system is much more efficient than the old one.",
+    "description": "新的暖氣系統比舊的高效得多。"
+  },
+  {
+    "word": "elderly",
+    "pos": "adj.",
+    "chinese": "年長的、老年的",
+    "example": "The charity provides support for elderly people living alone.",
+    "description": "這個慈善機構為獨居的老年人提供支援。"
+  },
+  {
+    "word": "elect",
+    "pos": "v.",
+    "chinese": "選舉、推選",
+    "example": "The citizens will elect a new president next month.",
+    "description": "公民們將在下個月選出一位新總統。"
+  },
+  {
+    "word": "elsewhere",
+    "pos": "adv.",
+    "chinese": "在別處",
+    "example": "The price is high here, so I might look for it elsewhere.",
+    "description": "這裡的價格很高，所以我可能會去別處找找看。"
+  },
+  {
+    "word": "emerge",
+    "pos": "v.",
+    "chinese": "出現、浮現",
+    "example": "New evidence has emerged during the police investigation.",
+    "description": "在警方調查期間，出現了新的證據。"
+  },
+  {
+    "word": "emotional",
+    "pos": "adj.",
+    "chinese": "情感的、情緒激動的",
+    "example": "The reunion with her family was a very emotional moment.",
+    "description": "與家人重逢是一個非常激動人心的時刻。"
+  },
+  {
+    "word": "emphasis",
+    "pos": "n.",
+    "chinese": "強調、重點",
+    "example": "The school puts a lot of emphasis on creative writing.",
+    "description": "這間學校非常強調創意寫作。"
+  },
+  {
+    "word": "emphasize",
+    "pos": "v.",
+    "chinese": "強調",
+    "example": "I want to emphasize the importance of finishing the work on time.",
+    "description": "我想強調準時完成工作的重要性。"
+  },
+  {
+    "word": "enable",
+    "pos": "v.",
+    "chinese": "使能夠",
+    "example": "This software will enable you to create professional videos.",
+    "description": "這款軟體將使你能夠製作專業的影片。"
+  },
+  {
+    "word": "encounter",
+    "pos": "v./n.",
+    "chinese": "遇到、遭遇",
+    "example": "We encountered some unexpected problems during the project.",
+    "description": "我們在專案期間遇到了一些意想不到的問題。"
+  },
+  {
+    "word": "engage",
+    "pos": "v.",
+    "chinese": "參與、從事、吸引",
+    "example": "The teacher tried to engage the students in the discussion.",
+    "description": "老師試圖讓學生參與到討論中。"
+  },
+  {
+    "word": "enhance",
+    "pos": "v.",
+    "chinese": "提高、增強",
+    "example": "The new lighting will enhance the beauty of the room.",
+    "description": "新的燈光將增強房間的美感。"
+  },
+  {
+    "word": "ensure",
+    "pos": "v.",
+    "chinese": "確保",
+    "example": "Please ensure that all the windows are closed before leaving.",
+    "description": "請在離開前確保所有的窗戶都已關閉。"
+  },
+  {
+    "word": "enthusiasm",
+    "pos": "n.",
+    "chinese": "熱情、熱忱",
+    "example": "She showed great enthusiasm for her new job.",
+    "description": "她對她的新工作表現出了極大的熱情。"
+  },
+  {
+    "word": "enthusiastic",
+    "pos": "adj.",
+    "chinese": "熱情的、熱心的",
+    "example": "The audience was very enthusiastic and clapped loudly.",
+    "description": "觀眾非常熱情，並大聲鼓掌。"
+  },
+  {
+    "word": "entire",
+    "pos": "adj.",
+    "chinese": "整個的、全部的",
+    "example": "I spent the entire day cleaning the house.",
+    "description": "我花了整整一天的時間打掃房子。"
+  },
+  {
+    "word": "entirely",
+    "pos": "adv.",
+    "chinese": "完全地",
+    "example": "I am not entirely convinced by his explanation.",
+    "description": "我並不完全相信他的解釋。"
+  },
+  {
+    "word": "equal",
+    "pos": "n.",
+    "chinese": "平等的人或物",
+    "example": "In terms of talent, she has no equal in the field of music.",
+    "description": "就天賦而言，她在音樂領域沒有對手（平等的人）。"
+  },
+  {
+    "word": "establish",
+    "pos": "v.",
+    "chinese": "建立、設立",
+    "example": "The company was established in 1950.",
+    "description": "這間公司成立於 1950 年。"
+  },
+  {
+    "word": "estate",
+    "pos": "n.",
+    "chinese": "地產、遺產",
+    "example": "He left his entire estate to his daughter.",
+    "description": "他將全部遺產留給了他的女兒。"
+  },
+  {
+    "word": "estimate",
+    "pos": "v./n.",
+    "chinese": "估計、估價",
+    "example": "The experts estimate that the project will take two years.",
+    "description": "專家估計這個專案將花費兩年的時間。"
+  },
+  {
+    "word": "ethical",
+    "pos": "adj.",
+    "chinese": "倫理的、合乎道德的",
+    "example": "There are serious ethical issues involved in this research.",
+    "description": "這項研究涉及嚴重的倫理問題。"
+  },
+  {
+    "word": "evaluate",
+    "pos": "v.",
+    "chinese": "評估、評價",
+    "example": "The committee will evaluate the candidates' performances.",
+    "description": "委員會將評估候選人們的表現。"
+  },
+  {
+    "word": "even",
+    "pos": "adj.",
+    "chinese": "平坦的、相等的",
+    "example": "The two teams were very even in terms of skill.",
+    "description": "這兩支球隊在技術上非常勢均力敵（相等）。"
+  },
+  {
+    "word": "evil",
+    "pos": "adj./n.",
+    "chinese": "邪惡的、惡行",
+    "example": "The story is about the struggle between good and evil.",
+    "description": "這個故事是關於善與惡之間的鬥爭。"
+  },
+  {
+    "word": "examination",
+    "pos": "n.",
+    "chinese": "檢查、審查、考試",
+    "example": "The doctor gave the patient a thorough physical examination.",
+    "description": "醫生為病人進行了全面的身體檢查。"
+  },
+  {
+    "word": "excuse",
+    "pos": "n./v.",
+    "chinese": "藉口、原諒",
+    "example": "He made up a clever excuse for being late.",
+    "description": "他為遲到編造了一個聰明的藉口。"
+  },
+  {
+    "word": "executive",
+    "pos": "n./adj.",
+    "chinese": "主管、執行的",
+    "example": "She is a high-level executive in a large corporation.",
+    "description": "她是一間大公司的高階主管。"
+  },
+  {
+    "word": "exhibit",
+    "pos": "v./n.",
+    "chinese": "展覽、展示",
+    "example": "The museum will exhibit the artist's latest paintings.",
+    "description": "博物館將展出這位藝術家的最新畫作。"
+  },
+  {
+    "word": "existence",
+    "pos": "n.",
+    "chinese": "存在",
+    "example": "Scientists are studying the existence of life on other planets.",
+    "description": "科學家們正在研究其他星球上生命存在的可能性。"
+  },
+  {
+    "word": "exit",
+    "pos": "v.",
+    "chinese": "離開、退出",
+    "example": "Please exit the building through the back door.",
+    "description": "請由後門離開這棟建築。"
+  },
+  {
+    "word": "expectation",
+    "pos": "n.",
+    "chinese": "期待、預期",
+    "example": "The results of the test met our expectations.",
+    "description": "測試結果符合我們的預期。"
+  },
+  {
+    "word": "expense",
+    "pos": "n.",
+    "chinese": "費用、開支",
+    "example": "The company will pay for your travel expenses.",
+    "description": "公司將支付你的旅遊（差旅）費用。"
+  },
+  {
+    "word": "exploration",
+    "pos": "n.",
+    "chinese": "探索、探測",
+    "example": "Space exploration has led to many scientific discoveries.",
+    "description": "太空探索帶來了許多科學發現。"
+  },
+  {
+    "word": "expose",
+    "pos": "v.",
+    "chinese": "暴露、揭露",
+    "example": "The investigation exposed a lot of corruption in the government.",
+    "description": "調查揭露了政府中的許多腐敗行為。"
+  },
+  {
+    "word": "extend",
+    "pos": "v.",
+    "chinese": "延長、延伸",
+    "example": "The deadline for the project has been extended by one week.",
+    "description": "該專案的截止日期已延長了一週。"
+  },
+  {
+    "word": "extent",
+    "pos": "n.",
+    "chinese": "程度、範圍",
+    "example": "I agree with you to a certain extent.",
+    "description": "在某種程度上我同意你的觀點。"
+  },
+  {
+    "word": "external",
+    "pos": "adj.",
+    "chinese": "外部的、外面的",
+    "example": "The external walls of the house need to be painted.",
+    "description": "房子的外牆需要粉刷。"
+  },
+  {
+    "word": "extraordinary",
+    "pos": "adj.",
+    "chinese": "非凡的、特別的",
+    "example": "She has an extraordinary talent for playing the piano.",
+    "description": "她在彈鋼琴方面有著非凡的天賦。"
+  },
+  {
+    "word": "extreme",
+    "pos": "n.",
+    "chinese": "極端",
+    "example": "He tends to go to extremes in his political views.",
+    "description": "他的政治觀點傾向於走極端。"
+  },
+  {
+    "word": "failure",
+    "pos": "n.",
+    "chinese": "失敗、衰退 (p. 4)",
+    "example": "The whole project ended in total failure.",
+    "description": "整個專案以完全失敗告終。"
+  },
+  {
+    "word": "faith",
+    "pos": "n.",
+    "chinese": "信心、信任、宗教信仰 (p. 4)",
+    "example": "I have full faith in your ability to succeed.",
+    "description": "我對你成功的能力充滿信心。"
+  },
+  {
+    "word": "favor",
+    "pos": "v.",
+    "chinese": "偏袒、贊成 (n. 為 B1) (p. 4)",
+    "example": "The current tax system tends to favor the wealthy.",
+    "description": "目前的稅收制度傾向於偏袒富人。"
+  },
+  {
+    "word": "feather",
+    "pos": "n.",
+    "chinese": "羽毛 (p. 4)",
+    "example": "The bird preened its feathers after the rain.",
+    "description": "雨後那隻鳥正在整理它的羽毛。"
+  },
+  {
+    "word": "fee",
+    "pos": "n.",
+    "chinese": "費用、服務費 (p. 4)",
+    "example": "The university has decided to increase tuition fees.",
+    "description": "大學已決定調漲學費（教育費）。"
+  },
+  {
+    "word": "feed",
+    "pos": "n.",
+    "chinese": "飼料、(資訊)饋送 (v. 為 A2) (p. 4)",
+    "example": "We need to buy more cattle feed for the winter.",
+    "description": "我們需要為冬天購買更多牲畜飼料。"
+  },
+  {
+    "word": "feedback",
+    "pos": "n.",
+    "chinese": "反饋、回饋意見 (p. 4)",
+    "example": "We welcome feedback from our customers to improve our service.",
+    "description": "我們歡迎客戶提供回饋意見，以改善我們的服務。"
+  },
+  {
+    "word": "feel",
+    "pos": "n.",
+    "chinese": "感覺、觸感 (v. 為 A1) (p. 4)",
+    "example": "I love the feel of silk against my skin.",
+    "description": "我喜歡絲綢貼在皮膚上的觸感。"
+  },
+  {
+    "word": "fellow",
+    "pos": "adj.",
+    "chinese": "同伴的、同事的 (p. 4)",
+    "example": "She is highly respected by her fellow scientists.",
+    "description": "她深受同事（科學家同伴）的尊敬。"
+  },
+  {
+    "word": "figure",
+    "pos": "v.",
+    "chinese": "計算、認為 (n. 為 A2) (p. 4)",
+    "example": "We figured that it would be cheaper to take the bus.",
+    "description": "我們認為（計算後覺得）搭公車會比較便宜。"
+  },
+  {
+    "word": "file",
+    "pos": "v.",
+    "chinese": "歸檔、提出(訴訟等) (n. 為 B1) (p. 4)",
+    "example": "The company filed for bankruptcy last month.",
+    "description": "這間公司上個月提出了破產申請。"
+  },
+  {
+    "word": "finance",
+    "pos": "n./v.",
+    "chinese": "金融、資助、財務 (p. 4)",
+    "example": "The project was financed by a government grant.",
+    "description": "該專案是由政府撥款資助的。"
+  },
+  {
+    "word": "finding",
+    "pos": "n.",
+    "chinese": "調查或研究的發現、結果 (p. 4)",
+    "example": "The report’s findings suggest that the problem is getting worse.",
+    "description": "報告的調查結果顯示問題正在惡化。"
+  },
+  {
+    "word": "firm",
+    "pos": "n.",
+    "chinese": "公司 (p. 4)",
+    "example": "He works for a leading law firm in the city.",
+    "description": "他在市內一家頂尖的律師事務所（公司）工作。"
+  },
+  {
+    "word": "fix",
+    "pos": "n.",
+    "chinese": "解決方法、困境 (v. 為 A2) (p. 4)",
+    "example": "There is no quick fix for the nation’s economic problems.",
+    "description": "國家的經濟問題沒有快速的解決方法。"
+  },
+  {
+    "word": "flame",
+    "pos": "n.",
+    "chinese": "火焰 (p. 4)",
+    "example": "The house was engulfed in flames within minutes.",
+    "description": "幾分鐘內這棟房子就被火焰吞沒了。"
+  },
+  {
+    "word": "flash",
+    "pos": "n./v.",
+    "chinese": "閃光、閃現 (p. 4)",
+    "example": "A flash of lightning lit up the night sky.",
+    "description": "一道閃電照亮了夜空。"
+  },
+  {
+    "word": "flexible",
+    "pos": "adj.",
+    "chinese": "有彈性的、靈活的 (p. 4)",
+    "example": "We offer flexible working hours to our employees.",
+    "description": "我們為員工提供靈活的（有彈性的）工作時間。"
+  },
+  {
+    "word": "float",
+    "pos": "v.",
+    "chinese": "漂浮、浮動 (p. 4)",
+    "example": "The empty bottle floated on the surface of the water.",
+    "description": "空瓶子漂浮在水面上。"
+  },
+  {
+    "word": "fold",
+    "pos": "n.",
+    "chinese": "摺疊、摺痕 (v. 為 B1) (p. 4)",
+    "example": "The paper had a deep fold down the middle.",
+    "description": "這張紙中間有一道很深的摺痕。"
+  },
+  {
+    "word": "folding",
+    "pos": "adj.",
+    "chinese": "可摺疊的 (p. 4)",
+    "example": "We brought some folding chairs for the picnic.",
+    "description": "我們為野餐帶了一些可摺疊的椅子。"
+  },
+  {
+    "word": "following",
+    "pos": "prep.",
+    "chinese": "在...之後 (adj. 為 A2) (p. 4)",
+    "example": "Following the meeting, a short press conference was held.",
+    "description": "會議之後（在...之後），舉行了一場簡短的記者會。"
+  },
+  {
+    "word": "forgive",
+    "pos": "v.",
+    "chinese": "原諒 (p. 5)",
+    "example": "I can’t forgive him for what he did to me.",
+    "description": "我無法原諒他對我所做的事。"
+  },
+  {
+    "word": "former",
+    "pos": "adj.",
+    "chinese": "之前的、前任的 (p. 5)",
+    "example": "The former president attended the opening ceremony.",
+    "description": "前任總統出席了開幕典禮。"
+  },
+  {
+    "word": "fortune",
+    "pos": "n.",
+    "chinese": "財富、運氣 (p. 5)",
+    "example": "He made a fortune by selling his software company.",
+    "description": "他藉由出售軟體公司賺了一大筆財富。"
+  },
+  {
+    "word": "forward",
+    "pos": "adj.",
+    "chinese": "向前的、前衛的 (adv. 為 A2) (p. 5)",
+    "example": "The company is looking for a forward-thinking manager.",
+    "description": "公司正在尋找一位具有前瞻（向前）思維的經理。"
+  },
+  {
+    "word": "found",
+    "pos": "v.",
+    "chinese": "創立、建立 (p. 5)",
+    "example": "The university was founded in the early nineteenth century.",
+    "description": "這所大學成立於十九世紀初。"
+  },
+  {
+    "word": "free",
+    "pos": "v.",
+    "chinese": "釋放、解放 (adj. 為 A1) (p. 5)",
+    "example": "The hostages were finally freed after two weeks.",
+    "description": "人質在兩週後終於被釋放了。"
+  },
+  {
+    "word": "freedom",
+    "pos": "n.",
+    "chinese": "自由 (p. 5)",
+    "example": "Everyone should have the freedom to express their opinions.",
+    "description": "每個人都應該有表達意見的自由。"
+  },
+  {
+    "word": "frequency",
+    "pos": "n.",
+    "chinese": "頻率、發生次數 (p. 5)",
+    "example": "The frequency of the bus service has been increased.",
+    "description": "公車服務的頻率（班次次數）已經增加了。"
+  },
+  {
+    "word": "fuel",
+    "pos": "v.",
+    "chinese": "為...提供燃料、激起 (n. 為 B1) (p. 5)",
+    "example": "The scandal fueled public anger against the government.",
+    "description": "這起醜聞激起了公眾對政府的憤怒。"
+  },
+  {
+    "word": "fully",
+    "pos": "adv.",
+    "chinese": "完全地 (p. 5)",
+    "example": "I fully understand the situation you are in.",
+    "description": "我完全理解你所處的情況。"
+  },
+  {
+    "word": "function",
+    "pos": "v.",
+    "chinese": "運作、起作用 (n. 為 B1) (p. 5)",
+    "example": "The machine stopped functioning properly after the power cut.",
+    "description": "停電後這台機器停止了正常運作。"
+  },
+  {
+    "word": "fund",
+    "pos": "n./v.",
+    "chinese": "基金、資助、專款 (p. 5)",
+    "example": "The research is funded by several large corporations.",
+    "description": "這項研究是由幾間大公司資助的。"
+  },
+  {
+    "word": "fundamental",
+    "pos": "adj.",
+    "chinese": "基本的、根本的 (p. 5)",
+    "example": "There are fundamental differences between the two theories.",
+    "description": "這兩種理論之間存在著根本的差異。"
+  },
+  {
+    "word": "funding",
+    "pos": "n.",
+    "chinese": "資金、經費 (p. 5)",
+    "example": "The project is struggling due to a lack of funding.",
+    "description": "由於缺乏資金（經費），該專案正陷入困境。"
+  },
+  {
+    "word": "furthermore",
+    "pos": "adv.",
+    "chinese": "此外、而且 (p. 5)",
+    "example": "The house is beautiful; furthermore, it’s in a great location.",
+    "description": "這棟房子很漂亮；此外，它的位置也很好。"
+  },
+  {
+    "word": "gain",
+    "pos": "v./n.",
+    "chinese": "獲得、增加",
+    "example": "The company has gained a large share of the market this year.",
+    "description": "該公司今年獲得了巨大的市場份額。"
+  },
+  {
+    "word": "gang",
+    "pos": "n.",
+    "chinese": "幫派、一群",
+    "example": "The police are investigating the activities of a local gang.",
+    "description": "警方正在調查當地一個幫派的活動。"
+  },
+  {
+    "word": "generate",
+    "pos": "v.",
+    "chinese": "產生、引起",
+    "example": "The new wind farm will generate enough electricity for the whole town.",
+    "description": "新的風力發電場將為整個城鎮產生充足的電力。"
+  },
+  {
+    "word": "genre",
+    "pos": "n.",
+    "chinese": "（文藝作品的）類型、流派",
+    "example": "My favorite genre of movies is science fiction.",
+    "description": "我最喜歡的電影類型是科幻片。"
+  },
+  {
+    "word": "goods",
+    "pos": "n.",
+    "chinese": "貨物、商品",
+    "example": "The store sells a wide range of household goods.",
+    "description": "這家店販售各式各樣的家庭用品（貨物）。"
+  },
+  {
+    "word": "govern",
+    "pos": "v.",
+    "chinese": "治理、統治、支配",
+    "example": "The country is governed by a coalition of several parties.",
+    "description": "這個國家由幾個政黨組成的聯盟所治理。"
+  },
+  {
+    "word": "governor",
+    "pos": "n.",
+    "chinese": "州長、董事、主管",
+    "example": "The governor signed the new law yesterday.",
+    "description": "州長昨天簽署了這項新法律。"
+  },
+  {
+    "word": "grab",
+    "pos": "v.",
+    "chinese": "抓住、奪取",
+    "example": "He grabbed his bag and ran out of the door.",
+    "description": "他抓起提包跑出了門。"
+  },
+  {
+    "word": "grade",
+    "pos": "v.",
+    "chinese": "分級、評分 (n. 為 B1)",
+    "example": "The eggs are graded by size before being packed.",
+    "description": "雞蛋在包裝前會按大小進行分級。"
+  },
+  {
+    "word": "gradually",
+    "pos": "adv.",
+    "chinese": "逐漸地",
+    "example": "The weather is gradually getting warmer.",
+    "description": "天氣正逐漸變暖。"
+  },
+  {
+    "word": "grand",
+    "pos": "adj.",
+    "chinese": "宏偉的、壯麗的、重大的",
+    "example": "The hotel has a grand staircase in the lobby.",
+    "description": "這家飯店的大廳有一座宏偉的樓梯。"
+  },
+  {
+    "word": "grant",
+    "pos": "v./n.",
+    "chinese": "准予、補助金、撥款",
+    "example": "The government has decided to grant a visa to the refugee.",
+    "description": "政府已決定准予該難民簽證。"
+  },
+  {
+    "word": "guarantee",
+    "pos": "v./n.",
+    "chinese": "保證、擔保",
+    "example": "The manufacturer guarantees the product for one year.",
+    "description": "製造商對該產品保證（保固）一年。"
+  },
+  {
+    "word": "handle",
+    "pos": "v./n.",
+    "chinese": "處理、應對、把手",
+    "example": "The manager is experienced enough to handle the crisis.",
+    "description": "經理非常有經驗，足以處理（應對）這場危機。"
+  },
+  {
+    "word": "harm",
+    "pos": "n./v.",
+    "chinese": "傷害、損害",
+    "example": "Pollution can cause serious harm to the environment.",
+    "description": "污染會對環境造成嚴重的傷害（損害）。"
+  },
+  {
+    "word": "harmful",
+    "pos": "adj.",
+    "chinese": "有害的",
+    "example": "These chemicals are harmful to human health.",
+    "description": "這些化學物質對人體健康是有害的。"
+  },
+  {
+    "word": "hearing",
+    "pos": "n.",
+    "chinese": "聽力、聽證會 (v. 為 A1)",
+    "example": "The committee held a public hearing on the new law.",
+    "description": "委員會就這項新法律舉行了公開聽證會。"
+  },
+  {
+    "word": "heaven",
+    "pos": "n.",
+    "chinese": "天堂、極樂",
+    "example": "The beautiful island was like a piece of heaven.",
+    "description": "這座美麗的小島就像一片天堂。"
+  },
+  {
+    "word": "heel",
+    "pos": "n.",
+    "chinese": "腳後跟、鞋跟",
+    "example": "She wore a pair of shoes with high heels.",
+    "description": "她穿著一雙高跟（鞋跟）鞋。"
+  },
+  {
+    "word": "hell",
+    "pos": "n.",
+    "chinese": "地獄、苦難",
+    "example": "The soldiers described the war as a living hell.",
+    "description": "士兵們將戰爭描述為人間地獄。"
+  },
+  {
+    "word": "high",
+    "pos": "n.",
+    "chinese": "高點、最高水平 (adj. 為 A1)",
+    "example": "The price of oil reached a new high last month.",
+    "description": "油價上個月達到了新的高點（最高水平）。"
+  },
+  {
+    "word": "hire",
+    "pos": "n.",
+    "chinese": "租用、雇用 (v. 為 B1)",
+    "example": "The car hire for the weekend cost more than I expected.",
+    "description": "週末的汽車租用費用比我預期的要多。"
+  },
+  {
+    "word": "hold",
+    "pos": "n.",
+    "chinese": "掌握、握住 (v. 為 A2)",
+    "example": "She kept a firm hold on her child's hand.",
+    "description": "她牢牢地握住（掌握）著孩子的手。"
+  },
+  {
+    "word": "hollow",
+    "pos": "adj.",
+    "chinese": "空心的、虛偽的",
+    "example": "The trunk of the old tree was hollow.",
+    "description": "那棵老樹的樹幹是空心的。"
+  },
+  {
+    "word": "holy",
+    "pos": "adj.",
+    "chinese": "神聖的",
+    "example": "The city is a holy place for many people.",
+    "description": "這座城市對許多人來說是一個神聖的地方。"
+  },
+  {
+    "word": "honor",
+    "pos": "n./v.",
+    "chinese": "榮譽、尊敬",
+    "example": "It is a great honor to be invited to this ceremony.",
+    "description": "受邀參加這個典禮是一項極大的榮譽。"
+  },
+  {
+    "word": "host",
+    "pos": "v.",
+    "chinese": "主辦、主持 (n. 為 B1)",
+    "example": "The country will host the next Olympic Games.",
+    "description": "這個國家將主辦下一屆奧林匹克運動會。"
+  },
+  {
+    "word": "household",
+    "pos": "n.",
+    "chinese": "家庭、戶",
+    "example": "Many households are struggling with rising energy costs.",
+    "description": "許多家庭正努力應對不斷上漲的能源支出。"
+  },
+  {
+    "word": "housing",
+    "pos": "n.",
+    "chinese": "住宅、住房",
+    "example": "The city is facing a serious housing shortage.",
+    "description": "這座城市正面臨嚴重的住房短缺。"
+  },
+  {
+    "word": "humor",
+    "pos": "n.",
+    "chinese": "幽默感",
+    "example": "He has a great sense of humor and makes everyone laugh.",
+    "description": "他非常有幽默感，總是讓大家發笑。"
+  },
+  {
+    "word": "humorous",
+    "pos": "adj.",
+    "chinese": "幽默的、風趣的",
+    "example": "The book is a humorous account of his travels.",
+    "description": "這本書是他旅遊經歷的幽默記錄。"
+  },
+  {
+    "word": "hunt",
+    "pos": "n.",
+    "chinese": "狩獵、搜尋 (v. 為 B1)",
+    "example": "The police are on a hunt for the escaped prisoner.",
+    "description": "警方正對逃犯進行搜尋。"
+  },
+  {
+    "word": "hunting",
+    "pos": "n.",
+    "chinese": "狩獵",
+    "example": "Many people are opposed to hunting for sport.",
+    "description": "許多人反對將狩獵作為運動。"
+  },
+  {
+    "word": "hurt",
+    "pos": "n.",
+    "chinese": "傷害、痛苦 (v. 為 A2)",
+    "example": "The divorce caused a lot of emotional hurt.",
+    "description": "離婚造成了許多情感上的傷害（痛苦）。"
+  },
+  {
+    "word": "ideal",
+    "pos": "n.",
+    "chinese": "理想 (adj. 為 A2)",
+    "example": "We should strive to reach our political ideals.",
+    "description": "我們應該努力達成我們的政治理想。"
+  },
+  {
+    "word": "illustrate",
+    "pos": "v.",
+    "chinese": "說明、闡明、插畫",
+    "example": "The teacher used a diagram to illustrate the process.",
+    "description": "老師用圖表來詳細說明（闡明）這個過程。"
+  },
+  {
+    "word": "illustration",
+    "pos": "n.",
+    "chinese": "插圖、實例",
+    "example": "The book is full of beautiful illustrations.",
+    "description": "這本書充滿了漂亮的插圖。"
+  },
+  {
+    "word": "imagination",
+    "pos": "n.",
+    "chinese": "想像力",
+    "example": "The writer has a very vivid imagination.",
+    "description": "這位作者有著非常豐富（生動）的想像力。"
+  },
+  {
+    "word": "impatient",
+    "pos": "adj.",
+    "chinese": "不耐煩的",
+    "example": "The driver became impatient with the traffic jam.",
+    "description": "司機對塞車感到不耐煩。"
+  },
+  {
+    "word": "imply",
+    "pos": "v.",
+    "chinese": "暗示、意指",
+    "example": "The report implies that the crisis is getting worse.",
+    "description": "報告暗示（意指）這場危機正在惡化。"
+  },
+  {
+    "word": "impose",
+    "pos": "v.",
+    "chinese": "強制執行、課徵、加諸",
+    "example": "The government has imposed a new tax on luxury goods.",
+    "description": "政府已對奢侈品強制執行（課徵）新稅。"
+  },
+  {
+    "word": "impress",
+    "pos": "v.",
+    "chinese": "給...留下深刻印象",
+    "example": "He tried to impress his boss with his hard work.",
+    "description": "他試圖用辛勤的工作來讓老闆留下深刻印象。"
+  },
+  {
+    "word": "impressed",
+    "pos": "adj.",
+    "chinese": "印象深刻的",
+    "example": "I was very impressed by her piano performance.",
+    "description": "我對她的鋼琴表演印象非常深刻。"
+  },
+  {
+    "word": "inch",
+    "pos": "n.",
+    "chinese": "英吋",
+    "example": "The water level rose by one inch overnight.",
+    "description": "水位一夜之間上升了一英吋。"
+  },
+  {
+    "word": "incident",
+    "pos": "n.",
+    "chinese": "事件",
+    "example": "The police are investigating the incident that happened last night.",
+    "description": "警方正在調查昨晚發生的事件。"
+  },
+  {
+    "word": "income",
+    "pos": "n.",
+    "chinese": "收入",
+    "example": "Many families are struggling with a low income.",
+    "description": "許多家庭正因低收入而苦苦掙扎。"
+  },
+  {
+    "word": "increasingly",
+    "pos": "adv.",
+    "chinese": "越來越多地、漸增地",
+    "example": "It is becoming increasingly difficult to find a job.",
+    "description": "找工作正變得越來越（漸增地）困難。"
+  },
+  {
+    "word": "industrial",
+    "pos": "adj.",
+    "chinese": "工業的",
+    "example": "The city is a major industrial center in the country.",
+    "description": "這座城市是該國主要的工業中心。"
+  },
+  {
+    "word": "infection",
+    "pos": "n.",
+    "chinese": "感染",
+    "example": "The doctor prescribed antibiotics for the infection.",
+    "description": "醫生開了抗生素來治療這項感染。"
+  },
+  {
+    "word": "inform",
+    "pos": "v.",
+    "chinese": "通知、告知",
+    "example": "Please inform the manager of any changes to the schedule.",
+    "description": "若行程有任何變動，請告知（通知）經理。"
+  },
+  {
+    "word": "initial",
+    "pos": "adj.",
+    "chinese": "最初的、開始的",
+    "example": "Our initial reaction to the news was shock.",
+    "description": "我們對這則消息的最初反應是震驚。"
+  },
+  {
+    "word": "initially",
+    "pos": "adv.",
+    "chinese": "最初、起初",
+    "example": "Initially, the plan seemed very simple.",
+    "description": "最初（起初），這個計畫看起來非常簡單。"
+  },
+  {
+    "word": "initiative",
+    "pos": "n.",
+    "chinese": "主動權、倡議、積極性",
+    "example": "The government has launched a new initiative to reduce poverty.",
+    "description": "政府發起了一項減少貧困的新倡議（行動）。"
+  },
+  {
+    "word": "inner",
+    "pos": "adj.",
+    "chinese": "內心的、內部的",
+    "example": "She managed to find inner peace through meditation.",
+    "description": "她透過冥想成功找到了內心的平靜。"
+  },
+  {
+    "word": "inquiry",
+    "pos": "n.",
+    "chinese": "詢問、調查",
+    "example": "The police have launched an inquiry into the accident.",
+    "description": "警方已對這起事故展開調查。"
+  },
+  {
+    "word": "insight",
+    "pos": "n.",
+    "chinese": "洞察力、見解",
+    "example": "The book provides a deep insight into human nature.",
+    "description": "這本書提供了對人性的深刻見解（洞察）。"
+  },
+  {
+    "word": "insist",
+    "pos": "v.",
+    "chinese": "堅持",
+    "example": "He insists that he is telling the truth.",
+    "description": "他堅持自己說的是實話。"
+  },
+  {
+    "word": "inspire",
+    "pos": "v.",
+    "chinese": "啟發、鼓舞",
+    "example": "Her success has inspired many young people.",
+    "description": "她的成功啟發（鼓舞）了許多青年。"
+  },
+  {
+    "word": "install",
+    "pos": "v.",
+    "chinese": "安裝",
+    "example": "The company is going to install a new software system.",
+    "description": "公司打算安裝一套新的軟體系統。"
+  },
+  {
+    "word": "instance",
+    "pos": "n.",
+    "chinese": "例子、實例",
+    "example": "This is a clear instance of how the law can be misused.",
+    "description": "這是一個關於法律如何被誤用的清楚實例（例子）。"
+  },
+  {
+    "word": "institute",
+    "pos": "n.",
+    "chinese": "協會、研究機構",
+    "example": "He works at a research institute for cancer.",
+    "description": "他在一間癌症研究機構工作。"
+  },
+  {
+    "word": "institution",
+    "pos": "n.",
+    "chinese": "機構、制度",
+    "example": "The university is a major educational institution.",
+    "description": "這所大學是一所主要的教育機構。"
+  },
+  {
+    "word": "insurance",
+    "pos": "n.",
+    "chinese": "保險",
+    "example": "Every car owner must have car insurance.",
+    "description": "每位車主都必須投保汽車保險。"
+  },
+  {
+    "word": "intended",
+    "pos": "adj.",
+    "chinese": "預期的、打算的",
+    "example": "The intended audience for the book is young children.",
+    "description": "這本書的預期（打算針對的）讀者群是幼兒。"
+  },
+  {
+    "word": "intense",
+    "pos": "adj.",
+    "chinese": "強烈的、劇烈的",
+    "example": "The heat from the sun was very intense.",
+    "description": "太陽的熱氣非常強烈。"
+  },
+  {
+    "word": "internal",
+    "pos": "adj.",
+    "chinese": "內部的",
+    "example": "The company is conducting an internal investigation.",
+    "description": "公司正在進行一項內部調查。"
+  },
+  {
+    "word": "interpret",
+    "pos": "v.",
+    "chinese": "解釋、詮釋、口譯",
+    "example": "How do you interpret this poem?",
+    "description": "你如何解釋（詮釋）這首詩？"
+  },
+  {
+    "word": "interrupt",
+    "pos": "v.",
+    "chinese": "打斷、插嘴",
+    "example": "I’m sorry to interrupt, but I have a question.",
+    "description": "很抱歉打斷你，但我有一個問題。"
+  },
+  {
+    "word": "investigation",
+    "pos": "n.",
+    "chinese": "調查",
+    "example": "The investigation into the crime is ongoing.",
+    "description": "對這起犯罪的調查正在進行中。"
+  },
+  {
+    "word": "investment",
+    "pos": "n.",
+    "chinese": "投資",
+    "example": "Buying a house is a big investment.",
+    "description": "買房子是一項巨大的投資。"
+  },
+  {
+    "word": "issue",
+    "pos": "v.",
+    "chinese": "發布、核發 (n. 為 B1)",
+    "example": "The police have issued a warning about the storm.",
+    "description": "警方已發布了關於風暴的警告。"
+  },
+  {
+    "word": "joy",
+    "pos": "n.",
+    "chinese": "喜悅、樂趣",
+    "example": "The children's faces were full of joy when they saw the presents.",
+    "description": "孩子們看到禮物時，臉上充滿了喜悅。"
+  },
+  {
+    "word": "judgment",
+    "pos": "n.",
+    "chinese": "判斷、審判、評價",
+    "example": "You should trust your own judgment when making decisions.",
+    "description": "在做決定時，你應該相信自己的判斷。"
+  },
+  {
+    "word": "junior",
+    "pos": "adj.",
+    "chinese": "資歷較淺的、地位較低的",
+    "example": "She started her career as a junior reporter at a local newspaper.",
+    "description": "她的職業生涯是從當地報社的資淺（初級）記者開始的。"
+  },
+  {
+    "word": "justice",
+    "pos": "n.",
+    "chinese": "正義、司法、公正",
+    "example": "They are fighting for social justice and equal rights.",
+    "description": "他們正在為社會正義和平等權利而奮鬥。"
+  },
+  {
+    "word": "justify",
+    "pos": "v.",
+    "chinese": "證明...有理、為...辯護",
+    "example": "How can you justify spending so much money on a car?",
+    "description": "你如何證明花這麼多錢買車是有道理的（為此辯解）？"
+  },
+  {
+    "word": "labor",
+    "pos": "n.",
+    "chinese": "勞動、勞工",
+    "example": "The price of the product includes both materials and labor.",
+    "description": "產品的價格包含了材料和勞工（勞動）成本。"
+  },
+  {
+    "word": "landscape",
+    "pos": "n.",
+    "chinese": "風景、景觀",
+    "example": "The artist painted a beautiful landscape of the mountains.",
+    "description": "這位藝術家畫了一幅美麗的山脈風景（景觀）。"
+  },
+  {
+    "word": "largely",
+    "pos": "adv.",
+    "chinese": "大部分地、主要地",
+    "example": "The success of the project was largely due to your hard work.",
+    "description": "這個專案的成功主要地（大部分）歸功於你的努力。"
+  },
+  {
+    "word": "latest",
+    "pos": "n.",
+    "chinese": "最新消息、最新的事物 (adj. 為 B1)",
+    "example": "Have you heard the latest? The company is moving to a new office.",
+    "description": "你聽說最新消息（最新的狀況）了嗎？公司要搬到新辦公室了。"
+  },
+  {
+    "word": "launch",
+    "pos": "v./n.",
+    "chinese": "發射、發起、發表",
+    "example": "The company is going to launch a new product next month.",
+    "description": "公司打算在下個月發表（發起）一項新產品。"
+  },
+  {
+    "word": "leadership",
+    "pos": "n.",
+    "chinese": "領導力、領導層",
+    "example": "The country needs strong leadership during this crisis.",
+    "description": "在這次危機中，國家需要強大的領導力。"
+  },
+  {
+    "word": "league",
+    "pos": "n.",
+    "chinese": "聯盟、聯賽",
+    "example": "Our team finished at the top of the league this year.",
+    "description": "我們球隊今年在聯賽（聯盟）中名列前茅。"
+  },
+  {
+    "word": "lean",
+    "pos": "v.",
+    "chinese": "傾斜、倚靠",
+    "example": "She leaned against the wall and waited for the bus.",
+    "description": "她倚靠在牆上等待公車。"
+  },
+  {
+    "word": "leave",
+    "pos": "n.",
+    "chinese": "假期、准假 (v. 為 A1)",
+    "example": "The soldier was granted a short leave to visit his family.",
+    "description": "這名士兵獲准休短暫的假期去探望家人。"
+  },
+  {
+    "word": "level",
+    "pos": "v.",
+    "chinese": "使平坦、夷平 (n. 為 A2)",
+    "example": "The old buildings were leveled to make room for a new park.",
+    "description": "舊建築被夷平（使平坦）以騰出空間建造新公園。"
+  },
+  {
+    "word": "license",
+    "pos": "n.",
+    "chinese": "執照、許可證",
+    "example": "You must have a valid driver's license to drive a car.",
+    "description": "你必須持有有效的駕駛執照才能開車。"
+  },
+  {
+    "word": "limited",
+    "pos": "adj.",
+    "chinese": "有限的",
+    "example": "The store has a limited number of copies of the book.",
+    "description": "這家店這本書的副本（數量）有限。"
+  },
+  {
+    "word": "line",
+    "pos": "v.",
+    "chinese": "沿著...排列 (n. 為 A1)",
+    "example": "The streets were lined with people waiting for the parade.",
+    "description": "街道兩旁排列著等待遊行的群眾。"
+  },
+  {
+    "word": "lively",
+    "pos": "adj.",
+    "chinese": "活潑的、熱鬧的",
+    "example": "The city has a lively nightlife with many bars and clubs.",
+    "description": "這座城市有著熱鬧的（活潑的）夜生活，有許多酒吧和俱樂部。"
+  },
+  {
+    "word": "load",
+    "pos": "n./v.",
+    "chinese": "負擔、裝載",
+    "example": "The truck was carrying a heavy load of bricks.",
+    "description": "卡車正載著沉重的一擔（裝載量）磚塊。"
+  },
+  {
+    "word": "loan",
+    "pos": "n.",
+    "chinese": "貸款、借貸",
+    "example": "She took out a loan from the bank to buy a new car.",
+    "description": "她向銀行辦理了貸款來買新車。"
+  },
+  {
+    "word": "logical",
+    "pos": "adj.",
+    "chinese": "合邏輯的",
+    "example": "The conclusion of the report is very logical.",
+    "description": "報告的結論非常合乎邏輯。"
+  },
+  {
+    "word": "long-term",
+    "pos": "adj./adv.",
+    "chinese": "長期的",
+    "example": "We need to find a long-term solution to the problem.",
+    "description": "我們需要找到這個問題的長期解決方案。"
+  },
+  {
+    "word": "loose",
+    "pos": "adj.",
+    "chinese": "鬆的",
+    "example": "The screw is loose and needs to be tightened.",
+    "description": "螺絲鬆了，需要鎖緊。"
+  },
+  {
+    "word": "lord",
+    "pos": "n.",
+    "chinese": "領主、上帝",
+    "example": "The lord of the manor lived in a large castle.",
+    "description": "莊園的領主住在一座大城堡裡。"
+  },
+  {
+    "word": "low",
+    "pos": "n.",
+    "chinese": "低點 (adj. 為 A2)",
+    "example": "The temperature reached a new low last night.",
+    "description": "昨晚氣溫達到了新的低點。"
+  },
+  {
+    "word": "lower",
+    "pos": "v.",
+    "chinese": "降低、放下",
+    "example": "The store has decided to lower the price of the products.",
+    "description": "商店決定降低產品的價格。"
+  },
+  {
+    "word": "lung",
+    "pos": "n.",
+    "chinese": "肺",
+    "example": "Smoking can cause serious damage to your lungs.",
+    "description": "吸菸會對你的肺部造成嚴重損害。"
+  },
+  {
+    "word": "maintain",
+    "pos": "v.",
+    "chinese": "維持、保持、維修",
+    "example": "It is important to maintain a healthy diet and exercise regularly.",
+    "description": "維持健康的飲食並規律運動是非常重要的。"
+  },
+  {
+    "word": "major",
+    "pos": "n.",
+    "chinese": "主修科目、少校 (adj. 為 A2)",
+    "example": "Her major in college was international relations.",
+    "description": "她在大學的主修科目是國際關係。"
+  },
+  {
+    "word": "majority",
+    "pos": "n.",
+    "chinese": "大多數、過半數",
+    "example": "The majority of the students in the class are from Asia.",
+    "description": "班上大多數（過半數）的學生來自亞洲。"
+  },
+  {
+    "word": "make",
+    "pos": "n.",
+    "chinese": "品牌、型號 (v. 為 A1)",
+    "example": "What make of car do you drive?",
+    "description": "你開的是什麼品牌（型號）的車？"
+  },
+  {
+    "word": "map",
+    "pos": "v.",
+    "chinese": "繪製地圖、詳細規劃 (n. 為 A1)",
+    "example": "Scientists are working to map the human genome.",
+    "description": "科學家們正致力於繪製（詳細規劃）人類基因組圖譜。"
+  },
+  {
+    "word": "mass",
+    "pos": "n./adj.",
+    "chinese": "大量、質量、大規模的",
+    "example": "The project was designed for mass production.",
+    "description": "這個專案是為了大規模（大量）生產而設計的。"
+  },
+  {
+    "word": "massive",
+    "pos": "adj.",
+    "chinese": "巨大的、大規模的",
+    "example": "The earthquake caused massive damage to the city.",
+    "description": "地震對這座城市造成了巨大的（大規模的）損害。"
+  },
+  {
+    "word": "master",
+    "pos": "n./v.",
+    "chinese": "主人、大師、精通",
+    "example": "It takes years of practice to master a foreign language.",
+    "description": "要精通一門外語需要多年的練習。"
+  },
+  {
+    "word": "matching",
+    "pos": "adj.",
+    "chinese": "相配的、成套的",
+    "example": "She bought a matching hat and gloves for the winter.",
+    "description": "她為冬天買了一套相配的（成套的）帽子和手套。"
+  },
+  {
+    "word": "material",
+    "pos": "adj.",
+    "chinese": "物質的、實質的 (n. 為 A2)",
+    "example": "The company’s material assets include buildings and equipment.",
+    "description": "公司的物質（實質）資產包括建築和設備。"
+  },
+  {
+    "word": "maximum",
+    "pos": "adj./n.",
+    "chinese": "最大值的、最高限度",
+    "example": "The maximum speed limit on this highway is 70 miles per hour.",
+    "description": "這條公路的最高（最大值）速限是每小時 70 英哩。"
+  },
+  {
+    "word": "means",
+    "pos": "n.",
+    "chinese": "手段、方法",
+    "example": "Television is an effective means of communication.",
+    "description": "電視是一種有效的溝通手段（方法）。"
+  },
+  {
+    "word": "measurement",
+    "pos": "n.",
+    "chinese": "測量、尺寸",
+    "example": "The engineer took precise measurements of the room.",
+    "description": "工程師對房間進行了精確的測量（尺寸記錄）。"
+  },
+  {
+    "word": "medium",
+    "pos": "n.",
+    "chinese": "媒介、方法 (adj. 為 B1)",
+    "example": "Advertising is a powerful medium for spreading information.",
+    "description": "廣告是傳播資訊的一種強大媒介。"
+  },
+  {
+    "word": "melt",
+    "pos": "v.",
+    "chinese": "融化",
+    "example": "The snow began to melt as the temperature rose.",
+    "description": "隨著氣溫升高，雪開始融化了。"
+  },
+  {
+    "word": "military",
+    "pos": "adj./n.",
+    "chinese": "軍事的、軍隊",
+    "example": "The country is increasing its military spending.",
+    "description": "該國正在增加其軍事支出。"
+  },
+  {
+    "word": "mineral",
+    "pos": "n.",
+    "chinese": "礦物、礦物質",
+    "example": "The region is rich in natural minerals like coal and iron.",
+    "description": "該地區富含煤和鐵等天然礦物。"
+  },
+  {
+    "word": "minimum",
+    "pos": "adj./n.",
+    "chinese": "最小值的、最低限度",
+    "example": "The minimum age for voting in the election is eighteen.",
+    "description": "選舉投票的最低（最小值）年齡是十八歲。"
+  },
+  {
+    "word": "minister",
+    "pos": "n.",
+    "chinese": "部長、大臣",
+    "example": "The minister of education announced a new policy for schools.",
+    "description": "教育部長宣布了一項針對學校的新政策。"
+  },
+  {
+    "word": "minor",
+    "pos": "adj.",
+    "chinese": "較小的、次要的",
+    "example": "She suffered only minor injuries in the car accident.",
+    "description": "她在車禍中僅受了較小的（輕微的）傷。"
+  },
+  {
+    "word": "minority",
+    "pos": "n.",
+    "chinese": "少數、少數民族",
+    "example": "Only a small minority of people supported the new law.",
+    "description": "只有極少數（少數人）支持這項新法律。"
+  },
+  {
+    "word": "mission",
+    "pos": "n.",
+    "chinese": "任務、使命",
+    "example": "The astronauts successfully completed their mission to the moon.",
+    "description": "太空人們成功完成了他們的登月任務。"
+  },
+  {
+    "word": "mistake",
+    "pos": "v.",
+    "chinese": "誤認、弄錯 (n. 為 A1)",
+    "example": "I mistook him for his brother because they look so much alike.",
+    "description": "我把他誤認（弄錯）成他弟弟了，因為他們長得太像了。"
+  },
+  {
+    "word": "mixed",
+    "pos": "adj.",
+    "chinese": "混合的、複雜的",
+    "example": "The film received mixed reviews from the critics.",
+    "description": "這部電影收到了評論家們褒貶不一（混合/複雜）的評價。"
+  },
+  {
+    "word": "modify",
+    "pos": "v.",
+    "chinese": "修改、更改",
+    "example": "We need to modify the original plan to save costs.",
+    "description": "我們需要修改原始計畫以節省成本。"
+  },
+  {
+    "word": "monitor",
+    "pos": "n./v.",
+    "chinese": "監測儀、監控",
+    "example": "The doctors are monitoring the patient's condition closely.",
+    "description": "醫生們正在密切監控病人的狀況。"
+  },
+  {
+    "word": "moral",
+    "pos": "adj./n.",
+    "chinese": "道德的、寓意",
+    "example": "The story has a strong moral lesson for children.",
+    "description": "這個故事對孩子們有著強烈的道德教訓（寓意）。"
+  },
+  {
+    "word": "motor",
+    "pos": "n./adj.",
+    "chinese": "馬達、發動機、肌肉運動的",
+    "example": "The toy car is powered by a small electric motor.",
+    "description": "這輛玩具車是由一個小型電力馬達驅動的。"
+  },
+  {
+    "word": "mount",
+    "pos": "v.",
+    "chinese": "登上、攀登、增加",
+    "example": "Tension between the two countries continues to mount.",
+    "description": "兩國之間的緊張局勢持續增加（攀升）。"
+  },
+  {
+    "word": "multiple",
+    "pos": "adj.",
+    "chinese": "多樣的、多個的",
+    "example": "The victim suffered multiple injuries in the attack.",
+    "description": "受害者在襲擊中受了多處（多個）傷。"
+  },
+  {
+    "word": "multiply",
+    "pos": "v.",
+    "chinese": "乘、增加、繁殖",
+    "example": "If you multiply five by four, you get twenty.",
+    "description": "如果你用五乘以四，你會得到二十。"
+  },
+  {
+    "word": "narrow",
+    "pos": "v.",
+    "chinese": "變窄、縮小 (adj. 為 A2)",
+    "example": "The gap between the two teams has narrowed recently.",
+    "description": "這兩支球隊之間的差距最近縮小了。"
+  },
+  {
+    "word": "national",
+    "pos": "n.",
+    "chinese": "國民 (adj. 為 A2)",
+    "example": "The hotel welcomes many foreign nationals during the summer.",
+    "description": "這家飯店在夏天接待許多外國國民（外籍人士）。"
+  },
+  {
+    "word": "negative",
+    "pos": "n.",
+    "chinese": "否定、底片、負面事物 (adj. 為 A1)",
+    "example": "The film was a negative of a photograph taken years ago.",
+    "description": "這底片（負面影像）是多年前拍的照片原片。"
+  },
+  {
+    "word": "nerve",
+    "pos": "n.",
+    "chinese": "神經、勇氣",
+    "example": "It takes a lot of nerve to speak in front of such a large crowd.",
+    "description": "在這麼多人面前演講需要很大的勇氣（膽量）。"
+  },
+  {
+    "word": "nevertheless",
+    "pos": "adv.",
+    "chinese": "儘管如此、然而",
+    "example": "The task was difficult; nevertheless, we finished it on time.",
+    "description": "這項任務很困難；儘管如此（然而），我們還是準時完成了。"
+  },
+  {
+    "word": "nightmare",
+    "pos": "n.",
+    "chinese": "噩夢、可怕的經歷",
+    "example": "The traffic jam was a complete nightmare.",
+    "description": "那次塞車簡直是一場噩夢（可怕的經歷）。"
+  },
+  {
+    "word": "notion",
+    "pos": "n.",
+    "chinese": "觀念、想法",
+    "example": "I have no notion of what he is talking about.",
+    "description": "我完全不明白（沒有想法）他在說什麼。"
+  },
+  {
+    "word": "numerous",
+    "pos": "adj.",
+    "chinese": "許多的、很多的",
+    "example": "He has won numerous awards for his scientific research.",
+    "description": "他因科學研究而獲得了許多項獎項。"
+  },
+  {
+    "word": "obey",
+    "pos": "v.",
+    "chinese": "服從、遵守",
+    "example": "Soldiers are expected to obey orders without question.",
+    "description": "士兵被要求不加質疑地服從（遵守）命令。"
+  },
+  {
+    "word": "object",
+    "pos": "v.",
+    "chinese": "反對 (n. 為 A1)",
+    "example": "Many local residents object to the new housing development.",
+    "description": "許多當地居民反對（不贊成）這項新的住宅開發案。"
+  },
+  {
+    "word": "objective",
+    "pos": "n./adj.",
+    "chinese": "目標、客觀的",
+    "example": "The main objective of the meeting is to find a solution.",
+    "description": "會議的主要目標是找到解決方案。"
+  },
+  {
+    "word": "obligation",
+    "pos": "n.",
+    "chinese": "義務、責任",
+    "example": "We have a legal obligation to pay our taxes.",
+    "description": "我們有法律上的義務（責任）去繳稅。"
+  },
+  {
+    "word": "observation",
+    "pos": "n.",
+    "chinese": "觀察、觀察結果",
+    "example": "She spent several years in the forest for the observation of birds.",
+    "description": "為了觀察鳥類，她在森林裡待了幾年。"
+  },
+  {
+    "word": "observe",
+    "pos": "v.",
+    "chinese": "觀察、觀測、遵守",
+    "example": "Scientists observed the behavior of the animals for months.",
+    "description": "科學家們對這些動物的行為觀察了數個月。"
+  },
+  {
+    "word": "obtain",
+    "pos": "v.",
+    "chinese": "獲得、得到",
+    "example": "You must obtain permission from the manager before leaving.",
+    "description": "離開前你必須獲得（得到）經理的許可。"
+  },
+  {
+    "word": "occasionally",
+    "pos": "adv.",
+    "chinese": "偶爾、有時",
+    "example": "We go to the theater occasionally but not very often.",
+    "description": "我們偶爾會去劇院，但並非經常。"
+  },
+  {
+    "word": "offend",
+    "pos": "v.",
+    "chinese": "冒犯、得罪",
+    "example": "I’m sorry if I offended you with my remarks.",
+    "description": "如果我的言論冒犯（得罪）了你，我很抱歉。"
+  },
+  {
+    "word": "offense",
+    "pos": "n.",
+    "chinese": "罪行、冒犯",
+    "example": "Driving without a license is a serious offense.",
+    "description": "無照駕駛是一項嚴重的罪行。"
+  },
+  {
+    "word": "offensive",
+    "pos": "adj.",
+    "chinese": "冒犯的、無理的、攻擊性的",
+    "example": "The politician’s comments were considered highly offensive.",
+    "description": "這位政治人物的言論被認為具有高度的冒犯性。"
+  },
+  {
+    "word": "official",
+    "pos": "n.",
+    "chinese": "官員 (adj. 為 B1)",
+    "example": "A government official confirmed the news this morning.",
+    "description": "一位政府官員今天早上證實了這則消息。"
+  },
+  {
+    "word": "opening",
+    "pos": "n.",
+    "chinese": "開端、空缺、孔洞",
+    "example": "The company has an opening for a sales manager.",
+    "description": "公司有一個業務經理的空缺。"
+  },
+  {
+    "word": "operate",
+    "pos": "v.",
+    "chinese": "運作、經營、動手術",
+    "example": "The machine is easy to operate.",
+    "description": "這台機器很容易運作（操作）。"
+  },
+  {
+    "word": "opponent",
+    "pos": "n.",
+    "chinese": "對手、反對者",
+    "example": "He defeated his opponent in the final match.",
+    "description": "他在決賽中擊敗了對手。"
+  },
+  {
+    "word": "oppose",
+    "pos": "v.",
+    "chinese": "反對",
+    "example": "Many people oppose the construction of the new highway.",
+    "description": "許多人反對這條新公路的建設。"
+  },
+  {
+    "word": "opposed",
+    "pos": "adj.",
+    "chinese": "反對的、相對的",
+    "example": "They are strongly opposed to the new tax law.",
+    "description": "他們強烈反對這項新稅法。"
+  },
+  {
+    "word": "opposition",
+    "pos": "n.",
+    "chinese": "反對、反對黨",
+    "example": "The proposal faced a lot of opposition from the public.",
+    "description": "這項提議面臨了來自公眾的許多反對。"
+  },
+  {
+    "word": "organ",
+    "pos": "n.",
+    "chinese": "器官、風琴、機構",
+    "example": "The heart is a vital organ of the human body.",
+    "description": "心臟是人體至關重要的器官。"
+  },
+  {
+    "word": "origin",
+    "pos": "n.",
+    "chinese": "起源、由來",
+    "example": "The origin of the word is Latin.",
+    "description": "這個單字的起源是拉丁語。"
+  },
+  {
+    "word": "otherwise",
+    "pos": "adv.",
+    "chinese": "否則、在其他方面",
+    "example": "Please hurry up; otherwise, we’ll be late.",
+    "description": "請快一點；否則（不然）我們會遲到。"
+  },
+  {
+    "word": "outcome",
+    "pos": "n.",
+    "chinese": "結果、後果",
+    "example": "We are waiting for the outcome of the election.",
+    "description": "我們正在等待選舉的結果。"
+  },
+  {
+    "word": "outer",
+    "pos": "adj.",
+    "chinese": "外部的、外面的",
+    "example": "The outer layer of the skin is very thin.",
+    "description": "皮膚的外層（外部）非常薄。"
+  },
+  {
+    "word": "outline",
+    "pos": "n./v.",
+    "chinese": "大綱、輪廓、概述",
+    "example": "The professor gave a brief outline of the course.",
+    "description": "教授對這門課程進行了簡短的概述（大綱）。"
+  },
+  {
+    "word": "overall",
+    "pos": "adj./adv.",
+    "chinese": "整體的、全面地",
+    "example": "The overall performance of the team was excellent.",
+    "description": "團隊的整體表現非常出色。"
+  },
+  {
+    "word": "owe",
+    "pos": "v.",
+    "chinese": "欠（債、情）、歸功於",
+    "example": "I owe you an apology for being late.",
+    "description": "我欠你一個道歉，因為我遲到了。"
+  },
+  {
+    "word": "pace",
+    "pos": "n./v.",
+    "chinese": "步調、速度、來回踱步 (p. 7)",
+    "example": "He found it difficult to keep up with the pace of the class.",
+    "description": "他發現很難跟上這門課的進度（步調）。"
+  },
+  {
+    "word": "package",
+    "pos": "v.",
+    "chinese": "包裝 (p. 7)",
+    "example": "The new software is packaged with several useful tools.",
+    "description": "這款新軟體與幾項實用的工具包裝在一起。"
+  },
+  {
+    "word": "panel",
+    "pos": "n.",
+    "chinese": "面板、專家小組 (p. 7)",
+    "example": "A panel of experts was appointed to review the safety procedures.",
+    "description": "一個專家小組被委派來審查安全程序。"
+  },
+  {
+    "word": "participant",
+    "pos": "n.",
+    "chinese": "參與者 (p. 7)",
+    "example": "All participants in the study were asked to sign a consent form.",
+    "description": "研究中的所有參與者都被要求簽署一份同意書。"
+  },
+  {
+    "word": "partly",
+    "pos": "adv.",
+    "chinese": "部分地 (p. 7)",
+    "example": "The project’s failure was partly due to a lack of funding.",
+    "description": "該專案的失敗部分歸因於缺乏資金。"
+  },
+  {
+    "word": "passage",
+    "pos": "n.",
+    "chinese": "通道、走廊、文章段落 (p. 7)",
+    "example": "The dark passage led to a small, hidden room.",
+    "description": "這條陰暗的通道通往一個隱蔽的小房間。"
+  },
+  {
+    "word": "patient",
+    "pos": "adj.",
+    "chinese": "有耐心的 (n. 為 A2) (p. 7)",
+    "example": "You need to be patient and wait for the right opportunity.",
+    "description": "你需要有耐心，等待合適的時機。"
+  },
+  {
+    "word": "permanent",
+    "pos": "adj.",
+    "chinese": "永久的 (p. 7)",
+    "example": "He is looking for a permanent place to live.",
+    "description": "他正在尋找一個永久的居住地。"
+  },
+  {
+    "word": "permit",
+    "pos": "v./n.",
+    "chinese": "許可、准許、許可證 (p. 7)",
+    "example": "The city council granted a permit for the building project.",
+    "description": "市議會核發了該建築計畫的許可證。"
+  },
+  {
+    "word": "perspective",
+    "pos": "n.",
+    "chinese": "觀點、看法、透視法 (p. 7)",
+    "example": "The experience gave her a new perspective on life.",
+    "description": "這次經歷給了她對人生的新觀點（看法）。"
+  },
+  {
+    "word": "phase",
+    "pos": "n.",
+    "chinese": "階段、時期 (p. 7)",
+    "example": "The first phase of the project is now complete.",
+    "description": "專案的第一階段現在已經完成了。"
+  },
+  {
+    "word": "phenomenon",
+    "pos": "n.",
+    "chinese": "現象 (p. 7)",
+    "example": "Social media is a relatively recent phenomenon.",
+    "description": "社群媒體是一個相對近期的現象。"
+  },
+  {
+    "word": "philosophy",
+    "pos": "n.",
+    "chinese": "哲學、哲理 (p. 8)",
+    "example": "She studied philosophy at university.",
+    "description": "她在大學學習哲學。"
+  },
+  {
+    "word": "pick",
+    "pos": "n.",
+    "chinese": "選擇、挑選 (v. 為 A2) (p. 8)",
+    "example": "You can have your pick of any of the cakes.",
+    "description": "你可以隨意挑選（選擇）任何蛋糕。"
+  },
+  {
+    "word": "picture",
+    "pos": "v.",
+    "chinese": "想像、繪畫 (n. 為 A1) (p. 8)",
+    "example": "It’s hard to picture what the city was like a hundred years ago.",
+    "description": "很難想像這座城市一百年前是什麼樣子。"
+  },
+  {
+    "word": "pile",
+    "pos": "n./v.",
+    "chinese": "堆、堆積 (p. 8)",
+    "example": "There was a large pile of old books in the corner.",
+    "description": "角落裡有一大堆舊書。"
+  },
+  {
+    "word": "pitch",
+    "pos": "n.",
+    "chinese": "球場、音高、推銷 (p. 8)",
+    "example": "The football pitch was muddy after the heavy rain.",
+    "description": "大雨過後，足球場一片泥濘。"
+  },
+  {
+    "word": "plain",
+    "pos": "adj.",
+    "chinese": "樸素的、清楚的、平坦的 (p. 8)",
+    "example": "The instructions were written in plain English.",
+    "description": "這些說明是用簡單清楚的英文寫成的。"
+  },
+  {
+    "word": "plot",
+    "pos": "v.",
+    "chinese": "策劃、繪製圖表 (n. 為 B1) (p. 8)",
+    "example": "The rebels were plotting to overthrow the government.",
+    "description": "叛軍正策劃推翻政府。"
+  },
+  {
+    "word": "plus",
+    "pos": "adj./conj./n.",
+    "chinese": "有利的、加上的 (prep. 為 B1) (p. 8)",
+    "example": "One of the plus points of the house is its large garden.",
+    "description": "這棟房子的優點（有利因素）之一是它的大花園。"
+  },
+  {
+    "word": "pointed",
+    "pos": "adj.",
+    "chinese": "尖銳的、尖細的 (p. 8)",
+    "example": "The fence was made of pointed metal bars.",
+    "description": "圍欄是由尖銳的鐵條製成的。"
+  },
+  {
+    "word": "popularity",
+    "pos": "n.",
+    "chinese": "受歡迎、普及 (p. 8)",
+    "example": "The popularity of video games has grown rapidly.",
+    "description": "電子遊戲的受歡迎程度（普及度）增長迅速。"
+  },
+  {
+    "word": "pose",
+    "pos": "v.",
+    "chinese": "造成(問題等)、擺姿勢 (p. 8)",
+    "example": "Plastic waste poses a serious threat to marine life.",
+    "description": "塑膠垃圾對海洋生物造成了嚴重的威脅。"
+  },
+  {
+    "word": "position",
+    "pos": "v.",
+    "chinese": "放置、安置 (n. 為 A2) (p. 8)",
+    "example": "The troops were positioned around the city.",
+    "description": "部隊被安置在城市四周。"
+  },
+  {
+    "word": "positive",
+    "pos": "n.",
+    "chinese": "正面、優點、肯定 (adj. 為 A1) (p. 8)",
+    "example": "We need to focus on the positives of the situation.",
+    "description": "我們需要專注於目前局勢的正面（優點）。"
+  },
+  {
+    "word": "possess",
+    "pos": "v.",
+    "chinese": "擁有、具有 (p. 8)",
+    "example": "She possesses all the qualities of a good leader.",
+    "description": "她具有一位優秀領導者的所有特質。"
+  },
+  {
+    "word": "potential",
+    "pos": "adj./n.",
+    "chinese": "潛在的、可能性、潛力 (p. 8)",
+    "example": "The new product has the potential to be a great success.",
+    "description": "這款新產品有潛力取得巨大的成功。"
+  },
+  {
+    "word": "power",
+    "pos": "v.",
+    "chinese": "為...提供動力 (n. 為 A2) (p. 8)",
+    "example": "The car is powered by a hydrogen engine.",
+    "description": "這輛車是由氫氣引擎提供動力的。"
+  },
+  {
+    "word": "praise",
+    "pos": "n./v.",
+    "chinese": "稱讚、讚揚 (p. 8)",
+    "example": "The teacher gave her a lot of praise for her hard work.",
+    "description": "老師對她的努力給予了許多稱讚。"
+  },
+  {
+    "word": "pregnant",
+    "pos": "adj.",
+    "chinese": "懷孕的 (p. 8)",
+    "example": "She is six months pregnant.",
+    "description": "她已經懷孕六個月了。"
+  },
+  {
+    "word": "preparation",
+    "pos": "n.",
+    "chinese": "準備 (p. 8)",
+    "example": "Careful preparation is the key to a successful meeting.",
+    "description": "周全的準備是會議成功的關鍵。"
+  },
+  {
+    "word": "presence",
+    "pos": "n.",
+    "chinese": "存在、出席 (p. 8)",
+    "example": "Your presence is requested at the meeting.",
+    "description": "誠摯邀請您出席會議。"
+  },
+  {
+    "word": "preserve",
+    "pos": "v.",
+    "chinese": "保護、保存、維護 (p. 8)",
+    "example": "We must take steps to preserve our natural environment.",
+    "description": "我們必須採取措施來保護我們的自然環境。"
+  },
+  {
+    "word": "price",
+    "pos": "v.",
+    "chinese": "定價 (n. 為 A1) (p. 8)",
+    "example": "The tickets are priced at twenty dollars each.",
+    "description": "門票定價為每張二十美元。"
+  },
+  {
+    "word": "prime",
+    "pos": "adj.",
+    "chinese": "主要的、首要的、最好的 (p. 8)",
+    "example": "The prime suspect in the case was arrested yesterday.",
+    "description": "該案的主要嫌疑犯已於昨日被逮捕。"
+  },
+  {
+    "word": "principal",
+    "pos": "adj.",
+    "chinese": "最重要的、主要的 (n. 為 B1) (p. 8)",
+    "example": "The principal aim of the project is to reduce costs.",
+    "description": "該專案的主要（最重要的）目標是降低成本。"
+  },
+  {
+    "word": "principle",
+    "pos": "n.",
+    "chinese": "原則、原理 (p. 8)",
+    "example": "He refused to help them as a matter of principle.",
+    "description": "基於原則問題，他拒絕幫助他們。"
+  },
+  {
+    "word": "print",
+    "pos": "n.",
+    "chinese": "印刷品、字體、腳印 (v. 為 A2) (p. 8)",
+    "example": "The book is available in large print for older readers.",
+    "description": "這本書有大字體（印刷）版，供年長讀者閱讀。"
+  },
+  {
+    "word": "priority",
+    "pos": "n.",
+    "chinese": "優先事項 (p. 8)",
+    "example": "Safety is our top priority.",
+    "description": "安全是我們最優先的考量（優先事項）。"
+  },
+  {
+    "word": "privacy",
+    "pos": "n.",
+    "chinese": "隱私 (p. 8)",
+    "example": "The house is surrounded by a high wall to ensure privacy.",
+    "description": "房子四周圍繞著高牆以確保隱私。"
+  },
+  {
+    "word": "procedure",
+    "pos": "n.",
+    "chinese": "程序、手續 (p. 8)",
+    "example": "You must follow the correct procedure for applying for a visa.",
+    "description": "你必須遵循正確的程序來申請簽證。"
+  },
+  {
+    "word": "process",
+    "pos": "v.",
+    "chinese": "處理、加工 (n. 為 A2) (p. 8)",
+    "example": "The application will be processed within ten working days.",
+    "description": "申請將在十個工作天內處理完畢。"
+  },
+  {
+    "word": "produce",
+    "pos": "v.",
+    "chinese": "生產、製造 (B2 用法：出示、提出) (p. 8)",
+    "example": "He was asked to produce his passport at the border.",
+    "description": "他被要求在邊境出示他的護照。"
+  },
+  {
+    "word": "professional",
+    "pos": "n.",
+    "chinese": "專業人士 (adj. 為 A2) (p. 8)",
+    "example": "The company is looking for a professional with experience in marketing.",
+    "description": "公司正在尋找一位具有行銷經驗的專業人士。"
+  },
+  {
+    "word": "project",
+    "pos": "v.",
+    "chinese": "預計、投影 (n. 為 A1) (p. 8)",
+    "example": "Spending is projected to rise by five percent next year.",
+    "description": "支出預計明年將增長百分之五。"
+  },
+  {
+    "word": "proof",
+    "pos": "n.",
+    "chinese": "證據、證明 (p. 8)",
+    "example": "The police have no proof that he committed the crime.",
+    "description": "警方沒有證據證明他犯了罪。"
+  },
+  {
+    "word": "proposal",
+    "pos": "n.",
+    "chinese": "提議、提案、求婚 (p. 8)",
+    "example": "The committee rejected the proposal for a new stadium.",
+    "description": "委員會否決了新建體育場的提案。"
+  },
+  {
+    "word": "propose",
+    "pos": "v.",
+    "chinese": "提議、建議、求婚 (p. 8)",
+    "example": "The government proposed a new tax law last week.",
+    "description": "政府上週提議了一項新稅法。"
+  },
+  {
+    "word": "prospect",
+    "pos": "n.",
+    "chinese": "前景、展望、可能性 (p. 8)",
+    "example": "The prospect of a long holiday made her very happy.",
+    "description": "對長假的展望（期待）讓她非常開心。"
+  },
+  {
+    "word": "protection",
+    "pos": "n.",
+    "chinese": "保護 (p. 8)",
+    "example": "The helmet provides protection for your head.",
+    "description": "安全帽能為你的頭部提供保護。"
+  },
+  {
+    "word": "psychologist",
+    "pos": "n.",
+    "chinese": "心理學家 (p. 8)",
+    "example": "The psychologist helped her deal with her anxiety.",
+    "description": "心理學家幫助她應對焦慮。"
+  },
+  {
+    "word": "psychology",
+    "pos": "n.",
+    "chinese": "心理學 (p. 8)",
+    "example": "He is studying child psychology at university.",
+    "description": "他在大學學習兒童心理學。"
+  },
+  {
+    "word": "publication",
+    "pos": "n.",
+    "chinese": "出版物、發表 (p. 8)",
+    "example": "The publication of the report was delayed by a week.",
+    "description": "報告的發表延遲了一週。"
+  },
+  {
+    "word": "purchase",
+    "pos": "n./v.",
+    "chinese": "購買 (p. 8)",
+    "example": "Tickets can be purchased online or at the box office.",
+    "description": "門票可以線上購買或在售票處購買。"
+  },
+  {
+    "word": "pure",
+    "pos": "adj.",
+    "chinese": "純粹的、純淨的 (p. 8)",
+    "example": "The ring is made of pure gold.",
+    "description": "這枚戒指是由純金製成的。"
+  },
+  {
+    "word": "pursue",
+    "pos": "v.",
+    "chinese": "追求、追趕 (p. 8)",
+    "example": "She decided to pursue a career in medicine.",
+    "description": "她決定追求醫學領域的職業生涯。"
+  },
+  {
+    "word": "range",
+    "pos": "v.",
+    "chinese": "範圍在...之間、排列 (n. 為 B1)",
+    "example": "The students' ages range from 18 to 25.",
+    "description": "學生的年齡範圍在 18 到 25 歲之間。"
+  },
+  {
+    "word": "rank",
+    "pos": "n./v.",
+    "chinese": "等級、排位、把...分等",
+    "example": "She held a high rank in the army.",
+    "description": "她在軍中擁有很高的等級（軍階）。"
+  },
+  {
+    "word": "rapid",
+    "pos": "adj.",
+    "chinese": "快速的、急速的",
+    "example": "The city has seen rapid growth in the last decade.",
+    "description": "這座城市在過去十年中經歷了快速的增長。"
+  },
+  {
+    "word": "rapidly",
+    "pos": "adv.",
+    "chinese": "迅速地",
+    "example": "The technology is changing rapidly.",
+    "description": "這項技術正在迅速地改變。"
+  },
+  {
+    "word": "rate",
+    "pos": "v.",
+    "chinese": "評估、評價 (n. 為 A2)",
+    "example": "The film was rated as one of the best of the year.",
+    "description": "這部電影被評價為年度最佳影片之一。"
+  },
+  {
+    "word": "raw",
+    "pos": "adj.",
+    "chinese": "生的、未加工的",
+    "example": "Raw meat must be kept separate from cooked food.",
+    "description": "生肉必須與熟食分開存放。"
+  },
+  {
+    "word": "reach",
+    "pos": "n.",
+    "chinese": "觸及範圍 (v. 為 A2)",
+    "example": "Keep the medicine out of the reach of children.",
+    "description": "請將藥物放在兒童觸及範圍之外的地方。"
+  },
+  {
+    "word": "realistic",
+    "pos": "adj.",
+    "chinese": "現實的、實際的、寫實的",
+    "example": "We need to set realistic goals for the project.",
+    "description": "我們需要為這個專案設定現實的（可達成的）目標。"
+  },
+  {
+    "word": "reasonable",
+    "pos": "adj.",
+    "chinese": "合理的、講道理的、不貴的",
+    "example": "The price of the meal was very reasonable.",
+    "description": "這頓飯的價格非常合理（不貴）。"
+  },
+  {
+    "word": "recall",
+    "pos": "v.",
+    "chinese": "回想起、召回",
+    "example": "I cannot recall where I met him before.",
+    "description": "我回想不起（記不起來）以前在哪裡見過他。"
+  },
+  {
+    "word": "recover",
+    "pos": "v.",
+    "chinese": "恢復、康復、找回",
+    "example": "It took her several weeks to recover from the surgery.",
+    "description": "她花了幾個星期才從手術中康復（恢復）。"
+  },
+  {
+    "word": "reduction",
+    "pos": "n.",
+    "chinese": "減少、縮減、折扣",
+    "example": "There has been a significant reduction in crime this year.",
+    "description": "今年犯罪率有了顯著的減少（下降）。"
+  },
+  {
+    "word": "regard",
+    "pos": "v./n.",
+    "chinese": "看待、注視、尊重",
+    "example": "He is highly regarded by his colleagues.",
+    "description": "他深受同事們的看重（尊重）。"
+  },
+  {
+    "word": "regional",
+    "pos": "adj.",
+    "chinese": "地區的、區域的",
+    "example": "The company has several regional offices across the country.",
+    "description": "這間公司在全國各地設有幾個地區辦事處。"
+  },
+  {
+    "word": "register",
+    "pos": "v./n.",
+    "chinese": "註冊、登記",
+    "example": "You must register for the course by Friday.",
+    "description": "你必須在週五前註冊這門課程。"
+  },
+  {
+    "word": "regret",
+    "pos": "v./n.",
+    "chinese": "後悔、遺憾",
+    "example": "I regret to inform you that your application was unsuccessful.",
+    "description": "我很遺憾地通知您，您的申請未獲通過。"
+  },
+  {
+    "word": "regulation",
+    "pos": "n.",
+    "chinese": "規章、規則、管制",
+    "example": "The government has introduced new safety regulations.",
+    "description": "政府推出了新的安全規章（準則）。"
+  },
+  {
+    "word": "relatively",
+    "pos": "adv.",
+    "chinese": "相對地",
+    "example": "The exam was relatively easy compared to last year.",
+    "description": "與去年相比，這次考試相對地簡單。"
+  },
+  {
+    "word": "relevant",
+    "pos": "adj.",
+    "chinese": "相關的、切題的",
+    "example": "Please provide all the relevant information for your case.",
+    "description": "請提供與您的案件相關的所有資訊。"
+  },
+  {
+    "word": "relief",
+    "pos": "n.",
+    "chinese": "寬慰、緩解、救濟",
+    "example": "It was a great relief to hear that they were safe.",
+    "description": "聽到他們平安無事，真是一大寬慰。"
+  },
+  {
+    "word": "rely",
+    "pos": "v.",
+    "chinese": "依靠、依賴",
+    "example": "You can rely on him to finish the job on time.",
+    "description": "你可以依靠（信任）他準時完成工作。"
+  },
+  {
+    "word": "remark",
+    "pos": "n./v.",
+    "chinese": "言論、評論、察覺",
+    "example": "The critics made several positive remarks about the film.",
+    "description": "評論家對這部電影發表了幾項正面的評論（言論）。"
+  },
+  {
+    "word": "representative",
+    "pos": "n./adj.",
+    "chinese": "代表、具代表性的",
+    "example": "She is the elected representative for our district.",
+    "description": "她是我們選區選出的代表。"
+  },
+  {
+    "word": "reputation",
+    "pos": "n.",
+    "chinese": "名聲、聲望",
+    "example": "The restaurant has a good reputation for its seafood.",
+    "description": "這家餐廳的海鮮享有很好的名聲（聲望）。"
+  },
+  {
+    "word": "requirement",
+    "pos": "n.",
+    "chinese": "要求、必要條件",
+    "example": "A college degree is a basic requirement for this job.",
+    "description": "大學學位是這份工作的基本要求（必要條件）。"
+  },
+  {
+    "word": "rescue",
+    "pos": "v./n.",
+    "chinese": "營救、救援",
+    "example": "The firemen managed to rescue the cat from the tree.",
+    "description": "消防員設法從樹上營救了那隻貓。"
+  },
+  {
+    "word": "reserve",
+    "pos": "n./v.",
+    "chinese": "預訂、保留、保護區",
+    "example": "The national park is a famous wildlife reserve.",
+    "description": "這座國家公園是著名的野生動物保護區（保留區）。"
+  },
+  {
+    "word": "resident",
+    "pos": "n./adj.",
+    "chinese": "居民、定居的",
+    "example": "The local residents are happy with the new park.",
+    "description": "當地居民對新公園感到很滿意。"
+  },
+  {
+    "word": "resist",
+    "pos": "v.",
+    "chinese": "抵抗、抗拒、耐(磨/熱等)",
+    "example": "It's hard to resist eating chocolate when it's right in front of you.",
+    "description": "當巧克力就在你面前時，很難抗拒不去吃它。"
+  },
+  {
+    "word": "resolve",
+    "pos": "v.",
+    "chinese": "解決、決定、分解",
+    "example": "We need to find a way to resolve the conflict peacefully.",
+    "description": "我們需要找到一個和平解決衝突的方法。"
+  },
+  {
+    "word": "resort",
+    "pos": "n.",
+    "chinese": "度假勝地、手段",
+    "example": "We stayed at a beautiful beach resort during the summer.",
+    "description": "夏天我們住在一個美麗的海濱度假勝地。"
+  },
+  {
+    "word": "retain",
+    "pos": "v.",
+    "chinese": "保留、保持",
+    "example": "The company aims to retain its best employees.",
+    "description": "公司旨在保留其最優秀的員工。"
+  },
+  {
+    "word": "reveal",
+    "pos": "v.",
+    "chinese": "揭露、顯示、透露",
+    "example": "The investigation revealed the truth about the accident.",
+    "description": "調查揭露了關於這起事故的真相。"
+  },
+  {
+    "word": "revolution",
+    "pos": "n.",
+    "chinese": "革命、旋轉",
+    "example": "The industrial revolution changed the way people lived.",
+    "description": "工業革命改變了人們的生活方式。"
+  },
+  {
+    "word": "reward",
+    "pos": "n./v.",
+    "chinese": "獎勵、回報",
+    "example": "There is a reward for anyone who finds the missing dog.",
+    "description": "任何人找到失蹤的狗都會得到獎勵。"
+  },
+  {
+    "word": "rhythm",
+    "pos": "n.",
+    "chinese": "節奏、韻律",
+    "example": "She danced to the rhythm of the music.",
+    "description": "她隨著音樂的節奏起舞。"
+  },
+  {
+    "word": "rid",
+    "pos": "v.",
+    "chinese": "擺脫、除去",
+    "example": "We need to rid the garden of weeds.",
+    "description": "我們需要除去花園裡的雜草。"
+  },
+  {
+    "word": "rise",
+    "pos": "n.",
+    "chinese": "上升、增加 (v. 為 A2)",
+    "example": "There has been a sharp rise in the cost of living.",
+    "description": "生活成本有了急劇的上升（增加）。"
+  },
+  {
+    "word": "root",
+    "pos": "n.",
+    "chinese": "根、根源",
+    "example": "The root of the problem is a lack of trust.",
+    "description": "問題的根源（核心）是缺乏信任。"
+  },
+  {
+    "word": "round",
+    "pos": "n.",
+    "chinese": "輪、回合 (adj./adv. 為 A2)",
+    "example": "He won the first round of the boxing match.",
+    "description": "他贏了拳擊比賽的第一個回合（輪）。"
+  },
+  {
+    "word": "routine",
+    "pos": "adj.",
+    "chinese": "常規的、例行的 (n. 為 A1)",
+    "example": "The check-up is just a routine medical procedure.",
+    "description": "這次檢查只是常規的（例行的）醫療程序。"
+  },
+  {
+    "word": "rub",
+    "pos": "v.",
+    "chinese": "摩擦、揉、擦",
+    "example": "He rubbed his eyes because he was tired.",
+    "description": "因為累了，他揉了揉眼睛。"
+  },
+  {
+    "word": "rubber",
+    "pos": "n./adj.",
+    "chinese": "橡膠、橡膠製的",
+    "example": "The soles of the shoes are made of rubber.",
+    "description": "鞋底是由橡膠製成的。"
+  },
+  {
+    "word": "rural",
+    "pos": "adj.",
+    "chinese": "鄉村的、農村的",
+    "example": "She lives in a small rural community.",
+    "description": "她住在一個小型的鄉村社區。"
+  },
+  {
+    "word": "rush",
+    "pos": "v./n.",
+    "chinese": "衝、趕快、倉促",
+    "example": "There's no need to rush; we have plenty of time.",
+    "description": "不需要倉促（趕時間）；我們有充裕的時間。"
+  },
+  {
+    "word": "sample",
+    "pos": "v.",
+    "chinese": "抽樣檢查、品嚐 (n. 為 B1)",
+    "example": "The organization samples the river water every month.",
+    "description": "該機構每個月都會對河水進行抽樣檢查。"
+  },
+  {
+    "word": "satellite",
+    "pos": "n.",
+    "chinese": "衛星",
+    "example": "The weather forecast is based on information from satellites.",
+    "description": "天氣預報是根據來自衛星的資訊。"
+  },
+  {
+    "word": "satisfied",
+    "pos": "adj.",
+    "chinese": "滿意的、滿足的",
+    "example": "The manager was very satisfied with the team's performance.",
+    "description": "經理對團隊的表現感到非常滿意。"
+  },
+  {
+    "word": "satisfy",
+    "pos": "v.",
+    "chinese": "使滿意、使滿足、符合",
+    "example": "The company is working hard to satisfy its customers.",
+    "description": "公司正努力使客戶滿意（滿足客戶需求）。"
+  },
+  {
+    "word": "saving",
+    "pos": "n.",
+    "chinese": "節省、儲蓄、存款",
+    "example": "The new machine resulted in a significant saving of time.",
+    "description": "這台新機器大大節省（節省量）了時間。"
+  },
+  {
+    "word": "scale",
+    "pos": "n.",
+    "chinese": "規模、比例、天平",
+    "example": "The project was carried out on a global scale.",
+    "description": "該專案是在全球規模（範圍）下進行的。"
+  },
+  {
+    "word": "schedule",
+    "pos": "v.",
+    "chinese": "安排、排定 (n. 為 A2)",
+    "example": "The meeting is scheduled for next Tuesday.",
+    "description": "會議安排（排定）在下週二。"
+  },
+  {
+    "word": "scream",
+    "pos": "v./n.",
+    "chinese": "尖叫",
+    "example": "She screamed in terror when she saw the spider.",
+    "description": "她看到蜘蛛時恐懼地尖叫。"
+  },
+  {
+    "word": "screen",
+    "pos": "v.",
+    "chinese": "篩選、審查 (n. 為 A2)",
+    "example": "The candidates are screened before the final interview.",
+    "description": "候選人在最終面試前會經過篩選（審查）。"
+  },
+  {
+    "word": "seat",
+    "pos": "v.",
+    "chinese": "使就座、容納 (n. 為 A2)",
+    "example": "The auditorium seats five hundred people.",
+    "description": "這個禮堂可容納（使就座）五百人。"
+  },
+  {
+    "word": "sector",
+    "pos": "n.",
+    "chinese": "部門、領域、扇形",
+    "example": "The private sector plays a vital role in the economy.",
+    "description": "私營部門（領域）在經濟中扮演至關重要的角色。"
+  },
+  {
+    "word": "secure",
+    "pos": "v./adj.",
+    "chinese": "獲得、使安全、安全的",
+    "example": "The company managed to secure a large contract.",
+    "description": "公司設法獲得（確保）了一份大合約。"
+  },
+  {
+    "word": "seek",
+    "pos": "v.",
+    "chinese": "尋求、尋找",
+    "example": "They are seeking a professional for the new position.",
+    "description": "他們正在為新職位尋求（尋找）專業人士。"
+  },
+  {
+    "word": "select",
+    "pos": "v.",
+    "chinese": "選擇、選拔",
+    "example": "The committee will select the best candidate for the job.",
+    "description": "委員會將為這份工作選拔（選擇）最佳人選。"
+  },
+  {
+    "word": "selection",
+    "pos": "n.",
+    "chinese": "選擇、選拔、精選品",
+    "example": "The store offers a wide selection of organic vegetables.",
+    "description": "這家店提供多樣化的有機蔬菜選擇（精選品）。"
+  },
+  {
+    "word": "self",
+    "pos": "n.",
+    "chinese": "自我、自己",
+    "example": "He has a very strong sense of self.",
+    "description": "他有著非常強烈的自我（自覺）意識。"
+  },
+  {
+    "word": "senate",
+    "pos": "n.",
+    "chinese": "參議院",
+    "example": "The bill was passed by the senate yesterday.",
+    "description": "該法案昨天由參議院通過。"
+  },
+  {
+    "word": "senator",
+    "pos": "n.",
+    "chinese": "參議員",
+    "example": "The senator gave a speech on the new tax law.",
+    "description": "這位參議員就新稅法發表了演說。"
+  },
+  {
+    "word": "senior",
+    "pos": "adj.",
+    "chinese": "資深的、地位較高的",
+    "example": "She is a senior executive at a large bank.",
+    "description": "她是大型銀行的資深（高階）主管。"
+  },
+  {
+    "word": "sense",
+    "pos": "v.",
+    "chinese": "感覺到、察覺到 (n. 為 A2)",
+    "example": "He sensed that something was wrong.",
+    "description": "他察覺到（感覺到）有些事情不對勁。"
+  },
+  {
+    "word": "sensitive",
+    "pos": "adj.",
+    "chinese": "敏感的、體貼的",
+    "example": "She is very sensitive to other people's feelings.",
+    "description": "她對別人的感受非常敏感（體貼）。"
+  },
+  {
+    "word": "sentence",
+    "pos": "v.",
+    "chinese": "判決、宣判 (n. 為 A1)",
+    "example": "The judge sentenced him to five years in prison.",
+    "description": "法官判處（宣判）他五年有期徒刑。"
+  },
+  {
+    "word": "sequence",
+    "pos": "n.",
+    "chinese": "順序、序列、一連串",
+    "example": "The events happened in a logical sequence.",
+    "description": "這些事件按邏輯順序（序列）發生。"
+  },
+  {
+    "word": "session",
+    "pos": "n.",
+    "chinese": "會議、期間、課",
+    "example": "The training session lasted for three hours.",
+    "description": "培訓課（期間）持續了三個小時。"
+  },
+  {
+    "word": "settle",
+    "pos": "v.",
+    "chinese": "解決、定居、安頓",
+    "example": "They finally managed to settle the dispute.",
+    "description": "他們終於設法解決了爭議。"
+  },
+  {
+    "word": "severe",
+    "pos": "adj.",
+    "chinese": "嚴重的、嚴厲的",
+    "example": "The country is facing a severe shortage of water.",
+    "description": "國家正面臨嚴重的缺水問題。"
+  },
+  {
+    "word": "shade",
+    "pos": "n.",
+    "chinese": "陰影、陰涼處、色調 (v. 為 B2)",
+    "example": "Let's sit in the shade of that tree.",
+    "description": "我們坐在那棵樹的陰涼處（陰影下）吧。"
+  },
+  {
+    "word": "shadow",
+    "pos": "n.",
+    "chinese": "影子、陰影 (v. 為 B2)",
+    "example": "The long shadows stretched across the grass.",
+    "description": "長長的影子（陰影）延伸過草地。"
+  },
+  {
+    "word": "shall",
+    "pos": "modal v.",
+    "chinese": "將、應、會",
+    "example": "We shall never forget your kindness.",
+    "description": "我們將永遠不會忘記你的善意。"
+  },
+  {
+    "word": "shallow",
+    "pos": "adj.",
+    "chinese": "淺的、膚淺的",
+    "example": "The river is very shallow at this point.",
+    "description": "這條河在此處非常淺。"
+  },
+  {
+    "word": "shame",
+    "pos": "n.",
+    "chinese": "羞恥、遺憾",
+    "example": "It’s a shame that you can’t come to the party.",
+    "description": "你不能來參加派對真是一件遺憾（可惜）的事。"
+  },
+  {
+    "word": "shape",
+    "pos": "v.",
+    "chinese": "塑造、成形 (n. 為 A2)",
+    "example": "Our early experiences help to shape our character.",
+    "description": "我們早期的經歷有助於塑造我們的性格。"
+  },
+  {
+    "word": "shelter",
+    "pos": "n./v.",
+    "chinese": "庇護所、遮蓋、躲避",
+    "example": "We took shelter from the rain under a large tree.",
+    "description": "我們在大樹下躲避（遮蓋）雨水。"
+  },
+  {
+    "word": "shift",
+    "pos": "v.",
+    "chinese": "轉移、改變 (n. 為 B1)",
+    "example": "The focus of the discussion shifted to the budget.",
+    "description": "討論的焦點轉移（改變）到了預算上。"
+  },
+  {
+    "word": "ship",
+    "pos": "v.",
+    "chinese": "運送、郵寄 (n. 為 A2)",
+    "example": "The goods will be shipped next week.",
+    "description": "貨物將於下週運送（郵寄）。"
+  },
+  {
+    "word": "shock",
+    "pos": "n./v.",
+    "chinese": "震驚、衝突",
+    "example": "The news of his death came as a great shock.",
+    "description": "他去世的消息令人感到非常震驚。"
+  },
+  {
+    "word": "shocked",
+    "pos": "adj.",
+    "chinese": "感到震驚的",
+    "example": "I was deeply shocked by what I saw.",
+    "description": "我對所見到的景象感到深深的震驚。"
+  },
+  {
+    "word": "shot",
+    "pos": "n.",
+    "chinese": "射擊、照片、嘗試 (v. 為 B1)",
+    "example": "The photographer took a brilliant shot of the mountains.",
+    "description": "攝影師拍了一張精彩的山景照片（鏡頭）。"
+  },
+  {
+    "word": "significant",
+    "pos": "adj.",
+    "chinese": "顯著的、重要的",
+    "example": "There has been a significant increase in sales.",
+    "description": "銷量有了顯著的（重要的）增長。"
+  },
+  {
+    "word": "significantly",
+    "pos": "adv.",
+    "chinese": "顯著地、相當地",
+    "example": "The price of the house has dropped significantly.",
+    "description": "房子的價格已經顯著地（相當地）下降了。"
+  },
+  {
+    "word": "silence",
+    "pos": "n.",
+    "chinese": "沉默、安靜",
+    "example": "There was a long silence before she spoke.",
+    "description": "在她說話之前有一段很長的沉默（安靜）。"
+  },
+  {
+    "word": "silk",
+    "pos": "n.",
+    "chinese": "絲綢",
+    "example": "The dress is made of pure silk.",
+    "description": "這件洋裝是由純絲綢製成的。"
+  },
+  {
+    "word": "sincere",
+    "pos": "adj.",
+    "chinese": "真誠的、誠懇的",
+    "example": "Please accept my sincere apologies for the delay.",
+    "description": "請接受我對這次延誤的真誠（誠懇）道歉。"
+  },
+  {
+    "word": "slide",
+    "pos": "v./n.",
+    "chinese": "滑動、滑梯、幻燈片",
+    "example": "The glass slid across the table and fell on the floor.",
+    "description": "玻璃杯在桌上滑動，然後掉到了地板上。"
+  },
+  {
+    "word": "slight",
+    "pos": "adj.",
+    "chinese": "輕微的、微小的",
+    "example": "There has been a slight change in the schedule.",
+    "description": "行程有了輕微的（微小的）變動。"
+  },
+  {
+    "word": "slip",
+    "pos": "v.",
+    "chinese": "滑倒、溜走、出錯",
+    "example": "Be careful not to slip on the wet floor.",
+    "description": "小心別在濕的地板上滑倒。"
+  },
+  {
+    "word": "slope",
+    "pos": "n./v.",
+    "chinese": "斜坡、傾斜",
+    "example": "The house is built on a steep slope.",
+    "description": "這棟房子建在一個陡峭的斜坡上。"
+  },
+  {
+    "word": "somewhat",
+    "pos": "adv.",
+    "chinese": "有點、稍微",
+    "example": "The results were somewhat disappointing.",
+    "description": "結果有點（稍微）令人失望。"
+  },
+  {
+    "word": "soul",
+    "pos": "n.",
+    "chinese": "靈魂、心靈、精髓",
+    "example": "Music is good for the soul.",
+    "description": "音樂有益於靈魂（心靈）。"
+  },
+  {
+    "word": "take",
+    "pos": "v.",
+    "chinese": "拿、取 (B2 用法：忍受、接納)",
+    "example": "I don’t think I can take much more of this noise.",
+    "description": "我想我再也無法忍受（接納）這種噪音了。"
+  },
+  {
+    "word": "tale",
+    "pos": "n.",
+    "chinese": "故事、傳說",
+    "example": "The old man told us an amazing tale of his travels.",
+    "description": "那位老人給我們講了一個關於他旅行的驚人故事。"
+  },
+  {
+    "word": "tank",
+    "pos": "n.",
+    "chinese": "坦克、大水槽、油箱",
+    "example": "The car’s gas tank is almost empty.",
+    "description": "汽車的油箱（大水槽）快空了。"
+  },
+  {
+    "word": "target",
+    "pos": "v.",
+    "chinese": "把...作為目標 (n. 為 A2)",
+    "example": "The advertisement is targeted at young professionals.",
+    "description": "這則廣告是把年輕專業人士作為目標（針對）。"
+  },
+  {
+    "word": "term",
+    "pos": "v.",
+    "chinese": "把...稱為 (n. 為 A2)",
+    "example": "He has been termed a genius by his colleagues.",
+    "description": "他被同事們稱為（命名）天才。"
+  },
+  {
+    "word": "therapy",
+    "pos": "n.",
+    "chinese": "治療、療法",
+    "example": "Physical therapy can help people recover from injuries.",
+    "description": "物理治療（療法）可以幫助人們從傷病中康復。"
+  },
+  {
+    "word": "threat",
+    "pos": "n.",
+    "chinese": "威脅、恐嚇",
+    "example": "Pollution is a serious threat to the environment.",
+    "description": "污染對環境是一個嚴重的威脅。"
+  },
+  {
+    "word": "threaten",
+    "pos": "v.",
+    "chinese": "威脅、恐嚇",
+    "example": "The tall trees threatened to fall during the storm.",
+    "description": "大雨中，那些高大的樹木有倒塌的威脅（危險）。"
+  },
+  {
+    "word": "thus",
+    "pos": "adv.",
+    "chinese": "因此、從而、如此",
+    "example": "The oil price has fallen; thus, travel costs should decrease.",
+    "description": "油價已經下跌；因此（從而），交通成本應該會降低。"
+  },
+  {
+    "word": "time",
+    "pos": "v.",
+    "chinese": "為...安排時間、計時 (n. 為 A1)",
+    "example": "The experiment was timed to last for exactly one hour.",
+    "description": "實驗被安排時間（計時）為正好持續一小時。"
+  },
+  {
+    "word": "title",
+    "pos": "v.",
+    "chinese": "加標題於、賦予頭銜 (n. 為 A1)",
+    "example": "The author hasn’t titled his new book yet.",
+    "description": "作者還沒為他的新書加標題（命名）。"
+  },
+  {
+    "word": "tone",
+    "pos": "n.",
+    "chinese": "語氣、腔調、色調",
+    "example": "She spoke in a very friendly tone of voice.",
+    "description": "她用非常友善的語氣（腔調）說話。"
+  },
+  {
+    "word": "tough",
+    "pos": "adj.",
+    "chinese": "艱難的、堅韌的、強硬的",
+    "example": "It was a tough decision to make, but it was necessary.",
+    "description": "那是一個艱難的（辛苦的）決定，但卻是必要的。"
+  },
+  {
+    "word": "track",
+    "pos": "v.",
+    "chinese": "追蹤 (n. 為 A2)",
+    "example": "The software can track your daily expenses easily.",
+    "description": "這款軟體可以輕鬆追蹤你的日常開支。"
+  },
+  {
+    "word": "transfer",
+    "pos": "v./n.",
+    "chinese": "轉移、轉帳、調動",
+    "example": "He has been transferred to the company's New York office.",
+    "description": "他被調動（轉移）到了公司的紐約辦公室。"
+  },
+  {
+    "word": "transform",
+    "pos": "v.",
+    "chinese": "使改變、使轉化",
+    "example": "The new technology has transformed the way we communicate.",
+    "description": "這項新技術改變了（轉化了）我們溝通的方式。"
+  },
+  {
+    "word": "transition",
+    "pos": "n.",
+    "chinese": "過渡、轉變",
+    "example": "The country is in the middle of a transition to a new government.",
+    "description": "這個國家正處於向新政府過渡（轉變）的階段。"
+  },
+  {
+    "word": "trial",
+    "pos": "n.",
+    "chinese": "審判、試用、磨難",
+    "example": "The trial of the suspect will begin next week.",
+    "description": "嫌疑人的審判（審理）將於下週開始。"
+  },
+  {
+    "word": "trip",
+    "pos": "v.",
+    "chinese": "絆倒 (n. 為 A1)",
+    "example": "Be careful not to trip over the wires on the floor.",
+    "description": "小心別被地板上的電線絆倒。"
+  },
+  {
+    "word": "tropical",
+    "pos": "adj.",
+    "chinese": "熱帶的",
+    "example": "The island is famous for its tropical fruits.",
+    "description": "這座島嶼以其熱帶的水果聞名。"
+  },
+  {
+    "word": "trouble",
+    "pos": "v.",
+    "chinese": "麻煩、使煩惱 (n. 為 A2)",
+    "example": "I’m sorry to trouble you, but could you help me?",
+    "description": "很抱歉麻煩（打擾）你，但你能幫我嗎？"
+  },
+  {
+    "word": "truly",
+    "pos": "adv.",
+    "chinese": "真心地、確實地",
+    "example": "I am truly grateful for all your help.",
+    "description": "我對你所有的幫助真心地（確實地）感激。"
+  },
+  {
+    "word": "trust",
+    "pos": "n./v.",
+    "chinese": "信任、信賴",
+    "example": "A successful marriage is built on mutual trust.",
+    "description": "成功的婚姻建立在相互的信任（信賴）之上。"
+  },
+  {
+    "word": "try",
+    "pos": "n.",
+    "chinese": "嘗試 (v. 為 A1)",
+    "example": "It’s worth a try, even if we are not sure it will work.",
+    "description": "即使我們不確定會成功，也值得一試（嘗試）。"
+  },
+  {
+    "word": "tune",
+    "pos": "n.",
+    "chinese": "曲調、旋律 (v. 為 B2)",
+    "example": "She hummed a catchy tune while she worked.",
+    "description": "她在工作時哼著一段動聽的曲調（旋律）。"
+  },
+  {
+    "word": "tunnel",
+    "pos": "n.",
+    "chinese": "隧道、地道",
+    "example": "The train went through a long tunnel in the mountain.",
+    "description": "火車穿過山裡的一條長隧道。"
+  },
+  {
+    "word": "ultimately",
+    "pos": "adv.",
+    "chinese": "最終、最後",
+    "example": "The decision ultimately rests with the manager.",
+    "description": "這項決定最終（最後）由經理負責。"
+  },
+  {
+    "word": "unconscious",
+    "pos": "adj.",
+    "chinese": "無意識的、失去知覺的",
+    "example": "He was knocked unconscious in the car accident.",
+    "description": "他在車禍中被撞得失去知覺（無意識）。"
+  },
+  {
+    "word": "unexpected",
+    "pos": "adj.",
+    "chinese": "出乎意料的、意外的",
+    "example": "We faced some unexpected problems during the trip.",
+    "description": "我們在旅途中遇到了一些出乎意料的（意外的）問題。"
+  },
+  {
+    "word": "unique",
+    "pos": "adj.",
+    "chinese": "獨特的、唯一的",
+    "example": "Each person's fingerprints are unique.",
+    "description": "每個人的指紋都是獨一無二的（獨特的）。"
+  },
+  {
+    "word": "universe",
+    "pos": "n.",
+    "chinese": "宇宙、全世界",
+    "example": "Scientists are still exploring the mysteries of the universe.",
+    "description": "科學家們仍在探索宇宙的奧秘。"
+  },
+  {
+    "word": "unknown",
+    "pos": "adj.",
+    "chinese": "未知的、不知名的",
+    "example": "The cause of the fire is still unknown.",
+    "description": "起火原因目前仍然未知（不詳）。"
+  },
+  {
+    "word": "upper",
+    "pos": "adj.",
+    "chinese": "較高的、上層的",
+    "example": "The upper floors of the building are used for offices.",
+    "description": "這棟建築的較高（上層）樓層被用作辦公室。"
+  },
+  {
+    "word": "upward",
+    "pos": "adv.",
+    "chinese": "向上地",
+    "example": "The price of oil has shown an upward trend.",
+    "description": "油價呈現出向上（增長）的趨勢。"
+  },
+  {
+    "word": "urban",
+    "pos": "adj.",
+    "chinese": "都市的、城鎮的",
+    "example": "The government is planning to improve urban transportation.",
+    "description": "政府正計畫改善都市（城鎮）交通。"
+  },
+  {
+    "word": "urge",
+    "pos": "v.",
+    "chinese": "催促、力勸、強烈要求",
+    "example": "The report urges the government to take immediate action.",
+    "description": "該報告催促（力勸）政府立即採取行動。"
+  },
+  {
+    "word": "value",
+    "pos": "v.",
+    "chinese": "重視、估價 (n. 為 B1)",
+    "example": "I value your opinion very much.",
+    "description": "我非常重視（看重）你的意見。"
+  },
+  {
+    "word": "van",
+    "pos": "n.",
+    "chinese": "廂型車、貨車",
+    "example": "We hired a van to move our furniture to the new house.",
+    "description": "我們租了一輛廂型車（貨車）把家具搬到新家。"
+  },
+  {
+    "word": "vary",
+    "pos": "v.",
+    "chinese": "改變、使多樣化、變化",
+    "example": "The prices of the products vary from store to store.",
+    "description": "產品的價格因商店而異（有所變化）。"
+  },
+  {
+    "word": "vast",
+    "pos": "adj.",
+    "chinese": "巨大的、廣大的",
+    "example": "The vast majority of people supported the new law.",
+    "description": "絕大多數（巨大比例）的人支持這項新法律。"
+  },
+  {
+    "word": "venue",
+    "pos": "n.",
+    "chinese": "場地、場館",
+    "example": "The stadium is a popular venue for concerts.",
+    "description": "這座體育場是舉辦音樂會的熱門場地（場館）。"
+  },
+  {
+    "word": "very",
+    "pos": "adj.",
+    "chinese": "正是、恰好是 (adv. 為 A1)",
+    "example": "This is the very thing I was looking for.",
+    "description": "這恰好（正是）我一直在找的東西。"
+  },
+  {
+    "word": "via",
+    "pos": "prep.",
+    "chinese": "經由、透過",
+    "example": "The news was sent to us via email.",
+    "description": "這則消息是透過（經由）電子郵件傳送給我們的。"
+  },
+  {
+    "word": "victory",
+    "pos": "n.",
+    "chinese": "勝利",
+    "example": "The team celebrated their victory in the final match.",
+    "description": "球隊慶祝了他們在決賽中的勝利。"
+  },
+  {
+    "word": "violence",
+    "pos": "n.",
+    "chinese": "暴力、猛烈",
+    "example": "The government is trying to reduce violence in schools.",
+    "description": "政府正努力減少校園暴力。"
+  },
+  {
+    "word": "virtual",
+    "pos": "adj.",
+    "chinese": "虛擬的、實質上的",
+    "example": "The website offers a virtual tour of the museum.",
+    "description": "該網站提供博物館的虛擬導覽。"
+  },
+  {
+    "word": "vision",
+    "pos": "n.",
+    "chinese": "遠見、視覺、幻想",
+    "example": "The leader had a clear vision for the country's future.",
+    "description": "這位領導人對國家的未來有著清晰的遠見（願景）。"
+  },
+  {
+    "word": "visual",
+    "pos": "adj.",
+    "chinese": "視覺的",
+    "example": "The book is full of beautiful visual images.",
+    "description": "這本書充滿了美麗的視覺圖像。"
+  },
+  {
+    "word": "vital",
+    "pos": "adj.",
+    "chinese": "至關重要的、充滿活力的",
+    "example": "Trust is a vital component of a healthy relationship.",
+    "description": "信任是健康關係中至關重要的元素。"
+  },
+  {
+    "word": "vitamin",
+    "pos": "n.",
+    "chinese": "維生素",
+    "example": "Fresh fruit and vegetables are full of vitamins.",
+    "description": "新鮮蔬菜水果富含維生素。"
+  },
+  {
+    "word": "volume",
+    "pos": "n.",
+    "chinese": "音量、體積、卷冊",
+    "example": "Please turn down the volume of the television.",
+    "description": "請調低電視的音量。"
+  },
+  {
+    "word": "wage",
+    "pos": "n.",
+    "chinese": "薪水、工資",
+    "example": "They are fighting for a fair minimum wage.",
+    "description": "他們正在爭取公平的最低工資（薪水）。"
+  },
+  {
+    "word": "way",
+    "pos": "adv.",
+    "chinese": "遠遠地、非常 (n. 為 A1)",
+    "example": "The price is way too high for me.",
+    "description": "這價格對我來說遠遠地（非常）太高了。"
+  },
+  {
+    "word": "weakness",
+    "pos": "n.",
+    "chinese": "弱點、虛弱",
+    "example": "The interview helps to identify the candidate's weaknesses.",
+    "description": "面試有助於識別候選人的弱點。"
+  },
+  {
+    "word": "wealth",
+    "pos": "n.",
+    "chinese": "財富、財產",
+    "example": "His wealth comes from his successful software company.",
+    "description": "他的財富來自於他成功的軟體公司。"
+  },
+  {
+    "word": "wealthy",
+    "pos": "adj.",
+    "chinese": "富有的、豐裕的",
+    "example": "She comes from a very wealthy family.",
+    "description": "她出身於一個非常富有的家庭。"
+  },
+  {
+    "word": "whereas",
+    "pos": "conj.",
+    "chinese": "然而、但是、儘管",
+    "example": "He loves adventure, whereas his brother prefers to stay home.",
+    "description": "他熱愛冒險，然而（但是）他的弟弟更喜歡待在家裡。"
+  },
+  {
+    "word": "wherever",
+    "pos": "conj.",
+    "chinese": "無論哪裡",
+    "example": "I will follow you wherever you go.",
+    "description": "無論你去哪裡，我都會跟隨你。"
+  },
+  {
+    "word": "whisper",
+    "pos": "v./n.",
+    "chinese": "耳語、低聲說話",
+    "example": "She spoke in a whisper so as not to wake the baby.",
+    "description": "她低聲說話（耳語），以免吵醒嬰兒。"
+  },
+  {
+    "word": "widely",
+    "pos": "adv.",
+    "chinese": "廣泛地",
+    "example": "The book is widely considered to be a masterpiece.",
+    "description": "這本書被廣泛地認為是一部傑作。"
+  },
+  {
+    "word": "wildlife",
+    "pos": "n.",
+    "chinese": "野生動植物",
+    "example": "The national park is home to a wide range of wildlife.",
+    "description": "這座國家公園是各式各樣野生動植物的家園。"
+  },
+  {
+    "word": "willing",
+    "pos": "adj.",
+    "chinese": "樂意的、自願的",
+    "example": "Are you willing to help us with the project?",
+    "description": "你樂意（自願）幫助我們完成這個專案嗎？"
+  },
+  {
+    "word": "wind",
+    "pos": "v.",
+    "chinese": "纏繞、轉動 (n. 為 A2)",
+    "example": "She wound the string around her finger.",
+    "description": "她將細繩纏繞在手指上。"
+  },
+  {
+    "word": "wire",
+    "pos": "n.",
+    "chinese": "電線、金屬線",
+    "example": "The fence was made of barbed wire.",
+    "description": "圍牆是由帶刺的鐵絲（金屬線）製成的。"
+  },
+  {
+    "word": "wise",
+    "pos": "adj.",
+    "chinese": "明智的、聰明的",
+    "example": "It was a wise decision to save money for the future.",
+    "description": "為了未來儲蓄金錢是一個明智的決定。"
+  },
+  {
+    "word": "witness",
+    "pos": "n./v.",
+    "chinese": "目擊者、見證人、目擊",
+    "example": "The police are looking for witnesses to the accident.",
+    "description": "警方正在尋找這起事故的目擊者。"
+  },
+  {
+    "word": "worth",
+    "pos": "n.",
+    "chinese": "價值 (adj. 為 B1)",
+    "example": "The jewels are of great worth.",
+    "description": "這些珠寶具有極大的價值。"
+  },
+  {
+    "word": "wound",
+    "pos": "n./v.",
+    "chinese": "傷口、傷害",
+    "example": "The soldier was treated for a leg wound.",
+    "description": "士兵接受了腿部傷口的治療。"
+  },
+  {
+    "word": "wrap",
+    "pos": "v.",
+    "chinese": "包、裹、覆蓋",
+    "example": "He wrapped the gift in beautiful paper.",
+    "description": "他用漂亮的紙把禮物包了起來。"
+  },
+  {
+    "word": "wrong",
+    "pos": "n.",
+    "chinese": "錯誤、不義行為 (adj. 為 A1)",
+    "example": "There is a clear difference between right and wrong.",
+    "description": "對與錯（不義行為）之間有明顯的區別。"
+  },
+  {
+    "word": "yet",
+    "pos": "conj.",
+    "chinese": "然而、但是 (adv. 為 A2)",
+    "example": "It's a small house, yet it's very comfortable.",
+    "description": "這是一間小房子，然而（但是）它非常舒適。"
+  },
+  {
+    "word": "zone",
+    "pos": "n.",
+    "chinese": "地帶、區域",
+    "example": "The city center is a no-parking zone.",
+    "description": "市中心是禁止停車地帶（區域）。"
+  }
+]

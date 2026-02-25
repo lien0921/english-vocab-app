@@ -1,0 +1,6190 @@
+[
+  {
+    "word": "a, an",
+    "pos": "indefinite article",
+    "chinese": "一個 (冠詞)",
+    "example": "I have a cat and an orange.",
+    "description": "我有一隻貓和一顆橘子。"
+  },
+  {
+    "word": "about",
+    "pos": "prep., adv.",
+    "chinese": "關於、大約",
+    "example": "This book is about history. It takes about ten minutes.",
+    "description": "這本書是關於歷史的。這大約需要十分鐘。"
+  },
+  {
+    "word": "above",
+    "pos": "prep., adv.",
+    "chinese": "在...上方",
+    "example": "The plane is flying above the clouds.",
+    "description": "飛機正飛在雲層上方。"
+  },
+  {
+    "word": "across",
+    "pos": "prep., adv.",
+    "chinese": "橫越、穿過",
+    "example": "They walk across the bridge every morning.",
+    "description": "他們每天早上走過這座橋。"
+  },
+  {
+    "word": "action",
+    "pos": "n.",
+    "chinese": "行動、動作",
+    "example": "We need to take action now.",
+    "description": "我們現在需要採取行動。"
+  },
+  {
+    "word": "activity",
+    "pos": "n.",
+    "chinese": "活動",
+    "example": "Basketball is my favorite outdoor activity.",
+    "description": "籃球是我最喜歡的戶外活動。"
+  },
+  {
+    "word": "actor",
+    "pos": "n.",
+    "chinese": "男演員",
+    "example": "He is a very famous actor.",
+    "description": "他是一位非常著名的男演員。"
+  },
+  {
+    "word": "actress",
+    "pos": "n.",
+    "chinese": "女演員",
+    "example": "She is a talented actress.",
+    "description": "她是一位很有才華的女演員。"
+  },
+  {
+    "word": "add",
+    "pos": "v.",
+    "chinese": "增加、加上",
+    "example": "Please add some sugar to my coffee.",
+    "description": "請在我的咖啡裡加點糖。"
+  },
+  {
+    "word": "address",
+    "pos": "n.",
+    "chinese": "地址",
+    "example": "What is your home address?",
+    "description": "你家的地址是什麼？"
+  },
+  {
+    "word": "adult",
+    "pos": "n.",
+    "chinese": "成人",
+    "example": "This movie is for adults only.",
+    "description": "這部電影僅限成人觀看。"
+  },
+  {
+    "word": "advice",
+    "pos": "n.",
+    "chinese": "建議、忠告",
+    "example": "My teacher gave me some good advice.",
+    "description": "我的老師給了我一些好建議。"
+  },
+  {
+    "word": "afraid",
+    "pos": "adj.",
+    "chinese": "害怕的",
+    "example": "Don't be afraid of the dog.",
+    "description": "不要怕這隻狗。"
+  },
+  {
+    "word": "after",
+    "pos": "prep.",
+    "chinese": "在...之後",
+    "example": "We can go play after school.",
+    "description": "我們放學後可以去玩。"
+  },
+  {
+    "word": "afternoon",
+    "pos": "n.",
+    "chinese": "下午",
+    "example": "I drink tea every afternoon.",
+    "description": "我每天下午都喝茶。"
+  },
+  {
+    "word": "again",
+    "pos": "adv.",
+    "chinese": "再次",
+    "example": "Can you say that again?",
+    "description": "你能再說一次嗎？"
+  },
+  {
+    "word": "age",
+    "pos": "n.",
+    "chinese": "年齡",
+    "example": "What is your age?",
+    "description": "你的年齡是多少？"
+  },
+  {
+    "word": "ago",
+    "pos": "adv.",
+    "chinese": "...之前",
+    "example": "I met him two years ago.",
+    "description": "我兩年前見過他。"
+  },
+  {
+    "word": "agree",
+    "pos": "v.",
+    "chinese": "同意",
+    "example": "I agree with your idea.",
+    "description": "我同意你的想法。"
+  },
+  {
+    "word": "air",
+    "pos": "n.",
+    "chinese": "空氣",
+    "example": "We need fresh air.",
+    "description": "我們需要新鮮空氣。"
+  },
+  {
+    "word": "airport",
+    "pos": "n.",
+    "chinese": "機場",
+    "example": "The airport is very far from here.",
+    "description": "機場離這裡非常遠。"
+  },
+  {
+    "word": "all",
+    "pos": "det., pron.",
+    "chinese": "全部、所有",
+    "example": "All the students are in the classroom.",
+    "description": "所有的學生都在教室裡。"
+  },
+  {
+    "word": "also",
+    "pos": "adv.",
+    "chinese": "也",
+    "example": "I like apples and also bananas.",
+    "description": "我喜歡蘋果，也喜歡香蕉。"
+  },
+  {
+    "word": "always",
+    "pos": "adv.",
+    "chinese": "總是",
+    "example": "She always finishes her work on time.",
+    "description": "她總是準時完成工作。"
+  },
+  {
+    "word": "amazing",
+    "pos": "adj.",
+    "chinese": "令人驚奇的、棒極了",
+    "example": "The view from the mountain is amazing.",
+    "description": "從山上看到的景色棒極了。"
+  },
+  {
+    "word": "and",
+    "pos": "conj.",
+    "chinese": "和、而且",
+    "example": "I have a brother and a sister.",
+    "description": "我有一個哥哥和一個姊姊。"
+  },
+  {
+    "word": "angry",
+    "pos": "adj.",
+    "chinese": "生氣的",
+    "example": "My father was angry with me.",
+    "description": "我父親對我很生氣。"
+  },
+  {
+    "word": "animal",
+    "pos": "n.",
+    "chinese": "動物",
+    "example": "An elephant is a large animal.",
+    "description": "大象是一種大型動物。"
+  },
+  {
+    "word": "another",
+    "pos": "det./pron.",
+    "chinese": "另一個",
+    "example": "Can I have another cup of water?",
+    "description": "我可以再要一杯水嗎？"
+  },
+  {
+    "word": "answer",
+    "pos": "n., v.",
+    "chinese": "回答、答案",
+    "example": "Please answer my question.",
+    "description": "請回答我的問題。"
+  },
+  {
+    "word": "any",
+    "pos": "det., pron.",
+    "chinese": "任何",
+    "example": "Do you have any questions?",
+    "description": "你有任何問題嗎？"
+  },
+  {
+    "word": "anyone",
+    "pos": "pron.",
+    "chinese": "任何人",
+    "example": "Is there anyone in the office?",
+    "description": "辦公室裡有人嗎？"
+  },
+  {
+    "word": "anything",
+    "pos": "pron.",
+    "chinese": "任何事/物",
+    "example": "I don't need anything from the store.",
+    "description": "我不需要商店裡的任何東西。"
+  },
+  {
+    "word": "apartment",
+    "pos": "n.",
+    "chinese": "公寓",
+    "example": "I live in a small apartment.",
+    "description": "我住在一間小公寓裡。"
+  },
+  {
+    "word": "apple",
+    "pos": "n.",
+    "chinese": "蘋果",
+    "example": "An apple a day keeps the doctor away.",
+    "description": "一天一蘋果，醫生遠離我。"
+  },
+  {
+    "word": "April",
+    "pos": "n.",
+    "chinese": "四月",
+    "example": "My birthday is in April.",
+    "description": "我的生日在四月。"
+  },
+  {
+    "word": "area",
+    "pos": "n.",
+    "chinese": "地區、區域",
+    "example": "There are many trees in this area.",
+    "description": "這個區域有很多樹。"
+  },
+  {
+    "word": "arm",
+    "pos": "n.",
+    "chinese": "手臂",
+    "example": "He broke his arm during the game.",
+    "description": "他在比賽中弄斷了手臂。"
+  },
+  {
+    "word": "around",
+    "pos": "prep., adv.",
+    "chinese": "在...周圍、大約",
+    "example": "We walked around the park.",
+    "description": "我們繞著公園走。"
+  },
+  {
+    "word": "arrive",
+    "pos": "v.",
+    "chinese": "抵達",
+    "example": "What time does the train arrive?",
+    "description": "火車幾點抵達？"
+  },
+  {
+    "word": "art",
+    "pos": "n.",
+    "chinese": "藝術",
+    "example": "She likes modern art.",
+    "description": "她喜歡現代藝術。"
+  },
+  {
+    "word": "article",
+    "pos": "n.",
+    "chinese": "文章",
+    "example": "I read an interesting article today.",
+    "description": "我今天讀了一篇有趣的文章。"
+  },
+  {
+    "word": "artist",
+    "pos": "n.",
+    "chinese": "藝術家",
+    "example": "He is a very creative artist.",
+    "description": "他是一位非常有創意的藝術家。"
+  },
+  {
+    "word": "as",
+    "pos": "prep.",
+    "chinese": "身為、作為",
+    "example": "She works as a nurse.",
+    "description": "她身為一名護士工作。"
+  },
+  {
+    "word": "ask",
+    "pos": "v.",
+    "chinese": "問、要求",
+    "example": "I need to ask for help.",
+    "description": "我需要尋求幫助。"
+  },
+  {
+    "word": "at",
+    "pos": "prep.",
+    "chinese": "在 (地點或時間)",
+    "example": "I'll meet you at the station.",
+    "description": "我會在車站和你見面。"
+  },
+  {
+    "word": "August",
+    "pos": "n.",
+    "chinese": "八月",
+    "example": "The weather is very hot in August.",
+    "description": "八月的天氣非常熱。"
+  },
+  {
+    "word": "aunt",
+    "pos": "n.",
+    "chinese": "阿姨、姑姑、嬸嬸",
+    "example": "My aunt lives in London.",
+    "description": "我的阿姨住在倫敦。"
+  },
+  {
+    "word": "away",
+    "pos": "adv.",
+    "chinese": "離開、遠離",
+    "example": "Please go away.",
+    "description": "請離開。"
+  },
+  {
+    "word": "awesome",
+    "pos": "adj.",
+    "chinese": "太棒了、令人敬畏的",
+    "example": "Your new car is awesome!",
+    "description": "你的新車太棒了！"
+  },
+  {
+    "word": "baby",
+    "pos": "n.",
+    "chinese": "嬰兒 (p. 1)",
+    "example": "The baby is sleeping in the crib.",
+    "description": "嬰兒正在嬰兒床裡睡覺。"
+  },
+  {
+    "word": "back",
+    "pos": "n., adv.",
+    "chinese": "背部、向後 (p. 1)",
+    "example": "Please stand back from the door. My back hurts.",
+    "description": "請往後站離門遠一點。我的背很痛。"
+  },
+  {
+    "word": "bad",
+    "pos": "adj.",
+    "chinese": "壞的、糟糕的 (p. 1)",
+    "example": "It is a bad idea to go out in the rain.",
+    "description": "在雨天出門是個壞主意。"
+  },
+  {
+    "word": "bag",
+    "pos": "n.",
+    "chinese": "袋子、包包 (p. 1)",
+    "example": "I put my books in my bag.",
+    "description": "我把書放進我的包包裡。"
+  },
+  {
+    "word": "ball",
+    "pos": "n.",
+    "chinese": "球 (p. 1)",
+    "example": "The boy is playing with a red ball.",
+    "description": "那個男孩正在玩一顆紅色的球。"
+  },
+  {
+    "word": "banana",
+    "pos": "n.",
+    "chinese": "香蕉 (p. 1)",
+    "example": "I eat a banana every morning.",
+    "description": "我每天早上吃一根香蕉。"
+  },
+  {
+    "word": "band",
+    "pos": "n.",
+    "chinese": "樂團 (p. 1)",
+    "example": "He plays guitar in a rock band.",
+    "description": "他在一個搖滾樂團裡彈吉他。"
+  },
+  {
+    "word": "bank",
+    "pos": "money",
+    "chinese": "(n.) 銀行 (p. 1)",
+    "example": "The bank is near the store.",
+    "description": "銀行在商店附近。"
+  },
+  {
+    "word": "bar",
+    "pos": "n.",
+    "chinese": "酒吧 (p. 1)",
+    "example": "Let's go to that new bar tonight.",
+    "description": "我們今晚去那間新酒吧吧。"
+  },
+  {
+    "word": "baseball",
+    "pos": "n.",
+    "chinese": "棒球 (p. 1)",
+    "example": "They play baseball every weekend.",
+    "description": "他們每個週末都打棒球。"
+  },
+  {
+    "word": "basketball",
+    "pos": "n.",
+    "chinese": "籃球 (p. 1)",
+    "example": "He likes to play basketball.",
+    "description": "他喜歡打籃球。"
+  },
+  {
+    "word": "bath",
+    "pos": "n.",
+    "chinese": "洗澡、浴缸 (p. 1)",
+    "example": "I take a bath every night.",
+    "description": "我每晚都洗澡。"
+  },
+  {
+    "word": "bathroom",
+    "pos": "n.",
+    "chinese": "浴室、洗手間 (p. 1)",
+    "example": "Where is the bathroom?",
+    "description": "洗手間在哪裡？"
+  },
+  {
+    "word": "be",
+    "pos": "v., aux.",
+    "chinese": "是、在 (p. 1)",
+    "example": "I want to be a doctor.",
+    "description": "我想成為一名醫生。"
+  },
+  {
+    "word": "beach",
+    "pos": "n.",
+    "chinese": "海灘 (p. 1)",
+    "example": "We go to the beach in summer.",
+    "description": "我們夏天去海灘。"
+  },
+  {
+    "word": "beautiful",
+    "pos": "adj.",
+    "chinese": "美麗的 (p. 1)",
+    "example": "It is a beautiful day.",
+    "description": "這是個美好的一天。"
+  },
+  {
+    "word": "because",
+    "pos": "conj.",
+    "chinese": "因為 (p. 1)",
+    "example": "I am late because of the traffic.",
+    "description": "我因為交通堵塞而遲到了。"
+  },
+  {
+    "word": "become",
+    "pos": "v.",
+    "chinese": "成為 (p. 1)",
+    "example": "She wants to become a teacher.",
+    "description": "她想成為一名老師。"
+  },
+  {
+    "word": "bed",
+    "pos": "n.",
+    "chinese": "床 (p. 1)",
+    "example": "I go to bed at ten.",
+    "description": "我十點上床睡覺。"
+  },
+  {
+    "word": "bedroom",
+    "pos": "n.",
+    "chinese": "臥室 (p. 1)",
+    "example": "I have two bedrooms in my house.",
+    "description": "我家有兩間臥室。"
+  },
+  {
+    "word": "beer",
+    "pos": "n.",
+    "chinese": "啤酒 (p. 1)",
+    "example": "He is drinking a beer.",
+    "description": "他正在喝啤酒。"
+  },
+  {
+    "word": "before",
+    "pos": "prep.",
+    "chinese": "在...之前 (p. 1)",
+    "example": "Wash your hands before dinner.",
+    "description": "晚餐前要洗手。"
+  },
+  {
+    "word": "begin",
+    "pos": "v.",
+    "chinese": "開始 (p. 2)",
+    "example": "The class will begin soon.",
+    "description": "課程即將開始。"
+  },
+  {
+    "word": "beginning",
+    "pos": "n.",
+    "chinese": "開始、開端 (p. 2)",
+    "example": "At the beginning of the book, there is an introduction.",
+    "description": "書的開頭有一個引言。"
+  },
+  {
+    "word": "behind",
+    "pos": "prep., adv.",
+    "chinese": "在...後面 (p. 2)",
+    "example": "The cat is hiding behind the sofa.",
+    "description": "貓藏在沙發後面。"
+  },
+  {
+    "word": "believe",
+    "pos": "v.",
+    "chinese": "相信 (p. 2)",
+    "example": "Do you believe in ghosts?",
+    "description": "你相信有鬼嗎？"
+  },
+  {
+    "word": "below",
+    "pos": "adv., prep.",
+    "chinese": "在...下方 (p. 2)",
+    "example": "Read the sentences below.",
+    "description": "閱讀下面的句子。"
+  },
+  {
+    "word": "best",
+    "pos": "adj.",
+    "chinese": "最好的 (p. 2)",
+    "example": "She is my best friend.",
+    "description": "她是我最好的朋友。"
+  },
+  {
+    "word": "better",
+    "pos": "adj.",
+    "chinese": "較好的、更好的 (p. 2)",
+    "example": "You look better today.",
+    "description": "你今天看起來好多了。"
+  },
+  {
+    "word": "between",
+    "pos": "prep.",
+    "chinese": "在...之間 (p. 2)",
+    "example": "The shop is between the bank and the cafe.",
+    "description": "商店在銀行和咖啡館之間。"
+  },
+  {
+    "word": "bicycle",
+    "pos": "n.",
+    "chinese": "腳踏車 (p. 2)",
+    "example": "I ride my bicycle to work.",
+    "description": "我騎腳踏車去上班。"
+  },
+  {
+    "word": "big",
+    "pos": "adj.",
+    "chinese": "大的 (p. 2)",
+    "example": "I have a big house.",
+    "description": "我有一棟大房子。"
+  },
+  {
+    "word": "bike",
+    "pos": "n.",
+    "chinese": "腳踏車、單車 (p. 2)",
+    "example": "Do you like to ride a bike?",
+    "description": "你喜歡騎單車嗎？"
+  },
+  {
+    "word": "bill",
+    "pos": "n.",
+    "chinese": "帳單 (p. 2)",
+    "example": "Can I have the bill, please?",
+    "description": "請給我帳單。"
+  },
+  {
+    "word": "bird",
+    "pos": "n.",
+    "chinese": "鳥 (p. 2)",
+    "example": "There is a small bird in the tree.",
+    "description": "樹上有一隻小鳥。"
+  },
+  {
+    "word": "birthday",
+    "pos": "n.",
+    "chinese": "生日 (p. 2)",
+    "example": "Happy birthday!",
+    "description": "生日快樂！"
+  },
+  {
+    "word": "black",
+    "pos": "adj., n.",
+    "chinese": "黑色的、黑色 (p. 2)",
+    "example": "He is wearing a black coat.",
+    "description": "他穿著一件黑色外套。"
+  },
+  {
+    "word": "blog",
+    "pos": "n.",
+    "chinese": "部落格 (p. 2)",
+    "example": "She writes a travel blog.",
+    "description": "她寫了一個旅遊部落格。"
+  },
+  {
+    "word": "blond",
+    "pos": "adj.",
+    "chinese": "金色的 (頭髮) (p. 2)",
+    "example": "He has blond hair.",
+    "description": "他有金色頭髮。"
+  },
+  {
+    "word": "blue",
+    "pos": "adj., n.",
+    "chinese": "藍色的、藍色 (p. 2)",
+    "example": "The sky is blue.",
+    "description": "天空是藍色的。"
+  },
+  {
+    "word": "boat",
+    "pos": "n.",
+    "chinese": "船 (p. 2)",
+    "example": "We go on a boat trip.",
+    "description": "我們去乘船旅行。"
+  },
+  {
+    "word": "body",
+    "pos": "n.",
+    "chinese": "身體 (p. 2)",
+    "example": "My whole body hurts.",
+    "description": "我全身都痛。"
+  },
+  {
+    "word": "book",
+    "pos": "n.",
+    "chinese": "書本 (p. 2)",
+    "example": "I am reading a good book.",
+    "description": "我正在讀一本好書。"
+  },
+  {
+    "word": "boot",
+    "pos": "n.",
+    "chinese": "靴子 (p. 2)",
+    "example": "I need new winter boots.",
+    "description": "我需要新的冬靴。"
+  },
+  {
+    "word": "bored",
+    "pos": "adj.",
+    "chinese": "感到無聊的 (p. 2)",
+    "example": "I am bored with this game.",
+    "description": "我對這個遊戲感到無聊。"
+  },
+  {
+    "word": "boring",
+    "pos": "adj.",
+    "chinese": "無聊的、乏味的 (p. 2)",
+    "example": "This movie is boring.",
+    "description": "這部電影很無聊。"
+  },
+  {
+    "word": "born",
+    "pos": "v.",
+    "chinese": "出生 (p. 2)",
+    "example": "I was born in August.",
+    "description": "我出生在八月。"
+  },
+  {
+    "word": "both",
+    "pos": "det./pron.",
+    "chinese": "兩者都 (p. 2)",
+    "example": "Both my parents work.",
+    "description": "我的父母都工作。"
+  },
+  {
+    "word": "bottle",
+    "pos": "n.",
+    "chinese": "瓶子 (p. 2)",
+    "example": "Can I have a bottle of water?",
+    "description": "可以給我一瓶水嗎？"
+  },
+  {
+    "word": "box",
+    "pos": "n.",
+    "chinese": "盒子、箱子 (p. 2)",
+    "example": "Put the shoes in the box.",
+    "description": "把鞋子放進盒子裡。"
+  },
+  {
+    "word": "boy",
+    "pos": "n.",
+    "chinese": "男孩 (p. 2)",
+    "example": "The boy is playing football.",
+    "description": "那個男孩正在踢足球。"
+  },
+  {
+    "word": "boyfriend",
+    "pos": "n.",
+    "chinese": "男朋友 (p. 2)",
+    "example": "She has a new boyfriend.",
+    "description": "她交了新男朋友。"
+  },
+  {
+    "word": "bread",
+    "pos": "n.",
+    "chinese": "麵包 (p. 2)",
+    "example": "I like to eat bread for breakfast.",
+    "description": "我早餐喜歡吃麵包。"
+  },
+  {
+    "word": "break",
+    "pos": "v., n.",
+    "chinese": "打破、休息 (p. 2)",
+    "example": "Be careful, don't break the glass.",
+    "description": "小心，別打破玻璃杯。"
+  },
+  {
+    "word": "breakfast",
+    "pos": "n.",
+    "chinese": "早餐 (p. 2)",
+    "example": "I have eggs for breakfast.",
+    "description": "我早餐吃雞蛋。"
+  },
+  {
+    "word": "bring",
+    "pos": "v.",
+    "chinese": "帶來 (p. 2)",
+    "example": "Don't forget to bring your book.",
+    "description": "別忘了帶你的書。"
+  },
+  {
+    "word": "brother",
+    "pos": "n.",
+    "chinese": "兄弟 (p. 2)",
+    "example": "I have one brother.",
+    "description": "我有一個兄弟。"
+  },
+  {
+    "word": "brown",
+    "pos": "adj., n.",
+    "chinese": "棕色的、棕色 (p. 2)",
+    "example": "He has brown eyes.",
+    "description": "他有棕色的眼睛。"
+  },
+  {
+    "word": "build",
+    "pos": "v.",
+    "chinese": "建造、蓋 (p. 2)",
+    "example": "They want to build a new house.",
+    "description": "他們想蓋一棟新房子。"
+  },
+  {
+    "word": "building",
+    "pos": "n.",
+    "chinese": "建築物 (p. 2)",
+    "example": "That is a very tall building.",
+    "description": "那是一棟非常高的建築物。"
+  },
+  {
+    "word": "bus",
+    "pos": "n.",
+    "chinese": "公車 (p. 2)",
+    "example": "I go to school by bus.",
+    "description": "我搭公車上學。"
+  },
+  {
+    "word": "business",
+    "pos": "n.",
+    "chinese": "生意、公司、商務 (p. 2)",
+    "example": "He is on a business trip.",
+    "description": "他出差去了。"
+  },
+  {
+    "word": "busy",
+    "pos": "adj.",
+    "chinese": "忙碌的 (p. 2)",
+    "example": "I am so busy today.",
+    "description": "我今天很忙。"
+  },
+  {
+    "word": "but",
+    "pos": "conj.",
+    "chinese": "但是 (p. 2)",
+    "example": "I like tea but I don't like coffee.",
+    "description": "我喜歡茶，但不喜歡咖啡。"
+  },
+  {
+    "word": "butter",
+    "pos": "n.",
+    "chinese": "奶油 (p. 2)",
+    "example": "Put some butter on the bread.",
+    "description": "在麵包上塗點奶油。"
+  },
+  {
+    "word": "buy",
+    "pos": "v.",
+    "chinese": "買 (p. 2)",
+    "example": "I want to buy a new phone.",
+    "description": "我想買一支新手機。"
+  },
+  {
+    "word": "by",
+    "pos": "prep.",
+    "chinese": "在...旁邊、經由 (p. 2)",
+    "example": "He is standing by the window.",
+    "description": "他正站在窗戶旁邊。"
+  },
+  {
+    "word": "bye",
+    "pos": "exclam.",
+    "chinese": "再見 (p. 2)",
+    "example": "Bye! See you tomorrow.",
+    "description": "再見！明天見。"
+  },
+  {
+    "word": "cafe",
+    "pos": "n.",
+    "chinese": "咖啡廳",
+    "example": "Let's meet at the cafe for a drink.",
+    "description": "我們在咖啡廳見面喝杯飲料吧。"
+  },
+  {
+    "word": "cake",
+    "pos": "n.",
+    "chinese": "蛋糕",
+    "example": "She baked a delicious chocolate cake.",
+    "description": "她烤了一個美味的巧克力蛋糕。"
+  },
+  {
+    "word": "call",
+    "pos": "v., n.",
+    "chinese": "打電話、呼叫",
+    "example": "Please call me when you arrive.",
+    "description": "你抵達時請打給我。"
+  },
+  {
+    "word": "camera",
+    "pos": "n.",
+    "chinese": "相機",
+    "example": "I can swim very well.",
+    "description": "我非常擅長游泳。"
+  },
+  {
+    "word": "cannot",
+    "pos": "v.",
+    "chinese": "不能、不會",
+    "example": "I cannot find my keys anywhere.",
+    "description": "我到處都找不到我的鑰匙。"
+  },
+  {
+    "word": "capital",
+    "pos": "n., adj.",
+    "chinese": "首都、大寫字母",
+    "example": "Paris is the capital of France.",
+    "description": "巴黎是法國的首都。"
+  },
+  {
+    "word": "car",
+    "pos": "n.",
+    "chinese": "汽車",
+    "example": "My father drives a blue car.",
+    "description": "我父親開一輛藍色的車。"
+  },
+  {
+    "word": "card",
+    "pos": "n.",
+    "chinese": "卡片",
+    "example": "I sent a birthday card to my friend.",
+    "description": "我寄了一張生日卡片給我的朋友。"
+  },
+  {
+    "word": "career",
+    "pos": "n.",
+    "chinese": "職業生涯、事業",
+    "example": "He wants to have a career in music.",
+    "description": "他想在音樂領域發展事業。"
+  },
+  {
+    "word": "carrot",
+    "pos": "n.",
+    "chinese": "紅蘿蔔",
+    "example": "I like to eat raw carrots.",
+    "description": "我喜歡吃生紅蘿蔔。"
+  },
+  {
+    "word": "carry",
+    "pos": "v.",
+    "chinese": "攜帶、提、搬運",
+    "example": "Can you help me carry these bags?",
+    "description": "你能幫我提這些袋子嗎？"
+  },
+  {
+    "word": "cat",
+    "pos": "n.",
+    "chinese": "貓",
+    "example": "The cat is sleeping on the sofa.",
+    "description": "貓正在沙發上睡覺。"
+  },
+  {
+    "word": "CD",
+    "pos": "n.",
+    "chinese": "光碟",
+    "example": "I still listen to CDs sometimes.",
+    "description": "我偶爾還是會聽光碟。"
+  },
+  {
+    "word": "cent",
+    "pos": "n.",
+    "chinese": "分 (貨幣單位)",
+    "example": "This candy costs fifty cents.",
+    "description": "這顆糖果要五十美分。"
+  },
+  {
+    "word": "center",
+    "pos": "n.",
+    "chinese": "中心",
+    "example": "The shopping center is very busy today.",
+    "description": "這間購物中心今天非常忙碌。"
+  },
+  {
+    "word": "chair",
+    "pos": "n.",
+    "chinese": "椅子",
+    "example": "Please sit down on the chair.",
+    "description": "請在椅子上坐下來。"
+  },
+  {
+    "word": "change",
+    "pos": "v., n.",
+    "chinese": "改變、找零",
+    "example": "I need to change my clothes.",
+    "description": "我需要換衣服。"
+  },
+  {
+    "word": "chart",
+    "pos": "n.",
+    "chinese": "圖表",
+    "example": "Look at the chart on the wall.",
+    "description": "看牆上的圖表。"
+  },
+  {
+    "word": "cheap",
+    "pos": "adj.",
+    "chinese": "便宜的",
+    "example": "The tickets are quite cheap.",
+    "description": "票價挺便宜的。"
+  },
+  {
+    "word": "check",
+    "pos": "v.",
+    "chinese": "檢查",
+    "example": "Always check your work before you finish.",
+    "description": "完成前一定要檢查你的工作。"
+  },
+  {
+    "word": "cheese",
+    "pos": "n.",
+    "chinese": "起司、乳酪",
+    "example": "I like to put cheese on my pizza.",
+    "description": "我喜歡在披薩上加起司。"
+  },
+  {
+    "word": "chicken",
+    "pos": "n.",
+    "chinese": "雞、雞肉",
+    "example": "We are having chicken for dinner.",
+    "description": "我們晚餐吃雞肉。"
+  },
+  {
+    "word": "child",
+    "pos": "n.",
+    "chinese": "孩童",
+    "example": "The child is playing in the garden.",
+    "description": "孩子正在花園裡玩。"
+  },
+  {
+    "word": "chocolate",
+    "pos": "n.",
+    "chinese": "巧克力",
+    "example": "Do you want some chocolate?",
+    "description": "你想要來點巧克力嗎？"
+  },
+  {
+    "word": "choose",
+    "pos": "v.",
+    "chinese": "選擇",
+    "example": "You can choose any color you like.",
+    "description": "你可以選擇任何你喜歡的顏色。"
+  },
+  {
+    "word": "city",
+    "pos": "n.",
+    "chinese": "城市",
+    "example": "Taipei is a very big city.",
+    "description": "台北是一個非常大的城市。"
+  },
+  {
+    "word": "class",
+    "pos": "n.",
+    "chinese": "班級、課程",
+    "example": "What time does the English class start?",
+    "description": "英文課幾點開始？"
+  },
+  {
+    "word": "classroom",
+    "pos": "n.",
+    "chinese": "教室",
+    "example": "The classroom is very clean.",
+    "description": "這間教室非常乾淨。"
+  },
+  {
+    "word": "clean",
+    "pos": "adj., v.",
+    "chinese": "乾淨的、打掃",
+    "example": "Please clean your room.",
+    "description": "請打掃你的房間。"
+  },
+  {
+    "word": "climb",
+    "pos": "v.",
+    "chinese": "攀爬",
+    "example": "They want to climb the mountain tomorrow.",
+    "description": "他們明天想去爬山。"
+  },
+  {
+    "word": "clock",
+    "pos": "n.",
+    "chinese": "時鐘",
+    "example": "Please close the door.",
+    "description": "請關門。"
+  },
+  {
+    "word": "clothes",
+    "pos": "n.",
+    "chinese": "衣服",
+    "example": "I need to buy some new clothes.",
+    "description": "我需要買一些新衣服。"
+  },
+  {
+    "word": "club",
+    "pos": "n.",
+    "chinese": "俱樂部、社團",
+    "example": "She joined a tennis club.",
+    "description": "她加入了一個網球俱樂部。"
+  },
+  {
+    "word": "coat",
+    "pos": "n.",
+    "chinese": "外套、大衣",
+    "example": "Wear a coat, it's cold outside.",
+    "description": "穿上外套，外面很冷。"
+  },
+  {
+    "word": "coffee",
+    "pos": "n.",
+    "chinese": "咖啡",
+    "example": "I drink a cup of coffee every morning.",
+    "description": "我每天早上喝一杯咖啡。"
+  },
+  {
+    "word": "cold",
+    "pos": "adj., n.",
+    "chinese": "寒冷的、感冒",
+    "example": "The weather is very cold.",
+    "description": "天氣非常寒冷。"
+  },
+  {
+    "word": "college",
+    "pos": "n.",
+    "chinese": "學院、大學",
+    "example": "He is a student at a local college.",
+    "description": "他是當地一所學院的學生。"
+  },
+  {
+    "word": "color",
+    "pos": "n.",
+    "chinese": "顏色",
+    "example": "What is your favorite color?",
+    "description": "你最喜歡什麼顏色？"
+  },
+  {
+    "word": "come",
+    "pos": "v.",
+    "chinese": "來",
+    "example": "Please come here for a minute.",
+    "description": "請過來一下。"
+  },
+  {
+    "word": "common",
+    "pos": "adj.",
+    "chinese": "常見的、共同的",
+    "example": "Smith is a very common name.",
+    "description": "Smith 是一個非常常見的名字。"
+  },
+  {
+    "word": "company",
+    "pos": "n.",
+    "chinese": "公司",
+    "example": "She works for a large company.",
+    "description": "她在一家大公司工作。"
+  },
+  {
+    "word": "compare",
+    "pos": "v.",
+    "chinese": "比較",
+    "example": "Compare these two pictures.",
+    "description": "比較這兩張圖片。"
+  },
+  {
+    "word": "complete",
+    "pos": "adj., v.",
+    "chinese": "完整的、完成",
+    "example": "Please complete the form.",
+    "description": "請填妥表格。"
+  },
+  {
+    "word": "computer",
+    "pos": "n.",
+    "chinese": "電腦",
+    "example": "I use a computer for my work.",
+    "description": "我用電腦工作。"
+  },
+  {
+    "word": "concert",
+    "pos": "n.",
+    "chinese": "音樂會、演唱會",
+    "example": "We are going to a rock concert.",
+    "description": "我們要去聽一場搖滾演唱會。"
+  },
+  {
+    "word": "conversation",
+    "pos": "n.",
+    "chinese": "對話",
+    "example": "I had an interesting conversation with him.",
+    "description": "我和他進行了一段有趣的對話。"
+  },
+  {
+    "word": "cook",
+    "pos": "v.",
+    "chinese": "烹飪、煮",
+    "example": "My mother likes to cook dinner.",
+    "description": "我母親喜歡煮晚餐。"
+  },
+  {
+    "word": "cooking",
+    "pos": "n.",
+    "chinese": "烹飪 (行為)",
+    "example": "Cooking is one of my hobbies.",
+    "description": "烹飪是我的愛好之一。"
+  },
+  {
+    "word": "cool",
+    "pos": "adj.",
+    "chinese": "涼爽的、酷的",
+    "example": "The weather is nice and cool.",
+    "description": "天氣既美好又涼爽。"
+  },
+  {
+    "word": "correct",
+    "pos": "adj., v.",
+    "chinese": "正確的、訂正",
+    "example": "Is this the correct answer?",
+    "description": "這是正確答案嗎？"
+  },
+  {
+    "word": "cost",
+    "pos": "n., v.",
+    "chinese": "成本、花費",
+    "example": "How much does this book cost?",
+    "description": "這本書要多少錢？"
+  },
+  {
+    "word": "could",
+    "pos": "modal v.",
+    "chinese": "可以 (can 的過去式或委婉說法)",
+    "example": "Could you help me, please?",
+    "description": "可以請你幫幫我嗎？"
+  },
+  {
+    "word": "country",
+    "pos": "n.",
+    "chinese": "國家、鄉下",
+    "example": "Which country are you from?",
+    "description": "你來自哪個國家？"
+  },
+  {
+    "word": "course",
+    "pos": "n.",
+    "chinese": "課程、科目",
+    "example": "I'm taking an English course.",
+    "description": "我正在修一門英文課程。"
+  },
+  {
+    "word": "cousin",
+    "pos": "n.",
+    "chinese": "堂(表)兄弟姊妹",
+    "example": "My cousin lives in Canada.",
+    "description": "我的堂/表親住在加拿大。"
+  },
+  {
+    "word": "cow",
+    "pos": "n.",
+    "chinese": "母牛、乳牛",
+    "example": "The cow is eating grass.",
+    "description": "母牛正在吃草。"
+  },
+  {
+    "word": "cream",
+    "pos": "n.",
+    "chinese": "鮮奶油、乳霜",
+    "example": "Do you like coffee with cream?",
+    "description": "你喜歡加了奶油的咖啡嗎？"
+  },
+  {
+    "word": "create",
+    "pos": "v.",
+    "chinese": "創造",
+    "example": "The artist wants to create a new painting.",
+    "description": "這位藝術家想要創作一幅新畫作。"
+  },
+  {
+    "word": "culture",
+    "pos": "n.",
+    "chinese": "文化",
+    "example": "It's important to learn about different cultures.",
+    "description": "了解不同的文化很重要。"
+  },
+  {
+    "word": "cup",
+    "pos": "n.",
+    "chinese": "杯子",
+    "example": "A cup of tea, please.",
+    "description": "請給我一杯茶。"
+  },
+  {
+    "word": "customer",
+    "pos": "n.",
+    "chinese": "顧客",
+    "example": "The shop is full of customers.",
+    "description": "商店裡擠滿了顧客。"
+  },
+  {
+    "word": "cut",
+    "pos": "v.",
+    "chinese": "切、割",
+    "example": "Cut the cake into eight pieces.",
+    "description": "將蛋糕切成八塊。"
+  },
+  {
+    "word": "dad",
+    "pos": "n.",
+    "chinese": "爸爸",
+    "example": "My dad is a doctor.",
+    "description": "我的爸爸是一名醫生。"
+  },
+  {
+    "word": "dance",
+    "pos": "n., v.",
+    "chinese": "跳舞",
+    "example": "Do you want to dance with me?",
+    "description": "你想和我跳舞嗎？"
+  },
+  {
+    "word": "dancer",
+    "pos": "n.",
+    "chinese": "舞者",
+    "example": "She is a professional ballet dancer.",
+    "description": "她是一名專業的芭蕾舞者。"
+  },
+  {
+    "word": "dancing",
+    "pos": "n.",
+    "chinese": "舞蹈",
+    "example": "My hobby is dancing.",
+    "description": "我的嗜好是跳舞。"
+  },
+  {
+    "word": "dangerous",
+    "pos": "adj.",
+    "chinese": "危險的",
+    "example": "It is dangerous to walk alone at night.",
+    "description": "深夜獨自走路很危險。"
+  },
+  {
+    "word": "dark",
+    "pos": "adj.",
+    "chinese": "黑暗的、深色的",
+    "example": "It's getting dark outside.",
+    "description": "外面天色漸漸變暗了。"
+  },
+  {
+    "word": "date",
+    "pos": "n.",
+    "chinese": "日期、約會",
+    "example": "What is the date today?",
+    "description": "今天是幾號？"
+  },
+  {
+    "word": "daughter",
+    "pos": "n.",
+    "chinese": "女兒",
+    "example": "They have two sons and one daughter.",
+    "description": "他們有兩個兒子和一個女兒。"
+  },
+  {
+    "word": "day",
+    "pos": "n.",
+    "chinese": "天、白天",
+    "example": "Have a nice day!",
+    "description": "祝你有個美好的一天！"
+  },
+  {
+    "word": "dear",
+    "pos": "adj.",
+    "chinese": "親愛的",
+    "example": "Dear John, thank you for your letter.",
+    "description": "親愛的約翰，謝謝你的來信。"
+  },
+  {
+    "word": "December",
+    "pos": "n.",
+    "chinese": "十二月",
+    "example": "Christmas is in December.",
+    "description": "聖誕節在十二月。"
+  },
+  {
+    "word": "delicious",
+    "pos": "adj.",
+    "chinese": "美味的",
+    "example": "This cake is very delicious.",
+    "description": "這塊蛋糕非常美味。"
+  },
+  {
+    "word": "describe",
+    "pos": "v.",
+    "chinese": "描述",
+    "example": "Can you describe the man you saw?",
+    "description": "你能描述一下你看到的那個人嗎？"
+  },
+  {
+    "word": "description",
+    "pos": "n.",
+    "chinese": "描述、說明",
+    "example": "Write a short description of your house.",
+    "description": "寫一段關於你房子的簡短描述。"
+  },
+  {
+    "word": "design",
+    "pos": "n., v.",
+    "chinese": "設計",
+    "example": "She wants to design clothes.",
+    "description": "她想要設計衣服。"
+  },
+  {
+    "word": "desk",
+    "pos": "n.",
+    "chinese": "書桌",
+    "example": "I put my laptop on the desk.",
+    "description": "我把筆電放在書桌上。"
+  },
+  {
+    "word": "detail",
+    "pos": "n.",
+    "chinese": "細節",
+    "example": "Please tell me every detail.",
+    "description": "請告訴我每一個細節。"
+  },
+  {
+    "word": "dialogue",
+    "pos": "n.",
+    "chinese": "對話",
+    "example": "Listen to the dialogue between the two students.",
+    "description": "聽這兩個學生之間的對話。"
+  },
+  {
+    "word": "dictionary",
+    "pos": "n.",
+    "chinese": "字典",
+    "example": "I often use an online dictionary.",
+    "description": "我經常使用線上字典。"
+  },
+  {
+    "word": "die",
+    "pos": "v.",
+    "chinese": "死亡",
+    "example": "Flowers die without water.",
+    "description": "花朵沒有水就會枯死。"
+  },
+  {
+    "word": "diet",
+    "pos": "n.",
+    "chinese": "飲食、節食",
+    "example": "A healthy diet is important.",
+    "description": "健康的飲食很重要。"
+  },
+  {
+    "word": "difference",
+    "pos": "n.",
+    "chinese": "差別",
+    "example": "What is the difference between these two colors?",
+    "description": "這兩種顏色有什麼差別？"
+  },
+  {
+    "word": "different",
+    "pos": "adj.",
+    "chinese": "不同的",
+    "example": "I want to try something different.",
+    "description": "我想嘗試一些不同的東西。"
+  },
+  {
+    "word": "difficult",
+    "pos": "adj.",
+    "chinese": "困難的",
+    "example": "This math problem is very difficult.",
+    "description": "這道數學題非常困難。"
+  },
+  {
+    "word": "dinner",
+    "pos": "n.",
+    "chinese": "晚餐",
+    "example": "What's for dinner tonight?",
+    "description": "今晚晚餐吃什麼？"
+  },
+  {
+    "word": "dirty",
+    "pos": "adj.",
+    "chinese": "髒的",
+    "example": "Don't touch the floor with dirty hands.",
+    "description": "別用髒手摸地板。"
+  },
+  {
+    "word": "discuss",
+    "pos": "v.",
+    "chinese": "討論",
+    "example": "Let's discuss the plan later.",
+    "description": "我們晚點再討論這個計劃。"
+  },
+  {
+    "word": "dish",
+    "pos": "n.",
+    "chinese": "盤子、一道菜",
+    "example": "What do you do in your free time?",
+    "description": "你空閒時間都在做什麼？"
+  },
+  {
+    "word": "doctor",
+    "pos": "n.",
+    "chinese": "醫生",
+    "example": "You should go see a doctor.",
+    "description": "你應該去看醫生。"
+  },
+  {
+    "word": "dog",
+    "pos": "n.",
+    "chinese": "狗",
+    "example": "I take my dog for a walk every day.",
+    "description": "我每天帶我的狗去散步。"
+  },
+  {
+    "word": "dollar",
+    "pos": "n.",
+    "chinese": "元(美金/貨幣單位)",
+    "example": "This pen costs one dollar.",
+    "description": "這枝筆花費一美元。"
+  },
+  {
+    "word": "door",
+    "pos": "n.",
+    "chinese": "門",
+    "example": "Please open the door.",
+    "description": "請開門。"
+  },
+  {
+    "word": "down",
+    "pos": "adv., prep.",
+    "chinese": "向下",
+    "example": "Sit down, please.",
+    "description": "請坐下。"
+  },
+  {
+    "word": "draw",
+    "pos": "v.",
+    "chinese": "畫圖",
+    "example": "She likes to draw pictures of animals.",
+    "description": "她喜歡畫動物的圖片。"
+  },
+  {
+    "word": "dress",
+    "pos": "n., v.",
+    "chinese": "洋裝、穿衣",
+    "example": "She is wearing a beautiful pink dress.",
+    "description": "她穿著一件漂亮的粉紅色洋裝。"
+  },
+  {
+    "word": "drink",
+    "pos": "n., v.",
+    "chinese": "飲料、喝",
+    "example": "Would you like something to drink?",
+    "description": "你想喝點什麼嗎？"
+  },
+  {
+    "word": "drive",
+    "pos": "v.",
+    "chinese": "駕駛",
+    "example": "My father drives me to school.",
+    "description": "我父親開車載我去上學。"
+  },
+  {
+    "word": "driver",
+    "pos": "n.",
+    "chinese": "司機",
+    "example": "He is a bus driver.",
+    "description": "他是一名公車司機。"
+  },
+  {
+    "word": "during",
+    "pos": "prep.",
+    "chinese": "在...期間",
+    "example": "Don't talk during the movie.",
+    "description": "看電影期間不要說話。"
+  },
+  {
+    "word": "DVD",
+    "pos": "n.",
+    "chinese": "數位光碟",
+    "example": "I bought a new DVD yesterday.",
+    "description": "我昨天買了一片新的 DVD。"
+  },
+  {
+    "word": "each",
+    "pos": "det./pron./adv.",
+    "chinese": "每個 (p. 4)",
+    "example": "Each student has a book. (每個學生都有一本書。)",
+    "description": ""
+  },
+  {
+    "word": "ear",
+    "pos": "n.",
+    "chinese": "耳朵 (p. 4)",
+    "example": "The dog has long ears. (這隻狗有長耳朵。)",
+    "description": ""
+  },
+  {
+    "word": "early",
+    "pos": "adj., adv.",
+    "chinese": "早的、早地 (p. 4)",
+    "example": "I woke up early this morning. (我今天早上很早起。)",
+    "description": ""
+  },
+  {
+    "word": "east",
+    "pos": "n., adj., adv.",
+    "chinese": "東方 (p. 4)",
+    "example": "The sun rises in the east. (太陽從東方升起。)",
+    "description": ""
+  },
+  {
+    "word": "easy",
+    "pos": "adj.",
+    "chinese": "容易的 (p. 4)",
+    "example": "This English test is very easy. (這次英文考試非常簡單。)",
+    "description": ""
+  },
+  {
+    "word": "eat",
+    "pos": "v.",
+    "chinese": "吃 (p. 4)",
+    "example": "What do you want to eat? (你想吃什麼？)",
+    "description": ""
+  },
+  {
+    "word": "egg",
+    "pos": "n.",
+    "chinese": "蛋 (p. 4)",
+    "example": "I have an egg for breakfast. (我早餐吃一顆蛋。)",
+    "description": ""
+  },
+  {
+    "word": "eight",
+    "pos": "num.",
+    "chinese": "八 (p. 4)",
+    "example": "There are eight apples in the box. (箱子裡有八顆蘋果。)",
+    "description": ""
+  },
+  {
+    "word": "eighteen",
+    "pos": "num.",
+    "chinese": "十八 (p. 4)",
+    "example": "She is eighteen years old. (她十八歲。)",
+    "description": ""
+  },
+  {
+    "word": "eighty",
+    "pos": "num.",
+    "chinese": "八十 (p. 4)",
+    "example": "My grandfather is eighty. (我祖父八十歲。)",
+    "description": ""
+  },
+  {
+    "word": "elephant",
+    "pos": "n.",
+    "chinese": "大象 (p. 4)",
+    "example": "We saw a big elephant at the zoo. (我們在動物園看到一隻大象。)",
+    "description": ""
+  },
+  {
+    "word": "eleven",
+    "pos": "num.",
+    "chinese": "十一 (p. 4)",
+    "example": "There are eleven players on the team. (球隊裡有十一名球員。)",
+    "description": ""
+  },
+  {
+    "word": "else",
+    "pos": "adv.",
+    "chinese": "其他 (p. 4)",
+    "example": "Do you need anything else? (你還需要其他東西嗎？)",
+    "description": ""
+  },
+  {
+    "word": "email",
+    "pos": "n., v.",
+    "chinese": "電子郵件、寄電郵 (p. 4)",
+    "example": "Please send me an email. (請寄一封電子郵件給我。)",
+    "description": ""
+  },
+  {
+    "word": "end",
+    "pos": "n., v.",
+    "chinese": "結束 (p. 4)",
+    "example": "The movie has a happy end. (這部電影有快樂的結局。)",
+    "description": ""
+  },
+  {
+    "word": "enjoy",
+    "pos": "v.",
+    "chinese": "享受、喜愛 (p. 4)",
+    "example": "I enjoy listening to music. (我喜歡聽音樂。)",
+    "description": ""
+  },
+  {
+    "word": "enough",
+    "pos": "det., pron., adv.",
+    "chinese": "足夠的 (p. 4)",
+    "example": "We have enough food for everyone. (我們有足夠給每個人的食物。)",
+    "description": ""
+  },
+  {
+    "word": "euro",
+    "pos": "n.",
+    "chinese": "歐元 (p. 4)",
+    "example": "This coffee costs three euros. (這杯咖啡要三歐元。)",
+    "description": ""
+  },
+  {
+    "word": "even",
+    "pos": "adv.",
+    "chinese": "甚至 (p. 4)",
+    "example": "It's so easy that even a child can do it. (這很簡單，甚至小孩都能做。)",
+    "description": ""
+  },
+  {
+    "word": "evening",
+    "pos": "n.",
+    "chinese": "傍晚、晚上 (p. 4)",
+    "example": "See you tomorrow evening. (明天晚上見。)",
+    "description": ""
+  },
+  {
+    "word": "event",
+    "pos": "n.",
+    "chinese": "活動、事件 (p. 4)",
+    "example": "The school sports event is next week. (學校運動會是在下週。)",
+    "description": ""
+  },
+  {
+    "word": "ever",
+    "pos": "adv.",
+    "chinese": "曾經 (p. 4)",
+    "example": "Have you ever been to Paris? (你曾經去過巴黎嗎？)",
+    "description": ""
+  },
+  {
+    "word": "every",
+    "pos": "det.",
+    "chinese": "每個 (p. 4)",
+    "example": "I go to school every day. (我每天上學。)",
+    "description": ""
+  },
+  {
+    "word": "everybody / everyone",
+    "pos": "pron.",
+    "chinese": "每個人 (p. 4)",
+    "example": "Everyone is ready to start. (每個人都準備好開始了。)",
+    "description": ""
+  },
+  {
+    "word": "everything",
+    "pos": "pron.",
+    "chinese": "每件事物 (p. 4)",
+    "example": "Everything is going well. (一切進展順利。)",
+    "description": ""
+  },
+  {
+    "word": "exam",
+    "pos": "n.",
+    "chinese": "考試 (p. 4)",
+    "example": "I have an English exam today. (我今天有英文考試。)",
+    "description": ""
+  },
+  {
+    "word": "example",
+    "pos": "n.",
+    "chinese": "例子 (p. 4)",
+    "example": "Can you give me an example? (你能給我一個例子嗎？)",
+    "description": ""
+  },
+  {
+    "word": "excited",
+    "pos": "adj.",
+    "chinese": "興奮的 (p. 4)",
+    "example": "The children are excited about the trip. (孩子們對這次旅行感到很興奮。)",
+    "description": ""
+  },
+  {
+    "word": "exciting",
+    "pos": "adj.",
+    "chinese": "令人興奮的 (p. 4)",
+    "example": "This is an exciting game! (這是一場令人興奮的比賽！)",
+    "description": ""
+  },
+  {
+    "word": "exercise",
+    "pos": "n., v.",
+    "chinese": "運動、練習 (p. 4)",
+    "example": "I do exercise every morning. (我每天早上運動。)",
+    "description": ""
+  },
+  {
+    "word": "expensive",
+    "pos": "adj.",
+    "chinese": "昂貴的 (p. 4)",
+    "example": "The car is too expensive. (這輛車太貴了。)",
+    "description": ""
+  },
+  {
+    "word": "explain",
+    "pos": "v.",
+    "chinese": "解釋 (p. 4)",
+    "example": "Can you explain this rule to me? (你能向我解釋這條規則嗎？)",
+    "description": ""
+  },
+  {
+    "word": "extra",
+    "pos": "adj.",
+    "chinese": "額外的 (p. 4)",
+    "example": "Do you need an extra blanket? (你需要多一條毯子嗎？)",
+    "description": ""
+  },
+  {
+    "word": "eye",
+    "pos": "n.",
+    "chinese": "眼睛 (p. 4)",
+    "example": "She has blue eyes. (她有一雙藍色的眼睛。)",
+    "description": ""
+  },
+  {
+    "word": "face",
+    "pos": "n.",
+    "chinese": "臉 (p. 4)",
+    "example": "Wash your face before bed. (睡前洗臉。)",
+    "description": ""
+  },
+  {
+    "word": "fact",
+    "pos": "n.",
+    "chinese": "事實 (p. 4)",
+    "example": "It's an important fact. (這是一個重要的事實。)",
+    "description": ""
+  },
+  {
+    "word": "fall",
+    "pos": "v., n.",
+    "chinese": "落下、秋天 (p. 4)",
+    "example": "Be careful, don't fall. (小心，別摔倒了。)",
+    "description": ""
+  },
+  {
+    "word": "false",
+    "pos": "adj.",
+    "chinese": "錯誤的、假的 (p. 4)",
+    "example": "The statement is false. (這句話是錯誤的。)",
+    "description": ""
+  },
+  {
+    "word": "family",
+    "pos": "n., adj.",
+    "chinese": "家族、家人 (p. 4)",
+    "example": "I have a large family. (我有一個大家庭。)",
+    "description": ""
+  },
+  {
+    "word": "famous",
+    "pos": "adj.",
+    "chinese": "有名的 (p. 4)",
+    "example": "He is a famous singer. (他是一位著名的歌手。)",
+    "description": ""
+  },
+  {
+    "word": "fantastic",
+    "pos": "adj.",
+    "chinese": "極好的、棒極了 (p. 4)",
+    "example": "The food was fantastic! (食物太棒了！)",
+    "description": ""
+  },
+  {
+    "word": "far",
+    "pos": "adv.",
+    "chinese": "遠的 (p. 4)",
+    "example": "How far is it from here? (離這裡有多遠？)",
+    "description": ""
+  },
+  {
+    "word": "farm",
+    "pos": "n.",
+    "chinese": "農場 (p. 4)",
+    "example": "My uncle works on a farm. (我叔叔在農場工作。)",
+    "description": ""
+  },
+  {
+    "word": "farmer",
+    "pos": "n.",
+    "chinese": "農夫 (p. 4)",
+    "example": "The farmer has many cows. (這位農夫有很多牛。)",
+    "description": ""
+  },
+  {
+    "word": "fast",
+    "pos": "adj., adv.",
+    "chinese": "快的、快地 (p. 4)",
+    "example": "He is a fast runner. (他是一個跑很快的人。)",
+    "description": ""
+  },
+  {
+    "word": "fat",
+    "pos": "adj.",
+    "chinese": "胖的 (p. 4)",
+    "example": "The cat is very fat. (這隻貓很胖。)",
+    "description": ""
+  },
+  {
+    "word": "father",
+    "pos": "n.",
+    "chinese": "父親 (p. 4)",
+    "example": "My father is 50 years old. (我父親 50 歲。)",
+    "description": ""
+  },
+  {
+    "word": "favorite",
+    "pos": "adj., n.",
+    "chinese": "最喜愛的 (p. 4)",
+    "example": "What is your favorite food? (你最喜歡的食物是什麼？)",
+    "description": ""
+  },
+  {
+    "word": "February",
+    "pos": "n.",
+    "chinese": "二月 (p. 4)",
+    "example": "February is the shortest month. (二月是最短的月份。)",
+    "description": ""
+  },
+  {
+    "word": "feel",
+    "pos": "v.",
+    "chinese": "感覺 (p. 4)",
+    "example": "I feel happy today. (我今天感到很高興。)",
+    "description": ""
+  },
+  {
+    "word": "feeling",
+    "pos": "n.",
+    "chinese": "感覺、心情 (p. 4)",
+    "example": "I have a strange feeling. (我有一種奇怪的感覺。)",
+    "description": ""
+  },
+  {
+    "word": "festival",
+    "pos": "n.",
+    "chinese": "節慶 (p. 4)",
+    "example": "We are going to a music festival. (我們要去參加音樂節。)",
+    "description": ""
+  },
+  {
+    "word": "few",
+    "pos": "det./adj., pron.",
+    "chinese": "很少、一些 (p. 4)",
+    "example": "I have a few friends here. (我在這裡有一些朋友。)",
+    "description": ""
+  },
+  {
+    "word": "fifteen",
+    "pos": "num.",
+    "chinese": "十五 (p. 4)",
+    "example": "The class has fifteen students. (班上有十五名學生。)",
+    "description": ""
+  },
+  {
+    "word": "fifth",
+    "pos": "num.",
+    "chinese": "第五 (p. 4)",
+    "example": "This is the fifth time I've called. (這是我第五次打來了。)",
+    "description": ""
+  },
+  {
+    "word": "fifty",
+    "pos": "num.",
+    "chinese": "五十 (p. 4)",
+    "example": "The book has fifty pages. (這本書有五十頁。)",
+    "description": ""
+  },
+  {
+    "word": "fill",
+    "pos": "v.",
+    "chinese": "填滿 (p. 4)",
+    "example": "Fill the glass with water. (把杯子裝滿水。)",
+    "description": ""
+  },
+  {
+    "word": "final",
+    "pos": "adj.",
+    "chinese": "最後的 (p. 4)",
+    "example": "The final score was 2-1. (最終比分是 2 比 1。)",
+    "description": ""
+  },
+  {
+    "word": "find",
+    "pos": "v.",
+    "chinese": "找到 (p. 4)",
+    "example": "I can't find my keys. (我找不到我的鑰匙。)",
+    "description": ""
+  },
+  {
+    "word": "fine",
+    "pos": "adj.",
+    "chinese": "好的 (p. 4)",
+    "example": "I'm fine, thank you. (我很好，謝謝。)",
+    "description": ""
+  },
+  {
+    "word": "finish",
+    "pos": "v.",
+    "chinese": "完成、結束 (p. 4)",
+    "example": "I need to finish my homework. (我需要完成我的功課。)",
+    "description": ""
+  },
+  {
+    "word": "fire",
+    "pos": "n.",
+    "chinese": "火 (p. 4)",
+    "example": "There is a fire in the kitchen. (廚房失火了。)",
+    "description": ""
+  },
+  {
+    "word": "first",
+    "pos": "det./num., adv.",
+    "chinese": "第一、首先 (p. 4)",
+    "example": "January is the first month. (一月是第一個月份。)",
+    "description": ""
+  },
+  {
+    "word": "fish",
+    "pos": "n.",
+    "chinese": "魚 (p. 4)",
+    "example": "I have a small gold fish. (我有一條小金魚。)",
+    "description": ""
+  },
+  {
+    "word": "five",
+    "pos": "num.",
+    "chinese": "五 (p. 4)",
+    "example": "I have five fingers on each hand. (我每隻手有五根手指。)",
+    "description": ""
+  },
+  {
+    "word": "flight",
+    "pos": "n.",
+    "chinese": "班機、飛行 (p. 5)",
+    "example": "What time is your flight? (你的班機是幾點？)",
+    "description": ""
+  },
+  {
+    "word": "floor",
+    "pos": "n.",
+    "chinese": "地板、樓層 (p. 5)",
+    "example": "My office is on the third floor. (我的辦公室在三樓。)",
+    "description": ""
+  },
+  {
+    "word": "flower",
+    "pos": "n.",
+    "chinese": "花 (p. 5)",
+    "example": "The flower smells nice. (這朵花聞起來很香。)",
+    "description": ""
+  },
+  {
+    "word": "fly",
+    "pos": "v.",
+    "chinese": "飛、搭飛機 (p. 5)",
+    "example": "Birds can fly. (鳥會飛。)",
+    "description": ""
+  },
+  {
+    "word": "follow",
+    "pos": "v.",
+    "chinese": "跟隨、遵守 (p. 5)",
+    "example": "Follow me, please. (請跟著我。)",
+    "description": ""
+  },
+  {
+    "word": "food",
+    "pos": "n.",
+    "chinese": "食物 (p. 5)",
+    "example": "I like Italian food. (我喜歡義大利食物。)",
+    "description": ""
+  },
+  {
+    "word": "foot",
+    "pos": "n.",
+    "chinese": "腳 (單數) (p. 5)",
+    "example": "My left foot hurts. (我的左腳痛。)",
+    "description": ""
+  },
+  {
+    "word": "football",
+    "pos": "n.",
+    "chinese": "足球 (p. 5)",
+    "example": "Let's play football. (我們來踢足球吧。)",
+    "description": ""
+  },
+  {
+    "word": "for",
+    "pos": "prep.",
+    "chinese": "為了、給 (p. 5)",
+    "example": "This gift is for you. (這份禮物是給你的。)",
+    "description": ""
+  },
+  {
+    "word": "forget",
+    "pos": "v.",
+    "chinese": "忘記 (p. 5)",
+    "example": "Don't forget your bag. (別忘了你的包包。)",
+    "description": ""
+  },
+  {
+    "word": "form",
+    "pos": "n., v.",
+    "chinese": "表格、形成 (p. 5)",
+    "example": "Please fill in this form. (請填寫這份表格。)",
+    "description": ""
+  },
+  {
+    "word": "forty",
+    "pos": "num.",
+    "chinese": "四十 (p. 5)",
+    "example": "He is forty years old. (他四十歲。)",
+    "description": ""
+  },
+  {
+    "word": "four",
+    "pos": "num.",
+    "chinese": "四 (p. 5)",
+    "example": "A car has four wheels. (車子有四個輪子。)",
+    "description": ""
+  },
+  {
+    "word": "fourteen",
+    "pos": "num.",
+    "chinese": "十四 (p. 5)",
+    "example": "I am fourteen. (我十四歲。)",
+    "description": ""
+  },
+  {
+    "word": "fourth",
+    "pos": "num.",
+    "chinese": "第四 (p. 5)",
+    "example": "This is the fourth cup of tea. (這是第四杯茶。)",
+    "description": ""
+  },
+  {
+    "word": "free",
+    "pos": "adj.",
+    "chinese": "免費的、自由的、空閒的 (p. 5)",
+    "example": "Are you free tonight? (你今晚有空嗎？)",
+    "description": ""
+  },
+  {
+    "word": "Friday",
+    "pos": "n.",
+    "chinese": "星期五 (p. 5)",
+    "example": "I love Friday! (我愛星期五！)",
+    "description": ""
+  },
+  {
+    "word": "friend",
+    "pos": "n.",
+    "chinese": "朋友 (p. 5)",
+    "example": "She is my best friend. (她是我最好的朋友。)",
+    "description": ""
+  },
+  {
+    "word": "friendly",
+    "pos": "adj.",
+    "chinese": "友好的 (p. 5)",
+    "example": "People here are very friendly. (這裡的人很友善。)",
+    "description": ""
+  },
+  {
+    "word": "from",
+    "pos": "prep.",
+    "chinese": "來自 (p. 5)",
+    "example": "I am from Taiwan. (我來自台灣。)",
+    "description": ""
+  },
+  {
+    "word": "front",
+    "pos": "n., adj.",
+    "chinese": "前面 (p. 5)",
+    "example": "The car is in front of the house. (車子在房子前面。)",
+    "description": ""
+  },
+  {
+    "word": "fruit",
+    "pos": "n.",
+    "chinese": "水果 (p. 5)",
+    "example": "Do you like to eat fruit? (你喜歡吃水果嗎？)",
+    "description": ""
+  },
+  {
+    "word": "full",
+    "pos": "adj.",
+    "chinese": "滿的、飽的 (p. 5)",
+    "example": "The bus is full. (公車滿了。)",
+    "description": ""
+  },
+  {
+    "word": "fun",
+    "pos": "n.",
+    "chinese": "樂趣 (p. 5)",
+    "example": "Have fun! (玩得開心！)",
+    "description": ""
+  },
+  {
+    "word": "funny",
+    "pos": "adj.",
+    "chinese": "好笑的、有趣的 (p. 5)",
+    "example": "That's a funny story. (那是個有趣的故事。)",
+    "description": ""
+  },
+  {
+    "word": "future",
+    "pos": "n.",
+    "chinese": "未來 (p. 5)",
+    "example": "What are your plans for the future? (你未來的計劃是什麼？)",
+    "description": ""
+  },
+  {
+    "word": "game",
+    "pos": "n.",
+    "chinese": "遊戲、比賽 (p. 5)",
+    "example": "Let's play a game. (我們來玩個遊戲吧。)",
+    "description": ""
+  },
+  {
+    "word": "garden",
+    "pos": "n.",
+    "chinese": "花園 (p. 5)",
+    "example": "There are flowers in the garden. (花園裡有花。)",
+    "description": ""
+  },
+  {
+    "word": "geography",
+    "pos": "n.",
+    "chinese": "地理 (p. 5)",
+    "example": "I like geography class. (我喜歡地理課。)",
+    "description": ""
+  },
+  {
+    "word": "get",
+    "pos": "v.",
+    "chinese": "得到、變得、到達 (p. 5)",
+    "example": "I need to get a taxi. (我需要叫一台計程車。)",
+    "description": ""
+  },
+  {
+    "word": "girl",
+    "pos": "n.",
+    "chinese": "女孩 (p. 5)",
+    "example": "The girl is reading. (那個女孩正在閱讀。)",
+    "description": ""
+  },
+  {
+    "word": "girlfriend",
+    "pos": "n.",
+    "chinese": "女朋友 (p. 5)",
+    "example": "He is with his girlfriend. (他正和他的女朋友在一起。)",
+    "description": ""
+  },
+  {
+    "word": "give",
+    "pos": "v.",
+    "chinese": "給 (p. 5)",
+    "example": "Please give me a pen. (請給我一支筆。)",
+    "description": ""
+  },
+  {
+    "word": "glass",
+    "pos": "n.",
+    "chinese": "玻璃、玻璃杯 (p. 5)",
+    "example": "A glass of water, please. (請給我一杯水。)",
+    "description": ""
+  },
+  {
+    "word": "go",
+    "pos": "v.",
+    "chinese": "去 (p. 5)",
+    "example": "Let's go home. (我們回家吧。)",
+    "description": ""
+  },
+  {
+    "word": "good",
+    "pos": "adj.",
+    "chinese": "好的 (p. 5)",
+    "example": "This is a good book. (這是一本好書。)",
+    "description": ""
+  },
+  {
+    "word": "goodbye",
+    "pos": "exclam./n.",
+    "chinese": "再見 (p. 5)",
+    "example": "Say goodbye to your friends. (跟你的朋友說再見。)",
+    "description": ""
+  },
+  {
+    "word": "grandfather",
+    "pos": "n.",
+    "chinese": "祖父、外祖父 (p. 5)",
+    "example": "My grandfather is very kind. (我祖父很仁慈。)",
+    "description": ""
+  },
+  {
+    "word": "grandmother",
+    "pos": "n.",
+    "chinese": "祖母、外祖母 (p. 5)",
+    "example": "My grandmother cooks well. (我祖母廚藝很好。)",
+    "description": ""
+  },
+  {
+    "word": "grandparent",
+    "pos": "n.",
+    "chinese": "祖父母、外祖父母 (p. 5)",
+    "example": "I visit my grandparents every month. (我每個月拜訪我的祖父母。)",
+    "description": ""
+  },
+  {
+    "word": "gray",
+    "pos": "adj., n.",
+    "chinese": "灰色 (p. 5)",
+    "example": "The sky is gray. (天空是灰色的。)",
+    "description": ""
+  },
+  {
+    "word": "great",
+    "pos": "adj.",
+    "chinese": "極好的、巨大的 (p. 5)",
+    "example": "That's a great idea! (那是個好主意！)",
+    "description": ""
+  },
+  {
+    "word": "green",
+    "pos": "adj., n.",
+    "chinese": "綠色 (p. 5)",
+    "example": "Trees are green. (樹是綠色的。)",
+    "description": ""
+  },
+  {
+    "word": "group",
+    "pos": "n.",
+    "chinese": "團體、群組 (p. 5)",
+    "example": "We work in a group. (我們小組合作。)",
+    "description": ""
+  },
+  {
+    "word": "grow",
+    "pos": "v.",
+    "chinese": "成長、種植 (p. 5)",
+    "example": "Plants grow fast in summer. (植物在夏天長很快。)",
+    "description": ""
+  },
+  {
+    "word": "guess",
+    "pos": "v., n.",
+    "chinese": "猜測 (p. 5)",
+    "example": "Can you guess what's in the box? (你能猜到箱子裡是什麼嗎？)",
+    "description": ""
+  },
+  {
+    "word": "guitar",
+    "pos": "n.",
+    "chinese": "吉他 (p. 5)",
+    "example": "He plays the guitar well. (他吉他彈得很好。)",
+    "description": ""
+  },
+  {
+    "word": "gym",
+    "pos": "n.",
+    "chinese": "體育館、健身房 (p. 5)",
+    "example": "I go to the gym after work. (我下班後去健身房。)",
+    "description": ""
+  },
+  {
+    "word": "hair",
+    "pos": "n.",
+    "chinese": "頭髮 (p. 5)",
+    "example": "She has long hair. (她有長頭髮。)",
+    "description": ""
+  },
+  {
+    "word": "half",
+    "pos": "n., det./pron.",
+    "chinese": "一半 (p. 5)",
+    "example": "I'll meet you in half an hour. (我半小時後見你。)",
+    "description": ""
+  },
+  {
+    "word": "hand",
+    "pos": "n.",
+    "chinese": "手 (p. 5)",
+    "example": "Wash your hands, please. (請洗手。)",
+    "description": ""
+  },
+  {
+    "word": "happen",
+    "pos": "v.",
+    "chinese": "發生 (p. 5)",
+    "example": "What did happen? (發生了什麼事？)",
+    "description": ""
+  },
+  {
+    "word": "happy",
+    "pos": "adj.",
+    "chinese": "快樂的 (p. 5)",
+    "example": "I am so happy today! (我今天好高興！)",
+    "description": ""
+  },
+  {
+    "word": "hard",
+    "pos": "adj., adv.",
+    "chinese": "硬的、困難的、努力地 (p. 5)",
+    "example": "English is hard to learn. (英文很難學。)",
+    "description": ""
+  },
+  {
+    "word": "hat",
+    "pos": "n.",
+    "chinese": "帽子 (p. 5)",
+    "example": "He is wearing a black hat. (他戴著一頂黑帽子。)",
+    "description": ""
+  },
+  {
+    "word": "hate",
+    "pos": "v.",
+    "chinese": "討厭、憎恨 (p. 5)",
+    "example": "I hate rainy days. (我討厭下雨天。)",
+    "description": ""
+  },
+  {
+    "word": "have",
+    "pos": "v.",
+    "chinese": "有、吃、喝 (p. 5)",
+    "example": "I have a cat. (我有一隻貓。)",
+    "description": ""
+  },
+  {
+    "word": "have to",
+    "pos": "modal v.",
+    "chinese": "必須 (p. 5)",
+    "example": "I have to go now. (我現在必須走了。)",
+    "description": ""
+  },
+  {
+    "word": "he",
+    "pos": "pron.",
+    "chinese": "他 (p. 5)",
+    "example": "He is my teacher. (他是我的老師。)",
+    "description": ""
+  },
+  {
+    "word": "head",
+    "pos": "n.",
+    "chinese": "頭 (p. 5)",
+    "example": "My head hurts. (我頭痛。)",
+    "description": ""
+  },
+  {
+    "word": "health",
+    "pos": "n.",
+    "chinese": "健康 (p. 5)",
+    "example": "Drink water for good health. (為了健康多喝水。)",
+    "description": ""
+  },
+  {
+    "word": "healthy",
+    "pos": "adj.",
+    "chinese": "健康的 (p. 5)",
+    "example": "Eat healthy food. (吃健康的食物。)",
+    "description": ""
+  },
+  {
+    "word": "hear",
+    "pos": "v.",
+    "chinese": "聽見 (p. 5)",
+    "example": "Can you hear me? (你能聽到我說話嗎？)",
+    "description": ""
+  },
+  {
+    "word": "hello",
+    "pos": "exclam./n.",
+    "chinese": "你好 (p. 5)",
+    "example": "Say hello to everyone. (跟每個人打聲招呼。)",
+    "description": ""
+  },
+  {
+    "word": "help",
+    "pos": "v., n.",
+    "chinese": "幫忙 (p. 5)",
+    "example": "Can you help me? (你能幫我嗎？)",
+    "description": ""
+  },
+  {
+    "word": "her",
+    "pos": "pron., det.",
+    "chinese": "她、她的 (p. 5)",
+    "example": "That is her book. (那是她的書。)",
+    "description": ""
+  },
+  {
+    "word": "here",
+    "pos": "adv.",
+    "chinese": "這裡 (p. 5)",
+    "example": "Come here, please. (請過來這裡。)",
+    "description": ""
+  },
+  {
+    "word": "hey",
+    "pos": "exclam.",
+    "chinese": "嘿 (p. 5)",
+    "example": "Hey! Look at this. (嘿！看這個。)",
+    "description": ""
+  },
+  {
+    "word": "hi",
+    "pos": "exclam.",
+    "chinese": "嗨 (p. 5)",
+    "example": "Hi, how are you? (嗨，你好嗎？)",
+    "description": ""
+  },
+  {
+    "word": "high",
+    "pos": "adj.",
+    "chinese": "高的 (p. 5)",
+    "example": "The mountain is very high. (這座山非常高。)",
+    "description": ""
+  },
+  {
+    "word": "him",
+    "pos": "pron.",
+    "chinese": "他 (受格) (p. 5)",
+    "example": "I saw him yesterday. (我昨天看到他。)",
+    "description": ""
+  },
+  {
+    "word": "his",
+    "pos": "det.",
+    "chinese": "他的 (p. 5)",
+    "example": "This is his car. (這是他的車。)",
+    "description": ""
+  },
+  {
+    "word": "history",
+    "pos": "n.",
+    "chinese": "歷史 (p. 5)",
+    "example": "I like learning history. (我喜歡學歷史。)",
+    "description": ""
+  },
+  {
+    "word": "hobby",
+    "pos": "n.",
+    "chinese": "嗜好 (p. 6)",
+    "example": "Reading is my hobby. (閱讀是我的嗜好。)",
+    "description": ""
+  },
+  {
+    "word": "home",
+    "pos": "n., adv.",
+    "chinese": "家、回家 (p. 6)",
+    "example": "I am at home. (我在家。)",
+    "description": ""
+  },
+  {
+    "word": "homework",
+    "pos": "n.",
+    "chinese": "功課 (p. 6)",
+    "example": "Do your homework now. (現在做你的功課。)",
+    "description": ""
+  },
+  {
+    "word": "hope",
+    "pos": "v.",
+    "chinese": "希望 (p. 6)",
+    "example": "I hope to see you soon. (我希望很快能見到你。)",
+    "description": ""
+  },
+  {
+    "word": "horse",
+    "pos": "n.",
+    "chinese": "馬 (p. 6)",
+    "example": "He can ride a horse. (他會騎馬。)",
+    "description": ""
+  },
+  {
+    "word": "hospital",
+    "pos": "n.",
+    "chinese": "醫院 (p. 6)",
+    "example": "The hospital is near here. (醫院在附近。)",
+    "description": ""
+  },
+  {
+    "word": "hot",
+    "pos": "adj.",
+    "chinese": "熱的 (p. 6)",
+    "example": "It's very hot today. (今天非常熱。)",
+    "description": ""
+  },
+  {
+    "word": "hotel",
+    "pos": "n.",
+    "chinese": "飯店 (p. 6)",
+    "example": "We are staying at a hotel. (我們住在一家飯店。)",
+    "description": ""
+  },
+  {
+    "word": "hour",
+    "pos": "n.",
+    "chinese": "小時 (p. 6)",
+    "example": "I'll be back in an hour. (我一小時後回來。)",
+    "description": ""
+  },
+  {
+    "word": "house",
+    "pos": "n.",
+    "chinese": "房子 (p. 6)",
+    "example": "My house has a red door. (我的房子有一扇紅色的門。)",
+    "description": ""
+  },
+  {
+    "word": "how",
+    "pos": "adv.",
+    "chinese": "如何 (p. 6)",
+    "example": "How do you go to school? (你怎麼去上學？)",
+    "description": ""
+  },
+  {
+    "word": "however",
+    "pos": "adv.",
+    "chinese": "然而 (p. 6)",
+    "example": "I like the car; however, it's too expensive. (我喜歡這台車，然而它太貴了。)",
+    "description": ""
+  },
+  {
+    "word": "hundred",
+    "pos": "num.",
+    "chinese": "一百 (p. 6)",
+    "example": "One hundred people are here. (有一百人在這裡。)",
+    "description": ""
+  },
+  {
+    "word": "hungry",
+    "pos": "adj.",
+    "chinese": "飢餓的 (p. 6)",
+    "example": "I am very hungry. (我很餓。)",
+    "description": ""
+  },
+  {
+    "word": "husband",
+    "pos": "n.",
+    "chinese": "丈夫 (p. 6)",
+    "example": "Her husband is a teacher. (她的丈夫是一位老師。)",
+    "description": ""
+  },
+  {
+    "word": "I",
+    "pos": "pron.",
+    "chinese": "我 (p. 6)",
+    "example": "I am a student.",
+    "description": "我是一名學生。"
+  },
+  {
+    "word": "ice",
+    "pos": "n.",
+    "chinese": "冰 (p. 6)",
+    "example": "Put some ice in my drink, please.",
+    "description": "請在我的飲料裡加點冰塊。"
+  },
+  {
+    "word": "ice cream",
+    "pos": "n.",
+    "chinese": "冰淇淋 (p. 6)",
+    "example": "Children love eating ice cream in summer.",
+    "description": "小孩子喜歡在夏天吃冰淇淋。"
+  },
+  {
+    "word": "idea",
+    "pos": "n.",
+    "chinese": "主意、想法 (p. 6)",
+    "example": "That's a great idea!",
+    "description": "那真是個好主意！"
+  },
+  {
+    "word": "if",
+    "pos": "conj.",
+    "chinese": "如果 (p. 6)",
+    "example": "If it rains, we will stay home.",
+    "description": "如果下雨，我們就待在家。"
+  },
+  {
+    "word": "imagine",
+    "pos": "v.",
+    "chinese": "想像 (p. 6)",
+    "example": "Can you imagine living on Mars?",
+    "description": "你能想像住在火星上嗎？"
+  },
+  {
+    "word": "important",
+    "pos": "adj.",
+    "chinese": "重要的 (p. 6)",
+    "example": "It is important to eat healthy food.",
+    "description": "吃健康的食物是很重要的。"
+  },
+  {
+    "word": "improve",
+    "pos": "v.",
+    "chinese": "進步、改善 (p. 6)",
+    "example": "I want to improve my English.",
+    "description": "我想增進我的英文能力。"
+  },
+  {
+    "word": "in",
+    "pos": "prep., adv.",
+    "chinese": "在...裡面 (p. 6)",
+    "example": "The keys are in my bag.",
+    "description": "鑰匙在我的袋子裡。"
+  },
+  {
+    "word": "include",
+    "pos": "v.",
+    "chinese": "包含 (p. 6)",
+    "example": "The price includes breakfast.",
+    "description": "價格包含早餐。"
+  },
+  {
+    "word": "information",
+    "pos": "n.",
+    "chinese": "資訊、消息 (p. 6)",
+    "example": "I need more information about the trip.",
+    "description": "我需要更多關於這次旅行的資訊。"
+  },
+  {
+    "word": "interest",
+    "pos": "n., v.",
+    "chinese": "興趣、使感興趣 (p. 6)",
+    "example": "Music is my main interest.",
+    "description": "音樂是我主要的興趣。"
+  },
+  {
+    "word": "interested",
+    "pos": "adj.",
+    "chinese": "感興趣的 (p. 6)",
+    "example": "I am interested in learning history.",
+    "description": "我對學習歷史感興趣。"
+  },
+  {
+    "word": "interesting",
+    "pos": "adj.",
+    "chinese": "有趣的 (p. 6)",
+    "example": "This is a very interesting book.",
+    "description": "這是一本非常有趣的書。"
+  },
+  {
+    "word": "internet",
+    "pos": "n.",
+    "chinese": "網路 (p. 6)",
+    "example": "I use the internet every day.",
+    "description": "我每天都使用網路。"
+  },
+  {
+    "word": "interview",
+    "pos": "n., v.",
+    "chinese": "面試、採訪 (p. 6)",
+    "example": "He has a job interview tomorrow.",
+    "description": "他明天有一個工作面試。"
+  },
+  {
+    "word": "into",
+    "pos": "prep.",
+    "chinese": "進入...之中 (p. 6)",
+    "example": "Come into the house.",
+    "description": "進到房子裡來。"
+  },
+  {
+    "word": "introduce",
+    "pos": "v.",
+    "chinese": "介紹 (p. 6)",
+    "example": "Let me introduce my friend to you.",
+    "description": "讓我向你介紹我的朋友。"
+  },
+  {
+    "word": "island",
+    "pos": "n.",
+    "chinese": "島嶼 (p. 6)",
+    "example": "They live on a small island.",
+    "description": "他們住在一座小島上。"
+  },
+  {
+    "word": "it",
+    "pos": "pron.",
+    "chinese": "它 (p. 6)",
+    "example": "It is a beautiful day.",
+    "description": "它是個美好的一天。"
+  },
+  {
+    "word": "its",
+    "pos": "det.",
+    "chinese": "它的 (p. 6)",
+    "example": "The cat licked its paw.",
+    "description": "那隻貓舔了它的爪子。"
+  },
+  {
+    "word": "jacket",
+    "pos": "n.",
+    "chinese": "夾克、外套",
+    "example": "It's a bit cold outside, you should wear a jacket.",
+    "description": "外面有點冷，你應該穿件夾克。"
+  },
+  {
+    "word": "January",
+    "pos": "n.",
+    "chinese": "一月",
+    "example": "January is the first month of the year.",
+    "description": "一月是一年中的第一個月份。"
+  },
+  {
+    "word": "jeans",
+    "pos": "n.",
+    "chinese": "牛仔褲",
+    "example": "I like to wear jeans and a T-shirt on weekends.",
+    "description": "我喜歡在週末穿著牛仔褲和 T 恤。"
+  },
+  {
+    "word": "job",
+    "pos": "n.",
+    "chinese": "工作、職業",
+    "example": "She is looking for a new job in the city.",
+    "description": "她正在城市裡找一份新工作。"
+  },
+  {
+    "word": "join",
+    "pos": "v.",
+    "chinese": "加入、參加",
+    "example": "Would you like to join our English club?",
+    "description": "你想要加入我們的英文社團嗎？"
+  },
+  {
+    "word": "juice",
+    "pos": "n.",
+    "chinese": "果汁",
+    "example": "I usually drink a glass of orange juice for breakfast.",
+    "description": "我早餐通常喝一杯柳橙汁。"
+  },
+  {
+    "word": "July",
+    "pos": "n.",
+    "chinese": "七月",
+    "example": "We often go to the beach in July.",
+    "description": "我們經常在七月去海邊。"
+  },
+  {
+    "word": "June",
+    "pos": "n.",
+    "chinese": "六月",
+    "example": "The school year ends in June.",
+    "description": "學年會在六月結束。"
+  },
+  {
+    "word": "just",
+    "pos": "adv.",
+    "chinese": "剛剛、僅僅、只是",
+    "example": "I have just finished my homework.",
+    "description": "我剛剛才完成我的功課。"
+  },
+  {
+    "word": "keep",
+    "pos": "v.",
+    "chinese": "保持、保留、繼續 (p. 6)",
+    "example": "Please keep the room clean.",
+    "description": "請保持房間整潔。"
+  },
+  {
+    "word": "key",
+    "pos": "n., adj.",
+    "chinese": "鑰匙、關鍵的 (p. 6)",
+    "example": "I can't find my car keys.",
+    "description": "我找不到我的汽車鑰匙。"
+  },
+  {
+    "word": "kind",
+    "pos": "type",
+    "chinese": "(n.) 種類 (p. 6)",
+    "example": "What kind of music do you like?",
+    "description": "你喜歡哪一種音樂？"
+  },
+  {
+    "word": "kitchen",
+    "pos": "n.",
+    "chinese": "廚房 (p. 6)",
+    "example": "Mom is cooking dinner in the kitchen.",
+    "description": "媽媽正在廚房煮晚餐。"
+  },
+  {
+    "word": "know",
+    "pos": "v.",
+    "chinese": "知道、認識 (p. 6)",
+    "example": "Do you know the answer to this question?",
+    "description": "你知道這個問題的答案嗎？"
+  },
+  {
+    "word": "land",
+    "pos": "n.",
+    "chinese": "土地、陸地",
+    "example": "The plane will touch the land in ten minutes.",
+    "description": "飛機將在十分鐘後降落在陸地上。"
+  },
+  {
+    "word": "language",
+    "pos": "n.",
+    "chinese": "語言",
+    "example": "How many languages can you speak?",
+    "description": "你會說幾種語言？"
+  },
+  {
+    "word": "large",
+    "pos": "adj.",
+    "chinese": "大的、大型的",
+    "example": "I saw a movie last night.",
+    "description": "我昨晚看了一部電影。"
+  },
+  {
+    "word": "late",
+    "pos": "adj., adv.",
+    "chinese": "遲的、晚地",
+    "example": "Don't be late for school!",
+    "description": "上學別遲到了！"
+  },
+  {
+    "word": "later",
+    "pos": "adv.",
+    "chinese": "稍後、以後",
+    "example": "See you later!",
+    "description": "待會見！"
+  },
+  {
+    "word": "laugh",
+    "pos": "v., n.",
+    "chinese": "笑",
+    "example": "That funny story made everyone laugh.",
+    "description": "那個有趣的故事讓每個人都笑了。"
+  },
+  {
+    "word": "learn",
+    "pos": "v.",
+    "chinese": "學習",
+    "example": "I want to learn how to cook.",
+    "description": "我想學習如何烹飪。"
+  },
+  {
+    "word": "leave",
+    "pos": "v.",
+    "chinese": "離開、留下",
+    "example": "What time do you leave home for work?",
+    "description": "你幾點離開家去上班？"
+  },
+  {
+    "word": "left",
+    "pos": "adj., adv., n.",
+    "chinese": "左邊的、左方",
+    "example": "Turn left at the next corner.",
+    "description": "在下一個轉角左轉。"
+  },
+  {
+    "word": "leg",
+    "pos": "n.",
+    "chinese": "腿",
+    "example": "He hurt his leg while playing football.",
+    "description": "他在踢足球時傷到了腿。"
+  },
+  {
+    "word": "lesson",
+    "pos": "n.",
+    "chinese": "課、課程",
+    "example": "Our English lesson starts at 9 a.m.",
+    "description": "我們的英文課早上九點開始。"
+  },
+  {
+    "word": "let",
+    "pos": "v.",
+    "chinese": "讓、准許",
+    "example": "Let me help you with those bags.",
+    "description": "讓我幫你提那些袋子。"
+  },
+  {
+    "word": "letter",
+    "pos": "n.",
+    "chinese": "信件、字母",
+    "example": "I received a letter from my friend today.",
+    "description": "我今天收到了一封朋友寄來的信。"
+  },
+  {
+    "word": "library",
+    "pos": "n.",
+    "chinese": "圖書館",
+    "example": "I like to lie on the grass and look at the sky.",
+    "description": "我喜歡躺在草地上看天空。"
+  },
+  {
+    "word": "life",
+    "pos": "n.",
+    "chinese": "生命、生活",
+    "example": "She has a very happy life.",
+    "description": "她過著非常快樂的生活。"
+  },
+  {
+    "word": "light",
+    "pos": "n., adj.",
+    "chinese": "光、光線、輕的、淺色的",
+    "example": "Turn off the light before you leave.",
+    "description": "離開前請關燈。"
+  },
+  {
+    "word": "like",
+    "pos": "prep.",
+    "chinese": "像、如同 (similar)",
+    "example": "He is like his father.",
+    "description": "他長得像他父親。"
+  },
+  {
+    "word": "like",
+    "pos": "v.",
+    "chinese": "喜歡 (find sb/sth pleasant)",
+    "example": "I like eating apples.",
+    "description": "我喜歡吃蘋果。"
+  },
+  {
+    "word": "line",
+    "pos": "n.",
+    "chinese": "線、行列",
+    "example": "Please wait in line.",
+    "description": "請排隊（在行列中等待）。"
+  },
+  {
+    "word": "lion",
+    "pos": "n.",
+    "chinese": "獅子",
+    "example": "The lion is the king of the jungle.",
+    "description": "獅子是叢林之王。"
+  },
+  {
+    "word": "list",
+    "pos": "n., v.",
+    "chinese": "清單、列表",
+    "example": "I made a shopping list.",
+    "description": "我列了一份購物清單。"
+  },
+  {
+    "word": "listen",
+    "pos": "v.",
+    "chinese": "聽、傾聽",
+    "example": "Listen to the teacher carefully.",
+    "description": "仔細聽老師說話。"
+  },
+  {
+    "word": "little",
+    "pos": "adj., det./pron.",
+    "chinese": "小的、少量的",
+    "example": "Where do you live?",
+    "description": "你住在哪裡？"
+  },
+  {
+    "word": "local",
+    "pos": "adj.",
+    "chinese": "當地的、本地的",
+    "example": "She has long hair.",
+    "description": "她有一頭長髮。"
+  },
+  {
+    "word": "look",
+    "pos": "v.",
+    "chinese": "看、看起來",
+    "example": "Look at the beautiful flowers!",
+    "description": "看這些美麗的花！"
+  },
+  {
+    "word": "lose",
+    "pos": "v.",
+    "chinese": "遺失、輸掉",
+    "example": "Don't lose your umbrella.",
+    "description": "別弄丟你的雨傘。"
+  },
+  {
+    "word": "lot",
+    "pos": "pron., det., adv.",
+    "chinese": "很多、大量",
+    "example": "Thanks a lot!",
+    "description": "非常感謝！"
+  },
+  {
+    "word": "love",
+    "pos": "n., v.",
+    "chinese": "愛、熱愛",
+    "example": "I love my family very much.",
+    "description": "我非常愛我的家人。"
+  },
+  {
+    "word": "lunch",
+    "pos": "n.",
+    "chinese": "午餐",
+    "example": "What did you have for lunch?",
+    "description": "你午餐吃了什麼？"
+  },
+  {
+    "word": "machine",
+    "pos": "n.",
+    "chinese": "機器",
+    "example": "This machine is used for washing clothes.",
+    "description": "這台機器是用來洗衣服的。"
+  },
+  {
+    "word": "magazine",
+    "pos": "n.",
+    "chinese": "雜誌",
+    "example": "I like reading fashion magazines.",
+    "description": "我喜歡讀時尚雜誌。"
+  },
+  {
+    "word": "main",
+    "pos": "adj.",
+    "chinese": "主要的",
+    "example": "The main road is very busy today.",
+    "description": "這條主幹道今天非常繁忙。"
+  },
+  {
+    "word": "make",
+    "pos": "v.",
+    "chinese": "製作、使...",
+    "example": "My mom can make delicious cakes.",
+    "description": "我媽媽會做美味的蛋糕。"
+  },
+  {
+    "word": "mall",
+    "pos": "n.",
+    "chinese": "購物中心",
+    "example": "We are going to the mall to buy some shoes.",
+    "description": "我們要去購物中心買些鞋子。"
+  },
+  {
+    "word": "man",
+    "pos": "n.",
+    "chinese": "男人",
+    "example": "The man in the black suit is my teacher.",
+    "description": "穿黑色西裝的那個人是我的老師。"
+  },
+  {
+    "word": "many",
+    "pos": "det./pron.",
+    "chinese": "許多的",
+    "example": "There are many books in the library.",
+    "description": "圖書館裡有很多書。"
+  },
+  {
+    "word": "map",
+    "pos": "n.",
+    "chinese": "地圖",
+    "example": "We used a map to find our way.",
+    "description": "我們用地圖來找路。"
+  },
+  {
+    "word": "March",
+    "pos": "n.",
+    "chinese": "三月",
+    "example": "It often rains in March.",
+    "description": "三月經常下雨。"
+  },
+  {
+    "word": "market",
+    "pos": "n.",
+    "chinese": "市場",
+    "example": "I buy fresh vegetables at the market.",
+    "description": "我在市場買新鮮蔬菜。"
+  },
+  {
+    "word": "married",
+    "pos": "adj.",
+    "chinese": "已婚的",
+    "example": "They have been married for ten years.",
+    "description": "他們已經結婚十年了。"
+  },
+  {
+    "word": "match",
+    "pos": "n., v.",
+    "chinese": "比賽、配對",
+    "example": "We watched a football match yesterday.",
+    "description": "我們昨天看了一場足球賽。"
+  },
+  {
+    "word": "May",
+    "pos": "n.",
+    "chinese": "五月",
+    "example": "My birthday is in May.",
+    "description": "我的生日在五月。"
+  },
+  {
+    "word": "maybe",
+    "pos": "adv.",
+    "chinese": "也許、可能",
+    "example": "Maybe it will rain this afternoon.",
+    "description": "今天下午也許會下雨。"
+  },
+  {
+    "word": "me",
+    "pos": "pron.",
+    "chinese": "我 (受格)",
+    "example": "Can you help me with my homework?",
+    "description": "你能幫我做功課嗎？"
+  },
+  {
+    "word": "meal",
+    "pos": "n.",
+    "chinese": "餐、一頓飯",
+    "example": "Breakfast is the most important meal of the day.",
+    "description": "早餐是一天中最重要的一餐。"
+  },
+  {
+    "word": "mean",
+    "pos": "v.",
+    "chinese": "意思是...",
+    "example": "What does this word mean?",
+    "description": "這個單字是什麼意思？"
+  },
+  {
+    "word": "meaning",
+    "pos": "n.",
+    "chinese": "意義、意思",
+    "example": "Do you know the meaning of life?",
+    "description": "你知道生命的意義嗎？"
+  },
+  {
+    "word": "meat",
+    "pos": "n.",
+    "chinese": "肉類",
+    "example": "I don't eat meat; I'm a vegetarian.",
+    "description": "我不吃肉，我是素食者。"
+  },
+  {
+    "word": "meet",
+    "pos": "v.",
+    "chinese": "遇見、見面",
+    "example": "Let's meet at the station at six.",
+    "description": "我們六點在車站見面吧。"
+  },
+  {
+    "word": "meeting",
+    "pos": "n.",
+    "chinese": "會議",
+    "example": "We have a staff meeting every Monday.",
+    "description": "我們每週一都有員工會議。"
+  },
+  {
+    "word": "member",
+    "pos": "n.",
+    "chinese": "成員、會員",
+    "example": "He is a member of the tennis club.",
+    "description": "他是網球俱樂部的成員。"
+  },
+  {
+    "word": "menu",
+    "pos": "n.",
+    "chinese": "菜單",
+    "example": "Can I see the menu, please?",
+    "description": "請給我看一下菜單好嗎？"
+  },
+  {
+    "word": "message",
+    "pos": "n.",
+    "chinese": "訊息",
+    "example": "I sent you a text message this morning.",
+    "description": "我今天早上傳了一則簡訊給你。"
+  },
+  {
+    "word": "meter",
+    "pos": "n.",
+    "chinese": "公尺、米",
+    "example": "He is one meter eighty tall.",
+    "description": "他身高一米八。"
+  },
+  {
+    "word": "midnight",
+    "pos": "n.",
+    "chinese": "午夜",
+    "example": "The party ended at midnight.",
+    "description": "派對在午夜結束。"
+  },
+  {
+    "word": "mile",
+    "pos": "n.",
+    "chinese": "英哩",
+    "example": "The nearest town is ten miles away.",
+    "description": "最近的城鎮在十英哩外。"
+  },
+  {
+    "word": "milk",
+    "pos": "n.",
+    "chinese": "牛奶",
+    "example": "I drink a glass of milk before bed.",
+    "description": "我睡前喝一杯牛奶。"
+  },
+  {
+    "word": "million",
+    "pos": "number",
+    "chinese": "百萬",
+    "example": "Wait for a minute, please.",
+    "description": "請等一下。"
+  },
+  {
+    "word": "miss",
+    "pos": "v.",
+    "chinese": "錯過、想念",
+    "example": "Hurry up, or we will miss the bus!",
+    "description": "快點，否則我們會錯過公車！"
+  },
+  {
+    "word": "mistake",
+    "pos": "n.",
+    "chinese": "錯誤",
+    "example": "Everyone makes mistakes sometimes.",
+    "description": "每個人有時都會犯錯。"
+  },
+  {
+    "word": "model",
+    "pos": "n.",
+    "chinese": "模特兒、模型",
+    "example": "She is a famous fashion model.",
+    "description": "她是一位著名的時裝模特兒。"
+  },
+  {
+    "word": "modern",
+    "pos": "adj.",
+    "chinese": "現代的",
+    "example": "I like the modern design of this building.",
+    "description": "我喜歡這棟建築的現代設計。"
+  },
+  {
+    "word": "mom",
+    "pos": "n.",
+    "chinese": "媽媽",
+    "example": "My mom is the best cook in the world.",
+    "description": "我媽媽是世界上最好的廚師。"
+  },
+  {
+    "word": "moment",
+    "pos": "n.",
+    "chinese": "片刻、瞬間",
+    "example": "Just a moment, please.",
+    "description": "請稍等片刻。"
+  },
+  {
+    "word": "Monday",
+    "pos": "n.",
+    "chinese": "星期一",
+    "example": "I hate Monday mornings.",
+    "description": "我討厭星期一的早晨。"
+  },
+  {
+    "word": "money",
+    "pos": "n.",
+    "chinese": "金錢",
+    "example": "I need to save some money for my trip.",
+    "description": "我需要存些錢去旅行。"
+  },
+  {
+    "word": "month",
+    "pos": "n.",
+    "chinese": "月份",
+    "example": "What month were you born in?",
+    "description": "你是幾月出生的？"
+  },
+  {
+    "word": "more",
+    "pos": "det./pron., adv.",
+    "chinese": "更多的",
+    "example": "Can I have some more water, please?",
+    "description": "請再給我一些水好嗎？"
+  },
+  {
+    "word": "morning",
+    "pos": "n.",
+    "chinese": "早上",
+    "example": "Good morning, class!",
+    "description": "各位早安！"
+  },
+  {
+    "word": "most",
+    "pos": "det./pron., adv.",
+    "chinese": "大多數的、最...",
+    "example": "Most students in the class like English.",
+    "description": "班上大多數的學生都喜歡英文。"
+  },
+  {
+    "word": "mother",
+    "pos": "n.",
+    "chinese": "母親",
+    "example": "My mother works in a hospital.",
+    "description": "我母親在醫院工作。"
+  },
+  {
+    "word": "mountain",
+    "pos": "n.",
+    "chinese": "山",
+    "example": "We climbed a high mountain last summer.",
+    "description": "去年夏天我們爬了一座高山。"
+  },
+  {
+    "word": "mouse",
+    "pos": "n.",
+    "chinese": "老鼠、滑鼠",
+    "example": "The cat is chasing a small mouse.",
+    "description": "貓正在追一隻小老鼠。"
+  },
+  {
+    "word": "mouth",
+    "pos": "n.",
+    "chinese": "嘴巴",
+    "example": "Open your mouth and say \"Ah\".",
+    "description": "張開嘴說「啊」。"
+  },
+  {
+    "word": "move",
+    "pos": "v.",
+    "chinese": "移動、搬家",
+    "example": "We are going to move to a new house next month.",
+    "description": "我們下個月要搬新家。"
+  },
+  {
+    "word": "movie",
+    "pos": "n.",
+    "chinese": "電影",
+    "example": "Let's go to see a movie tonight.",
+    "description": "我們今晚去看電影吧。"
+  },
+  {
+    "word": "much",
+    "pos": "det./pron., adv.",
+    "chinese": "許多 (不可數)",
+    "example": "How much is this bag?",
+    "description": "這個包包多少錢？"
+  },
+  {
+    "word": "museum",
+    "pos": "n.",
+    "chinese": "博物館",
+    "example": "The museum is closed on Mondays.",
+    "description": "這間博物館週一不開放。"
+  },
+  {
+    "word": "music",
+    "pos": "n.",
+    "chinese": "音樂",
+    "example": "What kind of music do you like?",
+    "description": "你喜歡哪種音樂？"
+  },
+  {
+    "word": "must",
+    "pos": "modal v.",
+    "chinese": "必須",
+    "example": "You must wear a seat belt.",
+    "description": "你必須繫好安全帶。"
+  },
+  {
+    "word": "my",
+    "pos": "det.",
+    "chinese": "我的",
+    "example": "This is my new car.",
+    "description": "這是我的新車。"
+  },
+  {
+    "word": "name",
+    "pos": "n., v.",
+    "chinese": "名字、命名 (p. 7)",
+    "example": "What is your name?",
+    "description": "你的名字是什麼？"
+  },
+  {
+    "word": "natural",
+    "pos": "adj.",
+    "chinese": "自然的、天然的 (p. 7)",
+    "example": "It is a natural fruit juice with no sugar added.",
+    "description": "這是一種不加糖的天然果汁。"
+  },
+  {
+    "word": "near",
+    "pos": "prep., adj., adv.",
+    "chinese": "在...附近 (p. 7)",
+    "example": "The school is very near to my house.",
+    "description": "學校離我家非常近。"
+  },
+  {
+    "word": "negative",
+    "pos": "adj.",
+    "chinese": "負面的、否定的 (p. 7)",
+    "example": "Try not to have a negative attitude about the test.",
+    "description": "對於考試，盡量不要抱持負面的態度。"
+  },
+  {
+    "word": "neighbor",
+    "pos": "n.",
+    "chinese": "鄰居 (p. 7)",
+    "example": "My neighbor is very friendly and often helps me.",
+    "description": "我的鄰居非常友善，經常幫助我。"
+  },
+  {
+    "word": "neighborhood",
+    "pos": "n.",
+    "chinese": "鄰近地區、社區 (p. 7)",
+    "example": "It is a very quiet and safe neighborhood.",
+    "description": "這是一個非常安靜且安全的社區。"
+  },
+  {
+    "word": "never",
+    "pos": "adv.",
+    "chinese": "從不 (p. 7)",
+    "example": "I never eat meat because I am a vegetarian.",
+    "description": "我從不吃肉，因為我是素食者。"
+  },
+  {
+    "word": "new",
+    "pos": "adj.",
+    "chinese": "新的 (p. 7)",
+    "example": "I want to buy a new computer for my work.",
+    "description": "我想買一台新電腦來工作用。"
+  },
+  {
+    "word": "news",
+    "pos": "n.",
+    "chinese": "新聞 (p. 8)",
+    "example": "I watch the news on TV every evening.",
+    "description": "我每天傍晚都看電視新聞。"
+  },
+  {
+    "word": "newspaper",
+    "pos": "n.",
+    "chinese": "報紙 (p. 8)",
+    "example": "My father reads the newspaper while drinking coffee.",
+    "description": "我父親喝咖啡時會讀報紙。"
+  },
+  {
+    "word": "next",
+    "pos": "adj., adv.",
+    "chinese": "下一個、接下來的 (p. 8)",
+    "example": "The next bus will arrive in ten minutes.",
+    "description": "下一班公車將在十分鐘後抵達。"
+  },
+  {
+    "word": "next to",
+    "pos": "prep.",
+    "chinese": "在...旁邊 (p. 8)",
+    "example": "The bank is next to the post office.",
+    "description": "銀行在郵局旁邊。"
+  },
+  {
+    "word": "nice",
+    "pos": "adj.",
+    "chinese": "好的、親切的 (p. 8)",
+    "example": "It's a nice day for a walk in the park.",
+    "description": "這是個適合在公園散步的好日子。"
+  },
+  {
+    "word": "night",
+    "pos": "n.",
+    "chinese": "夜晚 (p. 8)",
+    "example": "The stars are very bright at night.",
+    "description": "晚上的星星非常明亮。"
+  },
+  {
+    "word": "nine",
+    "pos": "number",
+    "chinese": "九 (p. 8)",
+    "example": "I have nine apples in my bag.",
+    "description": "我的袋子裡有九顆蘋果。"
+  },
+  {
+    "word": "nineteen",
+    "pos": "number",
+    "chinese": "十九 (p. 8)",
+    "example": "She is nineteen years old now.",
+    "description": "她現在十九歲了。"
+  },
+  {
+    "word": "ninety",
+    "pos": "number",
+    "chinese": "九十 (p. 8)",
+    "example": "My grandfather is ninety years old.",
+    "description": "我祖父九十歲了。"
+  },
+  {
+    "word": "no",
+    "pos": "exclam., det.",
+    "chinese": "不、沒有 (p. 8)",
+    "example": "There is no milk left in the fridge.",
+    "description": "冰箱裡沒有牛奶了。"
+  },
+  {
+    "word": "no one",
+    "pos": "pron.",
+    "chinese": "沒有人 (p. 8)",
+    "example": "No one was at home when I called.",
+    "description": "我打電話時，沒有人在家。"
+  },
+  {
+    "word": "nobody",
+    "pos": "pron.",
+    "chinese": "沒有人 (p. 8)",
+    "example": "Nobody knows the answer to this question.",
+    "description": "沒有人知道這個問題的答案。"
+  },
+  {
+    "word": "north",
+    "pos": "n., adj., adv.",
+    "chinese": "北方 (p. 8)",
+    "example": "The birds fly to the north in summer.",
+    "description": "鳥兒在夏天向北飛。"
+  },
+  {
+    "word": "nose",
+    "pos": "n.",
+    "chinese": "鼻子 (p. 8)",
+    "example": "The dog has a very wet nose.",
+    "description": "這隻狗的鼻子濕濕的。"
+  },
+  {
+    "word": "not",
+    "pos": "adv.",
+    "chinese": "不 (p. 8)",
+    "example": "I am not a student; I am a teacher.",
+    "description": "我不是學生，我是老師。"
+  },
+  {
+    "word": "note",
+    "pos": "n.",
+    "chinese": "筆記、便條 (p. 8)",
+    "example": "Please write a note to remind yourself.",
+    "description": "請寫一張便條來提醒你自己。"
+  },
+  {
+    "word": "nothing",
+    "pos": "pron.",
+    "chinese": "沒有東西、沒事 (p. 8)",
+    "example": "There is nothing in the box.",
+    "description": "箱子裡什麼都沒有。"
+  },
+  {
+    "word": "November",
+    "pos": "n.",
+    "chinese": "十一月 (p. 8)",
+    "example": "My brother was born in November.",
+    "description": "我弟弟是在十一月出生的。"
+  },
+  {
+    "word": "now",
+    "pos": "adv.",
+    "chinese": "現在 (p. 8)",
+    "example": "I need to leave for the airport right now.",
+    "description": "我現在就得出發去機場。"
+  },
+  {
+    "word": "number",
+    "pos": "n.",
+    "chinese": "數字、號碼 (p. 8)",
+    "example": "What is your phone number?",
+    "description": "你的電話號碼是多少？"
+  },
+  {
+    "word": "nurse",
+    "pos": "n.",
+    "chinese": "護士 (p. 8)",
+    "example": "The nurse is helping the doctor in the hospital.",
+    "description": "護士正在醫院裡協助醫生。"
+  },
+  {
+    "word": "object",
+    "pos": "n.",
+    "chinese": "物體、物品",
+    "example": "There is a strange object in the sky.",
+    "description": "天空中有一個奇怪的物品。"
+  },
+  {
+    "word": "ocean",
+    "pos": "n.",
+    "chinese": "海洋",
+    "example": "The ocean is very big and blue.",
+    "description": "海洋非常大且湛藍。"
+  },
+  {
+    "word": "o'clock",
+    "pos": "adv.",
+    "chinese": "…點鐘 (用於整點)",
+    "example": "The meeting starts at nine o'clock.",
+    "description": "會議在九點鐘開始。"
+  },
+  {
+    "word": "October",
+    "pos": "n.",
+    "chinese": "十月",
+    "example": "Halloween is in October.",
+    "description": "萬聖節在十月。"
+  },
+  {
+    "word": "of",
+    "pos": "prep.",
+    "chinese": "…的、屬於",
+    "example": "This is a map of the world.",
+    "description": "這是一幅世界地圖。"
+  },
+  {
+    "word": "off",
+    "pos": "adv., prep.",
+    "chinese": "離開、關掉",
+    "example": "Please turn off the light.",
+    "description": "請關燈。"
+  },
+  {
+    "word": "office",
+    "pos": "n.",
+    "chinese": "辦公室",
+    "example": "My father works in a big office.",
+    "description": "我父親在一家大辦公室工作。"
+  },
+  {
+    "word": "often",
+    "pos": "adv.",
+    "chinese": "經常",
+    "example": "I often go to the park on weekends.",
+    "description": "我週末經常去公園。"
+  },
+  {
+    "word": "oh",
+    "pos": "exclam.",
+    "chinese": "噢、哦 (感嘆詞)",
+    "example": "Oh! I forgot my keys.",
+    "description": "噢！我忘了帶鑰匙。"
+  },
+  {
+    "word": "OK",
+    "pos": "exclam., adj./adv.",
+    "chinese": "好、可以",
+    "example": "Is everything OK?",
+    "description": "一切都還好嗎？"
+  },
+  {
+    "word": "old",
+    "pos": "adj.",
+    "chinese": "老的、舊的",
+    "example": "My grandfather is very old.",
+    "description": "我祖父年紀很大了。"
+  },
+  {
+    "word": "on",
+    "pos": "prep., adv.",
+    "chinese": "在…上面、開著",
+    "example": "The book is on the table.",
+    "description": "書在桌子上。"
+  },
+  {
+    "word": "once",
+    "pos": "adv.",
+    "chinese": "一次",
+    "example": "I go swimming once a week.",
+    "description": "我每週游泳一次。"
+  },
+  {
+    "word": "one",
+    "pos": "number/det., pron.",
+    "chinese": "一、一個",
+    "example": "I have only one sister.",
+    "description": "我只有一個姊姊。"
+  },
+  {
+    "word": "onion",
+    "pos": "n.",
+    "chinese": "洋蔥",
+    "example": "I don't like onions in my salad.",
+    "description": "我不喜歡沙拉裡加洋蔥。"
+  },
+  {
+    "word": "online",
+    "pos": "adj., adv.",
+    "chinese": "線上、在網路上",
+    "example": "I like to shop online.",
+    "description": "我喜歡在網路上購物。"
+  },
+  {
+    "word": "only",
+    "pos": "adj., adv.",
+    "chinese": "只有、僅僅",
+    "example": "He is the only child in his family.",
+    "description": "他是家裡唯一的孩子。"
+  },
+  {
+    "word": "open",
+    "pos": "adj., v.",
+    "chinese": "開啟、打開",
+    "example": "Please open the window.",
+    "description": "請打開窗戶。"
+  },
+  {
+    "word": "opinion",
+    "pos": "n.",
+    "chinese": "意見、看法",
+    "example": "What is your opinion of this movie?",
+    "description": "你對這部電影的看法是什麼？"
+  },
+  {
+    "word": "opposite",
+    "pos": "adj., adv., prep., n.",
+    "chinese": "相反的、在…對面",
+    "example": "The bank is opposite the supermarket.",
+    "description": "銀行在超市對面。"
+  },
+  {
+    "word": "or",
+    "pos": "conj.",
+    "chinese": "或者",
+    "example": "Do you want tea or coffee?",
+    "description": "你想要茶還是咖啡？"
+  },
+  {
+    "word": "orange",
+    "pos": "n., adj.",
+    "chinese": "橘子、橘色的",
+    "example": "I eat an orange every day.",
+    "description": "我每天吃一顆橘子。"
+  },
+  {
+    "word": "order",
+    "pos": "n., v.",
+    "chinese": "命令、訂購、順序",
+    "example": "Are you ready to order your food?",
+    "description": "你準備好要點餐了嗎？"
+  },
+  {
+    "word": "other",
+    "pos": "adj./pron.",
+    "chinese": "其他的",
+    "example": "I have other things to do.",
+    "description": "我有其他事情要做。"
+  },
+  {
+    "word": "our",
+    "pos": "det.",
+    "chinese": "我們的",
+    "example": "This is our new house.",
+    "description": "這是我們的新房子。"
+  },
+  {
+    "word": "out",
+    "pos": "adv./prep.",
+    "chinese": "在外、向外",
+    "example": "Let's go out tonight.",
+    "description": "我們今晚出去吧。"
+  },
+  {
+    "word": "outside",
+    "pos": "adv.",
+    "chinese": "在外面",
+    "example": "The children are playing outside.",
+    "description": "孩子們在外面玩耍。"
+  },
+  {
+    "word": "over",
+    "pos": "prep., adv.",
+    "chinese": "在…上方、結束",
+    "example": "The game is over.",
+    "description": "比賽結束了。"
+  },
+  {
+    "word": "own",
+    "pos": "adj./pron.",
+    "chinese": "自己的",
+    "example": "I want to have my own room.",
+    "description": "我想要擁有我自己的房間。"
+  },
+  {
+    "word": "page",
+    "pos": "n.",
+    "chinese": "頁",
+    "example": "Turn to page 10, please.",
+    "description": "請翻到第 10 頁。"
+  },
+  {
+    "word": "paint",
+    "pos": "v., n.",
+    "chinese": "繪畫、油漆",
+    "example": "I like to paint pictures of mountains.",
+    "description": "我喜歡畫山的圖片。"
+  },
+  {
+    "word": "painting",
+    "pos": "n.",
+    "chinese": "畫作",
+    "example": "This is a very famous painting.",
+    "description": "這是一幅非常著名的畫作。"
+  },
+  {
+    "word": "pair",
+    "pos": "n.",
+    "chinese": "一雙、一對",
+    "example": "I bought a new pair of shoes.",
+    "description": "我買了一雙新鞋。"
+  },
+  {
+    "word": "pants",
+    "pos": "n.",
+    "chinese": "褲子",
+    "example": "He is wearing blue pants.",
+    "description": "他穿著藍色的長褲。"
+  },
+  {
+    "word": "paper",
+    "pos": "n.",
+    "chinese": "紙張",
+    "example": "Can I have a piece of paper?",
+    "description": "可以給我一張紙嗎？"
+  },
+  {
+    "word": "paragraph",
+    "pos": "n.",
+    "chinese": "段落",
+    "example": "Read the first paragraph of the story.",
+    "description": "閱讀故事的第一段。"
+  },
+  {
+    "word": "parent",
+    "pos": "n.",
+    "chinese": "父母親",
+    "example": "My parents are at home.",
+    "description": "我的父母在家。"
+  },
+  {
+    "word": "park",
+    "pos": "n., v.",
+    "chinese": "公園、停車",
+    "example": "Let's go for a walk in the park.",
+    "description": "我們去公園散步吧。"
+  },
+  {
+    "word": "part",
+    "pos": "n.",
+    "chinese": "部分",
+    "example": "This is the best part of the movie.",
+    "description": "這是電影中最棒的部分。"
+  },
+  {
+    "word": "partner",
+    "pos": "n.",
+    "chinese": "夥伴、搭檔",
+    "example": "Work with a partner to practice English.",
+    "description": "與搭檔一起練習英文。"
+  },
+  {
+    "word": "party",
+    "pos": "n.",
+    "chinese": "派對",
+    "example": "Are you coming to the party tonight?",
+    "description": "你今晚要來參加派對嗎？"
+  },
+  {
+    "word": "passport",
+    "pos": "n.",
+    "chinese": "護照",
+    "example": "Don't forget to bring your passport.",
+    "description": "別忘了帶你的護照。"
+  },
+  {
+    "word": "past",
+    "pos": "adj., n., prep.",
+    "chinese": "過去、經過",
+    "example": "In the past, people didn't have computers.",
+    "description": "在過去，人們沒有電腦。"
+  },
+  {
+    "word": "pay",
+    "pos": "v.",
+    "chinese": "支付",
+    "example": "I need to pay the bill.",
+    "description": "我需要付帳單。"
+  },
+  {
+    "word": "pen",
+    "pos": "n.",
+    "chinese": "筆",
+    "example": "Can I borrow your pen?",
+    "description": "我可以借你的筆嗎？"
+  },
+  {
+    "word": "pencil",
+    "pos": "n.",
+    "chinese": "鉛筆",
+    "example": "Write your name with a pencil.",
+    "description": "用鉛筆寫下你的名字。"
+  },
+  {
+    "word": "people",
+    "pos": "n.",
+    "chinese": "人、人們",
+    "example": "There are many people in the shop.",
+    "description": "商店裡有很多人。"
+  },
+  {
+    "word": "pepper",
+    "pos": "n.",
+    "chinese": "胡椒、甜椒",
+    "example": "Add some pepper to the soup.",
+    "description": "在湯裡加一點胡椒。"
+  },
+  {
+    "word": "perfect",
+    "pos": "adj.",
+    "chinese": "完美的",
+    "example": "Today is a perfect day for a picnic.",
+    "description": "今天是個適合野餐的完美日子。"
+  },
+  {
+    "word": "period",
+    "pos": "n.",
+    "chinese": "一段時間、課時",
+    "example": "We have a rest after each study period.",
+    "description": "我們每段學習時間後都有休息。"
+  },
+  {
+    "word": "person",
+    "pos": "n.",
+    "chinese": "人 (單數)",
+    "example": "She is a very kind person.",
+    "description": "她是一個非常善良的人。"
+  },
+  {
+    "word": "personal",
+    "pos": "adj.",
+    "chinese": "個人的、私人的",
+    "example": "This is my personal computer.",
+    "description": "這是我的個人電腦。"
+  },
+  {
+    "word": "phone",
+    "pos": "n., v.",
+    "chinese": "電話",
+    "example": "Where is my phone?",
+    "description": "我的電話在哪裡？"
+  },
+  {
+    "word": "photo / photograph",
+    "pos": "n.",
+    "chinese": "照片",
+    "example": "Let's take a photo.",
+    "description": "我們拍張照吧。"
+  },
+  {
+    "word": "phrase",
+    "pos": "n.",
+    "chinese": "片語、短語",
+    "example": "Learn this phrase by heart.",
+    "description": "背下這個片語。"
+  },
+  {
+    "word": "piano",
+    "pos": "n.",
+    "chinese": "鋼琴",
+    "example": "She plays the piano every day.",
+    "description": "她每天彈鋼琴。"
+  },
+  {
+    "word": "picture",
+    "pos": "n.",
+    "chinese": "圖片、照片",
+    "example": "Look at this picture of my family.",
+    "description": "看看這張我全家人的照片。"
+  },
+  {
+    "word": "piece",
+    "pos": "n.",
+    "chinese": "一塊、一件",
+    "example": "Would you like a piece of cake?",
+    "description": "你想吃塊蛋糕嗎？"
+  },
+  {
+    "word": "pig",
+    "pos": "n.",
+    "chinese": "豬",
+    "example": "The pig is sleeping.",
+    "description": "那隻豬正在睡覺。"
+  },
+  {
+    "word": "pink",
+    "pos": "adj., n.",
+    "chinese": "粉紅色",
+    "example": "My favorite color is pink.",
+    "description": "我最喜歡的顏色是粉紅色。"
+  },
+  {
+    "word": "place",
+    "pos": "n.",
+    "chinese": "地方",
+    "example": "This is a nice place to live.",
+    "description": "這是個居住的好地方。"
+  },
+  {
+    "word": "plan",
+    "pos": "n., v.",
+    "chinese": "計畫",
+    "example": "What is your plan for the weekend?",
+    "description": "你週末的計畫是什麼？"
+  },
+  {
+    "word": "plane",
+    "pos": "n.",
+    "chinese": "飛機",
+    "example": "The plane takes off at ten o'clock.",
+    "description": "飛機在十點鐘起飛。"
+  },
+  {
+    "word": "plant",
+    "pos": "n.",
+    "chinese": "植物",
+    "example": "Remember to water the plant.",
+    "description": "記得幫植物澆水。"
+  },
+  {
+    "word": "play",
+    "pos": "v., n.",
+    "chinese": "玩、打球、表演",
+    "example": "Do you want to play football?",
+    "description": "你想踢足球嗎？"
+  },
+  {
+    "word": "player",
+    "pos": "n.",
+    "chinese": "運動員、播放器",
+    "example": "He is a great football player.",
+    "description": "他是一名優秀的足球員。"
+  },
+  {
+    "word": "please",
+    "pos": "exclam.",
+    "chinese": "請",
+    "example": "Please open the window.",
+    "description": "請打開窗戶。"
+  },
+  {
+    "word": "point",
+    "pos": "n.",
+    "chinese": "點、重點、分數",
+    "example": "What is the main point of this lesson?",
+    "description": "這課的重點是什麼？"
+  },
+  {
+    "word": "police",
+    "pos": "n.",
+    "chinese": "警察 (集合名詞)",
+    "example": "Call the police!",
+    "description": "快叫警察！"
+  },
+  {
+    "word": "policeman",
+    "pos": "n.",
+    "chinese": "男警官",
+    "example": "The policeman helped the old lady.",
+    "description": "警察幫助了那位老太太。"
+  },
+  {
+    "word": "pool",
+    "pos": "n.",
+    "chinese": "游泳池、池塘",
+    "example": "I am going to the swimming pool.",
+    "description": "我要去游泳池。"
+  },
+  {
+    "word": "poor",
+    "pos": "adj.",
+    "chinese": "貧窮的、可憐的、不好的",
+    "example": "He comes from a poor family.",
+    "description": "他出身於一個貧窮的家庭。"
+  },
+  {
+    "word": "popular",
+    "pos": "adj.",
+    "chinese": "受歡迎的",
+    "example": "Basketball is a popular sport in Taiwan.",
+    "description": "籃球在台灣是一項受歡迎的運動。"
+  },
+  {
+    "word": "positive",
+    "pos": "adj.",
+    "chinese": "積極的、正面的",
+    "example": "Try to stay positive about your future.",
+    "description": "試著對你的未來保持正面積極。"
+  },
+  {
+    "word": "possible",
+    "pos": "adj.",
+    "chinese": "可能的",
+    "example": "Is it possible to meet tomorrow?",
+    "description": "明天有可能見面嗎？"
+  },
+  {
+    "word": "post",
+    "pos": "n., v.",
+    "chinese": "郵件、發文、張貼",
+    "example": "I need to post this letter.",
+    "description": "我需要寄出這封信。"
+  },
+  {
+    "word": "potato",
+    "pos": "n.",
+    "chinese": "馬鈴薯",
+    "example": "Do you like fried potatoes?",
+    "description": "你喜歡炸馬鈴薯嗎？"
+  },
+  {
+    "word": "pound",
+    "pos": "n.",
+    "chinese": "英鎊、磅",
+    "example": "The book costs ten pounds.",
+    "description": "這本書要十英鎊。"
+  },
+  {
+    "word": "practice",
+    "pos": "n., v.",
+    "chinese": "練習",
+    "example": "You need more practice to improve your English.",
+    "description": "你需要更多練習來增進英文能力。"
+  },
+  {
+    "word": "prefer",
+    "pos": "v.",
+    "chinese": "較喜歡、偏好",
+    "example": "I prefer tea to coffee.",
+    "description": "比起咖啡，我更喜歡茶。"
+  },
+  {
+    "word": "prepare",
+    "pos": "v.",
+    "chinese": "準備",
+    "example": "Mom is preparing dinner in the kitchen.",
+    "description": "媽媽正在廚房準備晚餐。"
+  },
+  {
+    "word": "present",
+    "pos": "adj., n.",
+    "chinese": "現在的、禮物",
+    "example": "This is a birthday present for you.",
+    "description": "這是給你的生日禮物。"
+  },
+  {
+    "word": "pretty",
+    "pos": "adj., adv.",
+    "chinese": "漂亮的、相當地",
+    "example": "She is a pretty girl.",
+    "description": "她是一個漂亮的女孩。"
+  },
+  {
+    "word": "price",
+    "pos": "n.",
+    "chinese": "價格",
+    "example": "What is the price of this car?",
+    "description": "這台車的價格是多少？"
+  },
+  {
+    "word": "probably",
+    "pos": "adv.",
+    "chinese": "可能地、或許",
+    "example": "It will probably rain later today.",
+    "description": "今天待會可能會下雨。"
+  },
+  {
+    "word": "problem",
+    "pos": "n.",
+    "chinese": "問題、困難",
+    "example": "No problem!",
+    "description": "沒問題！"
+  },
+  {
+    "word": "product",
+    "pos": "n.",
+    "chinese": "產品",
+    "example": "This company makes electronic products.",
+    "description": "這家公司生產電子產品。"
+  },
+  {
+    "word": "program",
+    "pos": "n.",
+    "chinese": "節目、計畫、程式",
+    "example": "What's your favorite TV program?",
+    "description": "你最喜歡的電視節目是什麼？"
+  },
+  {
+    "word": "project",
+    "pos": "n.",
+    "chinese": "計畫、專案",
+    "example": "We are working on a new project.",
+    "description": "我們正在進行一個新計畫。"
+  },
+  {
+    "word": "purple",
+    "pos": "adj., n.",
+    "chinese": "紫色的",
+    "example": "She is wearing a purple dress.",
+    "description": "她穿著一件紫色的洋裝。"
+  },
+  {
+    "word": "put",
+    "pos": "v.",
+    "chinese": "放、放置",
+    "example": "Put the book on the desk, please.",
+    "description": "請把書放在書桌上。"
+  },
+  {
+    "word": "quarter",
+    "pos": "n.",
+    "chinese": "四分之一、十五分鐘",
+    "example": "It's a quarter past ten.",
+    "description": "現在是十點十五分（十點過了四分之一小時）。"
+  },
+  {
+    "word": "question",
+    "pos": "n.",
+    "chinese": "問題",
+    "example": "Can I ask a question?",
+    "description": "我可以問一個問題嗎？"
+  },
+  {
+    "word": "quick",
+    "pos": "adj.",
+    "chinese": "快的",
+    "example": "He is a quick learner.",
+    "description": "他是一個學得很快的人。"
+  },
+  {
+    "word": "quickly",
+    "pos": "adv.",
+    "chinese": "快速地",
+    "example": "Please run quickly!",
+    "description": "請快點跑！"
+  },
+  {
+    "word": "quiet",
+    "pos": "adj.",
+    "chinese": "安靜的",
+    "example": "Be quiet in the library, please.",
+    "description": "在圖書館請保持安靜。"
+  },
+  {
+    "word": "quite",
+    "pos": "adv.",
+    "chinese": "相當地、非常",
+    "example": "The movie was quite good.",
+    "description": "這部電影相當好看。"
+  },
+  {
+    "word": "radio",
+    "pos": "n.",
+    "chinese": "收音機、廣播",
+    "example": "I listen to the radio in the morning.",
+    "description": "我早上聽廣播。"
+  },
+  {
+    "word": "rain",
+    "pos": "n., v.",
+    "chinese": "雨、下雨",
+    "example": "It started to rain after lunch.",
+    "description": "午飯後開始下雨了。"
+  },
+  {
+    "word": "read",
+    "pos": "v.",
+    "chinese": "閱讀、讀書",
+    "example": "I like to read books before bed.",
+    "description": "我喜歡在睡前讀書。"
+  },
+  {
+    "word": "reader",
+    "pos": "n.",
+    "chinese": "讀者、讀本",
+    "example": "She is a fast reader.",
+    "description": "她是一個閱讀很快的人。"
+  },
+  {
+    "word": "reading",
+    "pos": "n.",
+    "chinese": "閱讀 (行為)",
+    "example": "Reading is my favorite hobby.",
+    "description": "閱讀是我最喜歡的嗜好。"
+  },
+  {
+    "word": "ready",
+    "pos": "adj.",
+    "chinese": "準備好的",
+    "example": "Are you ready to go?",
+    "description": "你準備好要出發了嗎？"
+  },
+  {
+    "word": "real",
+    "pos": "adj.",
+    "chinese": "真實的、真正的",
+    "example": "Is this real diamond?",
+    "description": "這是真的鑽石嗎？"
+  },
+  {
+    "word": "really",
+    "pos": "adv.",
+    "chinese": "真正地、真的嗎",
+    "example": "I really like this movie.",
+    "description": "我真的很喜歡這部電影。"
+  },
+  {
+    "word": "reason",
+    "pos": "n.",
+    "chinese": "原因、理由",
+    "example": "What is the reason for your delay?",
+    "description": "你遲到的原因是什麼？"
+  },
+  {
+    "word": "red",
+    "pos": "adj., n.",
+    "chinese": "紅色的、紅色",
+    "example": "She is wearing a red dress.",
+    "description": "她穿著一件紅色的洋裝。"
+  },
+  {
+    "word": "relax",
+    "pos": "v.",
+    "chinese": "放鬆、休息",
+    "example": "I like to relax by the pool.",
+    "description": "我喜歡在池邊放鬆。"
+  },
+  {
+    "word": "remember",
+    "pos": "v.",
+    "chinese": "記得、記住",
+    "example": "Please remember to lock the door.",
+    "description": "請記得鎖門。"
+  },
+  {
+    "word": "repeat",
+    "pos": "v.",
+    "chinese": "重複",
+    "example": "Can you repeat that, please?",
+    "description": "請你再重複一遍好嗎？"
+  },
+  {
+    "word": "report",
+    "pos": "n., v.",
+    "chinese": "報告",
+    "example": "I have to finish my school report.",
+    "description": "我必須完成我的學校報告。"
+  },
+  {
+    "word": "restaurant",
+    "pos": "n.",
+    "chinese": "餐廳",
+    "example": "We had dinner at a new restaurant.",
+    "description": "我們在一間新餐廳吃晚餐。"
+  },
+  {
+    "word": "result",
+    "pos": "n.",
+    "chinese": "結果、成績",
+    "example": "The result of the test was good.",
+    "description": "考試結果很好。"
+  },
+  {
+    "word": "return",
+    "pos": "v., n.",
+    "chinese": "回來、歸還",
+    "example": "When will you return from Tokyo?",
+    "description": "你什麼時候從東京回來？"
+  },
+  {
+    "word": "rice",
+    "pos": "n.",
+    "chinese": "米飯、稻米",
+    "example": "I eat rice every day.",
+    "description": "我每天吃米飯。"
+  },
+  {
+    "word": "rich",
+    "pos": "adj.",
+    "chinese": "富有的",
+    "example": "He is a very rich man.",
+    "description": "他是一個非常富有的人。"
+  },
+  {
+    "word": "ride",
+    "pos": "v., n.",
+    "chinese": "騎 (車、馬)、搭乘",
+    "example": "I ride my bike to school.",
+    "description": "我騎單車上學。"
+  },
+  {
+    "word": "right",
+    "pos": "adj., adv., n.",
+    "chinese": "正確的、右邊、權利",
+    "example": "Turn right at the corner.",
+    "description": "在轉角處右轉。"
+  },
+  {
+    "word": "river",
+    "pos": "n.",
+    "chinese": "河流",
+    "example": "We swam in the river.",
+    "description": "我們在河裡游泳。"
+  },
+  {
+    "word": "road",
+    "pos": "n.",
+    "chinese": "道路、馬路",
+    "example": "The road is very busy today.",
+    "description": "今天這條馬路非常繁忙。"
+  },
+  {
+    "word": "room",
+    "pos": "n.",
+    "chinese": "房間、空間",
+    "example": "My room is on the second floor.",
+    "description": "我的房間在二樓。"
+  },
+  {
+    "word": "routine",
+    "pos": "n.",
+    "chinese": "常規、例行公事",
+    "example": "Exercise is part of my daily routine.",
+    "description": "運動是我日常生活的一部分。"
+  },
+  {
+    "word": "rule",
+    "pos": "n.",
+    "chinese": "規則",
+    "example": "You must follow the school rules.",
+    "description": "你必須遵守學校規則。"
+  },
+  {
+    "word": "run",
+    "pos": "v., n.",
+    "chinese": "跑、奔跑",
+    "example": "I run in the park every morning.",
+    "description": "我每天早上在公園跑步。"
+  },
+  {
+    "word": "sad",
+    "pos": "adj.",
+    "chinese": "悲傷的",
+    "example": "I feel sad because my dog is sick.",
+    "description": "因為我的狗生病了，我覺得很難過。"
+  },
+  {
+    "word": "salad",
+    "pos": "n.",
+    "chinese": "沙拉",
+    "example": "I often have a green salad for lunch.",
+    "description": "我午餐經常吃蔬菜沙拉。"
+  },
+  {
+    "word": "salt",
+    "pos": "n.",
+    "chinese": "鹽",
+    "example": "Please pass me the salt.",
+    "description": "請把鹽遞給我。"
+  },
+  {
+    "word": "same",
+    "pos": "adj., pron., adv.",
+    "chinese": "同樣的",
+    "example": "We go to the same school.",
+    "description": "我們讀同一所學校。"
+  },
+  {
+    "word": "sandwich",
+    "pos": "n.",
+    "chinese": "三明治",
+    "example": "I made a ham and cheese sandwich.",
+    "description": "我做了一個火腿起司三明治。"
+  },
+  {
+    "word": "Saturday",
+    "pos": "n.",
+    "chinese": "星期六",
+    "example": "We go to the park every Saturday.",
+    "description": "我們每個星期六都去公園。"
+  },
+  {
+    "word": "say",
+    "pos": "v.",
+    "chinese": "說",
+    "example": "What did you say to him?",
+    "description": "你對他說了什麼？"
+  },
+  {
+    "word": "school",
+    "pos": "n.",
+    "chinese": "學校",
+    "example": "I go to school by bus.",
+    "description": "我搭公車上學。"
+  },
+  {
+    "word": "science",
+    "pos": "n.",
+    "chinese": "科學",
+    "example": "Science is my favorite subject.",
+    "description": "科學是我最喜歡的科目。"
+  },
+  {
+    "word": "scientist",
+    "pos": "n.",
+    "chinese": "科學家",
+    "example": "Wait a second, please. This is the second time I've visited Paris.",
+    "description": "請等一下。這是我第二次訪問巴黎。"
+  },
+  {
+    "word": "section",
+    "pos": "n.",
+    "chinese": "部分、區塊",
+    "example": "Please read the first section of the book.",
+    "description": "請閱讀這本書的第一部分。"
+  },
+  {
+    "word": "see",
+    "pos": "v.",
+    "chinese": "看見、明白",
+    "example": "I see a bird in the tree. Oh, I see what you mean.",
+    "description": "我看見樹上有隻鳥。喔，我明白你的意思了。"
+  },
+  {
+    "word": "sell",
+    "pos": "v.",
+    "chinese": "賣、出售",
+    "example": "They sell fresh fruit at the market.",
+    "description": "他們在市場賣新鮮水果。"
+  },
+  {
+    "word": "send",
+    "pos": "v.",
+    "chinese": "寄送、傳送",
+    "example": "Please send me an email tonight.",
+    "description": "請今晚寄封電子郵件給我。"
+  },
+  {
+    "word": "sentence",
+    "pos": "n.",
+    "chinese": "句子",
+    "example": "Write a sentence using this word.",
+    "description": "用這個單字造一個句子。"
+  },
+  {
+    "word": "September",
+    "pos": "n.",
+    "chinese": "九月",
+    "example": "School starts in September.",
+    "description": "學校在九月開學。"
+  },
+  {
+    "word": "seven",
+    "pos": "number",
+    "chinese": "七",
+    "example": "There are seven days in a week.",
+    "description": "一個星期有七天。"
+  },
+  {
+    "word": "seventeen",
+    "pos": "number",
+    "chinese": "十七",
+    "example": "She is seventeen years old.",
+    "description": "她十七歲。"
+  },
+  {
+    "word": "seventy",
+    "pos": "number",
+    "chinese": "七十",
+    "example": "My grandmother is seventy.",
+    "description": "我奶奶七十歲。"
+  },
+  {
+    "word": "share",
+    "pos": "v.",
+    "chinese": "分享",
+    "example": "Can you share your umbrella with me?",
+    "description": "你能跟我共用一把傘嗎？"
+  },
+  {
+    "word": "she",
+    "pos": "pron.",
+    "chinese": "她",
+    "example": "She is a teacher.",
+    "description": "她是一名老師。"
+  },
+  {
+    "word": "sheep",
+    "pos": "n.",
+    "chinese": "綿羊",
+    "example": "There are many sheep on the farm.",
+    "description": "農場裡有很多綿羊。"
+  },
+  {
+    "word": "shirt",
+    "pos": "n.",
+    "chinese": "襯衫",
+    "example": "He is wearing a white shirt.",
+    "description": "他穿著一件白色襯衫。"
+  },
+  {
+    "word": "shoe",
+    "pos": "n.",
+    "chinese": "鞋子",
+    "example": "I need to buy a new pair of shoes.",
+    "description": "我需要買一雙新鞋。"
+  },
+  {
+    "word": "shop",
+    "pos": "n., v.",
+    "chinese": "商店、購物",
+    "example": "Let's shop for some clothes.",
+    "description": "我們去逛街買點衣服吧。"
+  },
+  {
+    "word": "shopping",
+    "pos": "n.",
+    "chinese": "購物",
+    "example": "I go shopping every weekend.",
+    "description": "我每個週末都去購物。"
+  },
+  {
+    "word": "short",
+    "pos": "adj.",
+    "chinese": "短的、矮的",
+    "example": "He is quite short. The story is very short.",
+    "description": "他長得很矮。這個故事很短。"
+  },
+  {
+    "word": "should",
+    "pos": "modal v.",
+    "chinese": "應該",
+    "example": "You should drink more water.",
+    "description": "你應該多喝水。"
+  },
+  {
+    "word": "show",
+    "pos": "v., n.",
+    "chinese": "展示、表演",
+    "example": "Please show me your photo. I like this TV show.",
+    "description": "請給我看你的照片。我喜歡這個電視節目。"
+  },
+  {
+    "word": "shower",
+    "pos": "n.",
+    "chinese": "淋浴",
+    "example": "I take a shower every morning.",
+    "description": "我每天早上淋浴（沖澡）。"
+  },
+  {
+    "word": "sick",
+    "pos": "adj.",
+    "chinese": "生病的",
+    "example": "I feel sick today.",
+    "description": "我今天覺得不舒服（生病了）。"
+  },
+  {
+    "word": "similar",
+    "pos": "adj.",
+    "chinese": "相似的",
+    "example": "Your bag is similar to mine.",
+    "description": "你的包包跟我的很像。"
+  },
+  {
+    "word": "sing",
+    "pos": "v.",
+    "chinese": "唱歌",
+    "example": "She likes to sing pop songs.",
+    "description": "她喜歡唱流行歌曲。"
+  },
+  {
+    "word": "singer",
+    "pos": "n.",
+    "chinese": "歌手",
+    "example": "He is a very famous singer.",
+    "description": "他是一位非常有名的歌手。"
+  },
+  {
+    "word": "sister",
+    "pos": "n.",
+    "chinese": "姊姊、妹妹",
+    "example": "I have one sister.",
+    "description": "我有一個姊妹。"
+  },
+  {
+    "word": "sit",
+    "pos": "v.",
+    "chinese": "坐下",
+    "example": "Please sit down on the chair.",
+    "description": "請在椅子上坐下來。"
+  },
+  {
+    "word": "situation",
+    "pos": "n.",
+    "chinese": "情況、處境",
+    "example": "It's a difficult situation.",
+    "description": "這是一個困難的情況。"
+  },
+  {
+    "word": "six",
+    "pos": "number",
+    "chinese": "六",
+    "example": "I have six pens.",
+    "description": "我有六枝筆。"
+  },
+  {
+    "word": "sixteen",
+    "pos": "number",
+    "chinese": "十六",
+    "example": "He is sixteen years old.",
+    "description": "他十六歲。"
+  },
+  {
+    "word": "sixty",
+    "pos": "number",
+    "chinese": "六十",
+    "example": "An hour has sixty minutes.",
+    "description": "一小時有六十分鐘。"
+  },
+  {
+    "word": "skill",
+    "pos": "n.",
+    "chinese": "技能、技巧",
+    "example": "Reading is an important skill.",
+    "description": "閱讀是一項重要的技能。"
+  },
+  {
+    "word": "skirt",
+    "pos": "n.",
+    "chinese": "裙子",
+    "example": "She is wearing a blue skirt.",
+    "description": "她穿著一件藍色裙子。"
+  },
+  {
+    "word": "sleep",
+    "pos": "v., n.",
+    "chinese": "睡覺",
+    "example": "I didn't sleep well last night.",
+    "description": "我昨晚沒睡好。"
+  },
+  {
+    "word": "slow",
+    "pos": "adj.",
+    "chinese": "慢的",
+    "example": "The bus is very slow.",
+    "description": "公車非常慢。"
+  },
+  {
+    "word": "small",
+    "pos": "adj.",
+    "chinese": "小的",
+    "example": "I live in a small apartment.",
+    "description": "我住在一間小公寓裡。"
+  },
+  {
+    "word": "smart",
+    "pos": "adj.",
+    "chinese": "聰明的",
+    "example": "He is a smart student.",
+    "description": "他是一個聰明的學生。"
+  },
+  {
+    "word": "snake",
+    "pos": "n.",
+    "chinese": "蛇",
+    "example": "I am afraid of snakes.",
+    "description": "我怕蛇。"
+  },
+  {
+    "word": "snow",
+    "pos": "n., v.",
+    "chinese": "雪、下雪",
+    "example": "It began to snow in the evening.",
+    "description": "傍晚開始下雪了。"
+  },
+  {
+    "word": "so",
+    "pos": "adv., conj.",
+    "chinese": "所以、如此",
+    "example": "It was cold, so I wore a coat.",
+    "description": "天氣很冷，所以我穿了件外套。"
+  },
+  {
+    "word": "some",
+    "pos": "det., pron.",
+    "chinese": "一些",
+    "example": "Would you like some tea?",
+    "description": "你想要來點茶嗎？"
+  },
+  {
+    "word": "somebody / someone",
+    "pos": "pron.",
+    "chinese": "某人",
+    "example": "Someone is at the door.",
+    "description": "有人在門口。"
+  },
+  {
+    "word": "something",
+    "pos": "pron.",
+    "chinese": "某事、某物",
+    "example": "I need something to eat.",
+    "description": "我需要點吃的東西。"
+  },
+  {
+    "word": "sometimes",
+    "pos": "adv.",
+    "chinese": "有時候",
+    "example": "I sometimes go to the gym.",
+    "description": "我偶爾會去健身房。"
+  },
+  {
+    "word": "son",
+    "pos": "n.",
+    "chinese": "兒子",
+    "example": "He has two sons.",
+    "description": "他有兩個兒子。"
+  },
+  {
+    "word": "song",
+    "pos": "n.",
+    "chinese": "歌曲",
+    "example": "This is a beautiful song.",
+    "description": "這是一首動聽的歌。"
+  },
+  {
+    "word": "soon",
+    "pos": "adv.",
+    "chinese": "很快、不久",
+    "example": "See you soon!",
+    "description": "待會見（很快見面）！"
+  },
+  {
+    "word": "sorry",
+    "pos": "adj., exclam.",
+    "chinese": "抱歉",
+    "example": "I am sorry I'm late.",
+    "description": "抱歉我遲到了。"
+  },
+  {
+    "word": "sound",
+    "pos": "n., v.",
+    "chinese": "聲音、聽起來",
+    "example": "That sounds like a good idea.",
+    "description": "那聽起來是個好主意。"
+  },
+  {
+    "word": "soup",
+    "pos": "n.",
+    "chinese": "湯",
+    "example": "The tomato soup is hot.",
+    "description": "番茄湯很燙。"
+  },
+  {
+    "word": "south",
+    "pos": "n., adj., adv.",
+    "chinese": "南方",
+    "example": "The sun is in the south.",
+    "description": "太陽在南方。"
+  },
+  {
+    "word": "space",
+    "pos": "n.",
+    "chinese": "空間、太空",
+    "example": "There is no space for a car here.",
+    "description": "這裡沒有停放車子的空間。"
+  },
+  {
+    "word": "speak",
+    "pos": "v.",
+    "chinese": "說話、講語言",
+    "example": "Can you speak English?",
+    "description": "你會說英文嗎？"
+  },
+  {
+    "word": "special",
+    "pos": "adj.",
+    "chinese": "特別的",
+    "example": "Today is a special day for me.",
+    "description": "今天對我來說是個特別的日子。"
+  },
+  {
+    "word": "spell",
+    "pos": "v.",
+    "chinese": "拼字",
+    "example": "How do you spell your name?",
+    "description": "你的名字怎麼拼？"
+  },
+  {
+    "word": "spelling",
+    "pos": "n.",
+    "chinese": "拼字、拼法",
+    "example": "Check your spelling before you finish.",
+    "description": "完成前檢查一下你的拼字。"
+  },
+  {
+    "word": "spend",
+    "pos": "v.",
+    "chinese": "花費 (時間、金錢)",
+    "example": "I spend a lot of time reading.",
+    "description": "我花很多時間閱讀。"
+  },
+  {
+    "word": "sport",
+    "pos": "n.",
+    "chinese": "運動",
+    "example": "What's your favorite sport?",
+    "description": "你最喜歡什麼運動？"
+  },
+  {
+    "word": "spring",
+    "pos": "n.",
+    "chinese": "春天",
+    "example": "Flowers grow in spring.",
+    "description": "花朵在春天生長。"
+  },
+  {
+    "word": "stand",
+    "pos": "v.",
+    "chinese": "站立",
+    "example": "Please stand up.",
+    "description": "請站起來。"
+  },
+  {
+    "word": "star",
+    "pos": "n.",
+    "chinese": "星星、明星",
+    "example": "Look at the stars in the sky.",
+    "description": "看天空中的星星。"
+  },
+  {
+    "word": "start",
+    "pos": "v.",
+    "chinese": "開始",
+    "example": "Let's start the class.",
+    "description": "我們開始上課吧。"
+  },
+  {
+    "word": "statement",
+    "pos": "n.",
+    "chinese": "陳述、聲明",
+    "example": "Read the statement carefully.",
+    "description": "仔細閱讀這段陳述。"
+  },
+  {
+    "word": "station",
+    "pos": "n.",
+    "chinese": "車站",
+    "example": "The bus station is near here.",
+    "description": "公車站就在附近。"
+  },
+  {
+    "word": "stay",
+    "pos": "v.",
+    "chinese": "停留、待在",
+    "example": "I stay home on Sundays.",
+    "description": "我星期日都待在家。"
+  },
+  {
+    "word": "still",
+    "pos": "adv.",
+    "chinese": "仍然",
+    "example": "It is still raining.",
+    "description": "現在還在下雨。"
+  },
+  {
+    "word": "stop",
+    "pos": "v., n.",
+    "chinese": "停止、車站",
+    "example": "The bus stops here.",
+    "description": "公車停在這裡。"
+  },
+  {
+    "word": "store",
+    "pos": "n.",
+    "chinese": "商店",
+    "example": "I'm going to the grocery store.",
+    "description": "我要去雜貨店。"
+  },
+  {
+    "word": "story",
+    "pos": "n.",
+    "chinese": "故事",
+    "example": "Tell me a story, Mom.",
+    "description": "媽媽，講個故事給我聽。"
+  },
+  {
+    "word": "street",
+    "pos": "n.",
+    "chinese": "街道",
+    "example": "The street is very busy.",
+    "description": "這條街非常繁忙。"
+  },
+  {
+    "word": "strong",
+    "pos": "adj.",
+    "chinese": "強壯的",
+    "example": "He is very strong.",
+    "description": "他非常強壯。"
+  },
+  {
+    "word": "student",
+    "pos": "n.",
+    "chinese": "學生",
+    "example": "I am an English student.",
+    "description": "我是一名英文學生。"
+  },
+  {
+    "word": "study",
+    "pos": "n., v.",
+    "chinese": "學習、研究",
+    "example": "I study English every day.",
+    "description": "我每天讀英文。"
+  },
+  {
+    "word": "style",
+    "pos": "n.",
+    "chinese": "風格、樣式",
+    "example": "I like your style.",
+    "description": "我喜歡你的風格。"
+  },
+  {
+    "word": "subject",
+    "pos": "n.",
+    "chinese": "科目、主題",
+    "example": "Math is a difficult subject.",
+    "description": "數學是個困難的科目。"
+  },
+  {
+    "word": "success",
+    "pos": "n.",
+    "chinese": "成功",
+    "example": "Hard work is the key to success.",
+    "description": "努力是成功的關鍵。"
+  },
+  {
+    "word": "sugar",
+    "pos": "n.",
+    "chinese": "糖",
+    "example": "I take sugar in my tea.",
+    "description": "我喝茶會加糖。"
+  },
+  {
+    "word": "summer",
+    "pos": "n.",
+    "chinese": "夏天",
+    "example": "It is very hot in summer.",
+    "description": "夏天非常熱。"
+  },
+  {
+    "word": "sun",
+    "pos": "n.",
+    "chinese": "太陽",
+    "example": "The sun rises in the east.",
+    "description": "太陽從東方升起。"
+  },
+  {
+    "word": "Sunday",
+    "pos": "n.",
+    "chinese": "星期日",
+    "example": "I visit my parents on Sunday.",
+    "description": "我星期日會去拜訪父母。"
+  },
+  {
+    "word": "supermarket",
+    "pos": "n.",
+    "chinese": "超級市場",
+    "example": "I buy food at the supermarket.",
+    "description": "我在超市買食物。"
+  },
+  {
+    "word": "sure",
+    "pos": "adj.",
+    "chinese": "確定的",
+    "example": "Are you sure about the answer?",
+    "description": "你確定這個答案嗎？"
+  },
+  {
+    "word": "sweater",
+    "pos": "n.",
+    "chinese": "毛衣",
+    "example": "Wear a sweater, it's cold.",
+    "description": "穿件毛衣，天氣冷。"
+  },
+  {
+    "word": "swim",
+    "pos": "v.",
+    "chinese": "游泳",
+    "example": "Can you swim?",
+    "description": "你會游泳嗎？"
+  },
+  {
+    "word": "swimming",
+    "pos": "n.",
+    "chinese": "游泳 (活動)",
+    "example": "I like swimming in the sea.",
+    "description": "我喜歡在海裡游泳。"
+  },
+  {
+    "word": "table",
+    "pos": "n.",
+    "chinese": "桌子",
+    "example": "The book is on the table.",
+    "description": "書在桌子上。"
+  },
+  {
+    "word": "take",
+    "pos": "v.",
+    "chinese": "拿、帶領、乘坐",
+    "example": "I take the bus to school every day.",
+    "description": "我每天搭公車上學。"
+  },
+  {
+    "word": "talk",
+    "pos": "v.",
+    "chinese": "說話、談論",
+    "example": "We need to talk about the project.",
+    "description": "我們需要談談這個計畫。"
+  },
+  {
+    "word": "tall",
+    "pos": "adj.",
+    "chinese": "高的",
+    "example": "He is very tall and plays basketball.",
+    "description": "他很高，而且會打籃球。"
+  },
+  {
+    "word": "taxi",
+    "pos": "n.",
+    "chinese": "計程車",
+    "example": "I'll go home by taxi.",
+    "description": "我會搭計程車回家。"
+  },
+  {
+    "word": "tea",
+    "pos": "n.",
+    "chinese": "茶",
+    "example": "Would you like a cup of tea?",
+    "description": "你想喝杯茶嗎？"
+  },
+  {
+    "word": "teach",
+    "pos": "v.",
+    "chinese": "教導",
+    "example": "She teaches English at a high school.",
+    "description": "她在高中教英文。"
+  },
+  {
+    "word": "teacher",
+    "pos": "n.",
+    "chinese": "老師",
+    "example": "My teacher is very kind.",
+    "description": "我的老師很親切。"
+  },
+  {
+    "word": "team",
+    "pos": "n.",
+    "chinese": "團隊、隊伍",
+    "example": "Our team won the game yesterday.",
+    "description": "我們的隊伍昨天贏得了比賽。"
+  },
+  {
+    "word": "teenager",
+    "pos": "n.",
+    "chinese": "青少年",
+    "example": "Most teenagers like listening to pop music.",
+    "description": "大多數青少年喜歡聽流行音樂。"
+  },
+  {
+    "word": "telephone",
+    "pos": "n., v.",
+    "chinese": "電話、打電話",
+    "example": "The telephone is ringing.",
+    "description": "電話正在響。"
+  },
+  {
+    "word": "television",
+    "pos": "n.",
+    "chinese": "電視",
+    "example": "I watch television in the evening.",
+    "description": "我晚上看電視。"
+  },
+  {
+    "word": "tell",
+    "pos": "v.",
+    "chinese": "告訴、敘述",
+    "example": "Can you tell me a story?",
+    "description": "你能講個故事給我聽嗎？"
+  },
+  {
+    "word": "ten",
+    "pos": "number",
+    "chinese": "十",
+    "example": "I have ten fingers.",
+    "description": "我有十根手指。"
+  },
+  {
+    "word": "tennis",
+    "pos": "n.",
+    "chinese": "網球",
+    "example": "Let's play tennis this weekend.",
+    "description": "這週末我們去打網球吧。"
+  },
+  {
+    "word": "terrible",
+    "pos": "adj.",
+    "chinese": "可怕的、糟糕的",
+    "example": "The weather today is terrible.",
+    "description": "今天的天氣很糟糕。"
+  },
+  {
+    "word": "test",
+    "pos": "n., v.",
+    "chinese": "測驗、考試",
+    "example": "I have a math test tomorrow morning.",
+    "description": "我明天早上有數學測驗。"
+  },
+  {
+    "word": "text",
+    "pos": "n.",
+    "chinese": "文本、簡訊",
+    "example": "Send me a text when you arrive.",
+    "description": "你抵達時傳個簡訊給我。"
+  },
+  {
+    "word": "than",
+    "pos": "conj.",
+    "chinese": "比、比較",
+    "example": "She is taller than her brother.",
+    "description": "她比她的哥哥高。"
+  },
+  {
+    "word": "thank",
+    "pos": "v.",
+    "chinese": "感謝",
+    "example": "I want to thank you for your help.",
+    "description": "我想感謝你的幫忙。"
+  },
+  {
+    "word": "thanks",
+    "pos": "exclam., n.",
+    "chinese": "謝謝",
+    "example": "Thanks for the present!",
+    "description": "謝謝你的禮物！"
+  },
+  {
+    "word": "that",
+    "pos": "det., pron., conj.",
+    "chinese": "那、那個",
+    "example": "Look at that beautiful house.",
+    "description": "看那棟美麗的房子。"
+  },
+  {
+    "word": "the",
+    "pos": "definite article",
+    "chinese": "這、那 (定冠詞)",
+    "example": "The sun rises in the east.",
+    "description": "太陽從東方升起。"
+  },
+  {
+    "word": "theater",
+    "pos": "n.",
+    "chinese": "電影院、劇院",
+    "example": "Let's go to the movie theater.",
+    "description": "我們去電影院吧。"
+  },
+  {
+    "word": "their",
+    "pos": "det.",
+    "chinese": "他們的",
+    "example": "Their car is parked outside.",
+    "description": "他們的車停在外面。"
+  },
+  {
+    "word": "them",
+    "pos": "pron.",
+    "chinese": "他們 (受格)",
+    "example": "I saw them at the park.",
+    "description": "我在公園看到他們。"
+  },
+  {
+    "word": "then",
+    "pos": "adv.",
+    "chinese": "然後、那時",
+    "example": "First we eat dinner, then we watch a movie.",
+    "description": "我們先吃晚餐，然後再看電影。"
+  },
+  {
+    "word": "there",
+    "pos": "adv.",
+    "chinese": "那裡",
+    "example": "Put the box over there.",
+    "description": "把盒子放在那裡。"
+  },
+  {
+    "word": "they",
+    "pos": "pron.",
+    "chinese": "他們",
+    "example": "They are my friends.",
+    "description": "他們是我的朋友。"
+  },
+  {
+    "word": "thing",
+    "pos": "n.",
+    "chinese": "東西、事物",
+    "example": "What is that thing on the table?",
+    "description": "桌子上的那個東西是什麼？"
+  },
+  {
+    "word": "think",
+    "pos": "v.",
+    "chinese": "思考、認為",
+    "example": "I think English is fun to learn.",
+    "description": "我認為學英文很有趣。"
+  },
+  {
+    "word": "third",
+    "pos": "number",
+    "chinese": "第三",
+    "example": "He lives on the third floor.",
+    "description": "他住在三樓。"
+  },
+  {
+    "word": "thirsty",
+    "pos": "adj.",
+    "chinese": "口渴的",
+    "example": "I am very thirsty; can I have some water?",
+    "description": "我很渴，可以給我一點水嗎？"
+  },
+  {
+    "word": "thirteen",
+    "pos": "number",
+    "chinese": "十三",
+    "example": "She is thirteen years old.",
+    "description": "她十三歲。"
+  },
+  {
+    "word": "thirty",
+    "pos": "number",
+    "chinese": "三十",
+    "example": "There are thirty days in June.",
+    "description": "六月有三十天。"
+  },
+  {
+    "word": "this",
+    "pos": "det./pron.",
+    "chinese": "這、這個",
+    "example": "This is my sister.",
+    "description": "這是我的姊姊。"
+  },
+  {
+    "word": "thousand",
+    "pos": "number",
+    "chinese": "一千",
+    "example": "One thousand people attended the concert.",
+    "description": "有一千人參加了這場音樂會。"
+  },
+  {
+    "word": "three",
+    "pos": "number",
+    "chinese": "三",
+    "example": "I have three cats.",
+    "description": "我有三隻貓。"
+  },
+  {
+    "word": "through",
+    "pos": "prep., adv.",
+    "chinese": "穿過、通過",
+    "example": "The train goes through the tunnel.",
+    "description": "火車穿過隧道。"
+  },
+  {
+    "word": "Thursday",
+    "pos": "n.",
+    "chinese": "星期四",
+    "example": "We have a meeting every Thursday.",
+    "description": "我們每個星期四都有會議。"
+  },
+  {
+    "word": "ticket",
+    "pos": "n.",
+    "chinese": "票",
+    "example": "Do you have a ticket for the movie?",
+    "description": "你有電影票嗎？"
+  },
+  {
+    "word": "time",
+    "pos": "n.",
+    "chinese": "時間",
+    "example": "What time is it?",
+    "description": "現在幾點？"
+  },
+  {
+    "word": "tired",
+    "pos": "adj.",
+    "chinese": "疲累的",
+    "example": "I am tired after a long day at work.",
+    "description": "工作一整天後我很累。"
+  },
+  {
+    "word": "title",
+    "pos": "n.",
+    "chinese": "標題、書名",
+    "example": "What is the title of the book?",
+    "description": "這本書的書名是什麼？"
+  },
+  {
+    "word": "to",
+    "pos": "prep., infinitive marker",
+    "chinese": "到、往、去",
+    "example": "I go to school at 8 o'clock.",
+    "description": "我八點去上學。"
+  },
+  {
+    "word": "today",
+    "pos": "adv., n.",
+    "chinese": "今天",
+    "example": "It is very hot today.",
+    "description": "今天天氣非常熱。"
+  },
+  {
+    "word": "together",
+    "pos": "adv.",
+    "chinese": "一起",
+    "example": "Let's study together.",
+    "description": "我們一起讀書吧。"
+  },
+  {
+    "word": "toilet",
+    "pos": "n.",
+    "chinese": "廁所、馬桶",
+    "example": "Where is the toilet?",
+    "description": "廁所在哪裡？"
+  },
+  {
+    "word": "tomato",
+    "pos": "n.",
+    "chinese": "番茄",
+    "example": "I like to eat fresh tomatoes.",
+    "description": "我喜歡吃新鮮番茄。"
+  },
+  {
+    "word": "tomorrow",
+    "pos": "adv., n.",
+    "chinese": "明天",
+    "example": "See you tomorrow!",
+    "description": "明天見！"
+  },
+  {
+    "word": "tonight",
+    "pos": "adv., n.",
+    "chinese": "今晚",
+    "example": "Are you busy tonight?",
+    "description": "你今晚忙嗎？"
+  },
+  {
+    "word": "too",
+    "pos": "adv.",
+    "chinese": "也、太...",
+    "example": "This coffee is too hot. I like tea too.",
+    "description": "這咖啡太燙了。我也喜歡茶。"
+  },
+  {
+    "word": "tooth",
+    "pos": "n.",
+    "chinese": "牙齒 (單數)",
+    "example": "I brush every tooth carefully.",
+    "description": "我仔細地刷每一顆牙齒。"
+  },
+  {
+    "word": "topic",
+    "pos": "n.",
+    "chinese": "話題、主題",
+    "example": "Today's topic is environment.",
+    "description": "今天的主題是環境。"
+  },
+  {
+    "word": "tourist",
+    "pos": "n.",
+    "chinese": "觀光客",
+    "example": "Taipei 101 is popular with tourists.",
+    "description": "台北 101 很受觀光客歡迎。"
+  },
+  {
+    "word": "town",
+    "pos": "n.",
+    "chinese": "城鎮",
+    "example": "I live in a small town.",
+    "description": "我住在一個小鎮。"
+  },
+  {
+    "word": "traffic",
+    "pos": "n.",
+    "chinese": "交通",
+    "example": "The traffic is heavy this morning.",
+    "description": "今天早上交通很擁擠。"
+  },
+  {
+    "word": "train",
+    "pos": "n.",
+    "chinese": "火車",
+    "example": "I go to work by train.",
+    "description": "我搭火車去上班。"
+  },
+  {
+    "word": "travel",
+    "pos": "v., n.",
+    "chinese": "旅行",
+    "example": "I like to travel to different countries.",
+    "description": "我喜歡去不同的國家旅行。"
+  },
+  {
+    "word": "tree",
+    "pos": "n.",
+    "chinese": "樹",
+    "example": "The bird is singing in the tree.",
+    "description": "鳥兒正在樹上唱歌。"
+  },
+  {
+    "word": "trip",
+    "pos": "n.",
+    "chinese": "旅遊、行程",
+    "example": "How was your trip to Japan?",
+    "description": "你的日本之行怎麼樣？"
+  },
+  {
+    "word": "truck",
+    "pos": "n.",
+    "chinese": "卡車",
+    "example": "A big truck is driving on the road.",
+    "description": "一輛大卡車正行駛在馬路上。"
+  },
+  {
+    "word": "true",
+    "pos": "adj.",
+    "chinese": "真實的",
+    "example": "Is that a true story?",
+    "description": "那是真實的故事嗎？"
+  },
+  {
+    "word": "try",
+    "pos": "v.",
+    "chinese": "嘗試",
+    "example": "Let me try to fix it.",
+    "description": "讓我試著修理它。"
+  },
+  {
+    "word": "T-shirt",
+    "pos": "n.",
+    "chinese": "T 恤",
+    "example": "I'm wearing a white T-shirt.",
+    "description": "我穿著一件白色 T 恤。"
+  },
+  {
+    "word": "Tuesday",
+    "pos": "n.",
+    "chinese": "星期二",
+    "example": "The exam is next Tuesday.",
+    "description": "考試在下週二。"
+  },
+  {
+    "word": "turn",
+    "pos": "v., n.",
+    "chinese": "轉動、轉向、輪到",
+    "example": "Turn left at the corner. It's your turn.",
+    "description": "在轉角左轉。輪到你了。"
+  },
+  {
+    "word": "TV",
+    "pos": "n.",
+    "chinese": "電視",
+    "example": "Don't watch too much TV.",
+    "description": "不要看太多電視。"
+  },
+  {
+    "word": "twelve",
+    "pos": "number",
+    "chinese": "十二",
+    "example": "A year has twelve months.",
+    "description": "一年有十二個月。"
+  },
+  {
+    "word": "twenty",
+    "pos": "number",
+    "chinese": "二十",
+    "example": "I have twenty dollars.",
+    "description": "我有二十美元。"
+  },
+  {
+    "word": "twice",
+    "pos": "adv.",
+    "chinese": "兩次",
+    "example": "I go to the gym twice a week.",
+    "description": "我每週去兩次健身房。"
+  },
+  {
+    "word": "two",
+    "pos": "number",
+    "chinese": "二",
+    "example": "I have two brothers.",
+    "description": "我有兩個兄弟。"
+  },
+  {
+    "word": "type",
+    "pos": "n.",
+    "chinese": "類型、種類",
+    "example": "What type of music do you like?",
+    "description": "你喜歡哪種類型的音樂？"
+  },
+  {
+    "word": "umbrella",
+    "pos": "n.",
+    "chinese": "雨傘",
+    "example": "It's raining outside; don't forget your umbrella.",
+    "description": "外面正在下雨，別忘了帶你的雨傘。"
+  },
+  {
+    "word": "uncle",
+    "pos": "n.",
+    "chinese": "伯伯、叔叔、舅舅、姑丈、姨丈",
+    "example": "My uncle lives in New York and works as a doctor.",
+    "description": "我的叔叔住在紐約，是一名醫生。"
+  },
+  {
+    "word": "under",
+    "pos": "prep., adv.",
+    "chinese": "在...下面",
+    "example": "The cat is sleeping under the table.",
+    "description": "貓正在桌子下面睡覺。"
+  },
+  {
+    "word": "understand",
+    "pos": "v.",
+    "chinese": "了解、明白",
+    "example": "I don't understand this math problem; can you help me?",
+    "description": "我不明白這道數學題，你能幫我嗎？"
+  },
+  {
+    "word": "university",
+    "pos": "n.",
+    "chinese": "大學",
+    "example": "She wants to study history at university.",
+    "description": "她想在大學學習歷史。"
+  },
+  {
+    "word": "until",
+    "pos": "conj./prep.",
+    "chinese": "直到...為止",
+    "example": "We stayed at the party until midnight.",
+    "description": "我們在派對上待到午夜為止。"
+  },
+  {
+    "word": "up",
+    "pos": "adv., prep.",
+    "chinese": "向上、起來",
+    "example": "Please stand up when the teacher enters the room.",
+    "description": "老師進教室時請站起來。"
+  },
+  {
+    "word": "upstairs",
+    "pos": "adv.",
+    "chinese": "在樓上、往樓上",
+    "example": "My bedroom is upstairs, on the second floor.",
+    "description": "我的臥室在樓上，二樓那裡。"
+  },
+  {
+    "word": "us",
+    "pos": "pron.",
+    "chinese": "我們 (受格)",
+    "example": "Can you tell us a story before we go to sleep?",
+    "description": "在我們睡覺前，你能講個故事給我們聽嗎？"
+  },
+  {
+    "word": "use",
+    "pos": "v.",
+    "chinese": "使用",
+    "example": "Can I use your pen for a moment?",
+    "description": "我可以借用一下你的筆嗎？"
+  },
+  {
+    "word": "useful",
+    "pos": "adj.",
+    "chinese": "有用的、實用的",
+    "example": "This dictionary is very useful for learning English.",
+    "description": "這本字典對學習英文非常有用。"
+  },
+  {
+    "word": "usually",
+    "pos": "adv.",
+    "chinese": "通常",
+    "example": "I usually go to bed at ten o'clock.",
+    "description": "我通常在十點鐘上床睡覺。"
+  },
+  {
+    "word": "vacation",
+    "pos": "n.",
+    "chinese": "假期",
+    "example": "We are going to Japan for our summer vacation.",
+    "description": "我們暑假要去日本度假。"
+  },
+  {
+    "word": "vegetable",
+    "pos": "n.",
+    "chinese": "蔬菜",
+    "example": "You should eat more fresh vegetables every day.",
+    "description": "你每天應該多吃新鮮蔬菜。"
+  },
+  {
+    "word": "very",
+    "pos": "adv.",
+    "chinese": "非常",
+    "example": "Thank you very much for your help.",
+    "description": "非常感謝你的幫忙。"
+  },
+  {
+    "word": "video",
+    "pos": "n.",
+    "chinese": "影片、錄影",
+    "example": "I like to watch music videos on YouTube.",
+    "description": "我喜歡在 YouTube 上看音樂影片。"
+  },
+  {
+    "word": "visit",
+    "pos": "v., n.",
+    "chinese": "拜訪、參觀",
+    "example": "I'm going to visit my grandparents this weekend.",
+    "description": "我這週末要去拜訪我的祖父母。"
+  },
+  {
+    "word": "visitor",
+    "pos": "n.",
+    "chinese": "遊客、訪客",
+    "example": "The museum has many visitors on Sundays.",
+    "description": "這間博物館在星期日有很多遊客。"
+  },
+  {
+    "word": "wait",
+    "pos": "v.",
+    "chinese": "等待",
+    "example": "Please wait for me at the bus stop.",
+    "description": "請在公車站等我。"
+  },
+  {
+    "word": "waiter",
+    "pos": "n.",
+    "chinese": "侍者、服務生",
+    "example": "The waiter brought us the menu.",
+    "description": "服務生把菜單拿給我們。"
+  },
+  {
+    "word": "wake",
+    "pos": "v.",
+    "chinese": "醒來、叫醒",
+    "example": "I usually wake up at seven o'clock.",
+    "description": "我通常在七點鐘醒來。"
+  },
+  {
+    "word": "walk",
+    "pos": "v., n.",
+    "chinese": "走路、散步",
+    "example": "Let's go for a walk in the park.",
+    "description": "我們去公園散步吧。"
+  },
+  {
+    "word": "wall",
+    "pos": "n.",
+    "chinese": "牆壁",
+    "example": "There is a big clock on the wall.",
+    "description": "牆上掛著一個大時鐘。"
+  },
+  {
+    "word": "want",
+    "pos": "v.",
+    "chinese": "想要",
+    "example": "I want to drink some cold water.",
+    "description": "我想喝點冷水。"
+  },
+  {
+    "word": "warm",
+    "pos": "adj.",
+    "chinese": "溫暖的",
+    "example": "The weather is nice and warm today.",
+    "description": "今天的天氣既美好又溫暖。"
+  },
+  {
+    "word": "wash",
+    "pos": "v.",
+    "chinese": "清洗",
+    "example": "Remember to wash your hands before dinner.",
+    "description": "記得晚餐前要洗手。"
+  },
+  {
+    "word": "watch",
+    "pos": "v., n.",
+    "chinese": "觀看、手錶",
+    "example": "I like to watch movies on weekends.",
+    "description": "我喜歡在週末看電影。"
+  },
+  {
+    "word": "water",
+    "pos": "n.",
+    "chinese": "水",
+    "example": "Can I have a glass of water, please?",
+    "description": "可以給我一杯水嗎？"
+  },
+  {
+    "word": "way",
+    "pos": "n.",
+    "chinese": "道路、方式",
+    "example": "Do you know the way to the station?",
+    "description": "你知道去車站的路嗎？"
+  },
+  {
+    "word": "we",
+    "pos": "pron.",
+    "chinese": "我們",
+    "example": "We are learning English together.",
+    "description": "我們正在一起學英文。"
+  },
+  {
+    "word": "wear",
+    "pos": "v.",
+    "chinese": "穿、戴",
+    "example": "She is wearing a beautiful blue dress.",
+    "description": "她穿著一件漂亮的藍色洋裝。"
+  },
+  {
+    "word": "weather",
+    "pos": "n.",
+    "chinese": "天氣",
+    "example": "What's the weather like today?",
+    "description": "今天天氣怎麼樣？"
+  },
+  {
+    "word": "website",
+    "pos": "n.",
+    "chinese": "網站",
+    "example": "This is a very useful website for students.",
+    "description": "這是一個對學生非常有用的網站。"
+  },
+  {
+    "word": "Wednesday",
+    "pos": "n.",
+    "chinese": "星期三",
+    "example": "We have an exam next Wednesday.",
+    "description": "我們下週三有場考試。"
+  },
+  {
+    "word": "week",
+    "pos": "n.",
+    "chinese": "星期、週",
+    "example": "There are seven days in a week.",
+    "description": "一星期有七天。"
+  },
+  {
+    "word": "weekend",
+    "pos": "n.",
+    "chinese": "週末",
+    "example": "What are you doing this weekend?",
+    "description": "你這週末要做什麼？"
+  },
+  {
+    "word": "welcome",
+    "pos": "exclam., v., adj.",
+    "chinese": "歡迎",
+    "example": "Welcome to our new house!",
+    "description": "歡迎來到我們的新家！"
+  },
+  {
+    "word": "well",
+    "pos": "adv., adj.",
+    "chinese": "很好地、健康的",
+    "example": "I hope you are feeling well today.",
+    "description": "我希望你今天感覺身體健康。"
+  },
+  {
+    "word": "west",
+    "pos": "n., adj., adv.",
+    "chinese": "西方",
+    "example": "The sun sets in the west.",
+    "description": "太陽在西方落下。"
+  },
+  {
+    "word": "what",
+    "pos": "pron./det.",
+    "chinese": "什麼",
+    "example": "What is your favorite color?",
+    "description": "你最喜歡的顏色是什麼？"
+  },
+  {
+    "word": "when",
+    "pos": "adv., pron., conj.",
+    "chinese": "什麼時候",
+    "example": "When is your birthday?",
+    "description": "你的生日是什麼時候？"
+  },
+  {
+    "word": "where",
+    "pos": "adv., conj.",
+    "chinese": "在哪裡",
+    "example": "Where do you live?",
+    "description": "你住在哪裡？"
+  },
+  {
+    "word": "which",
+    "pos": "pron./det.",
+    "chinese": "哪一個",
+    "example": "Which bag is yours, the red one or the blue one?",
+    "description": "哪一個包包是你的，紅色的還是藍色的？"
+  },
+  {
+    "word": "white",
+    "pos": "adj., n.",
+    "chinese": "白色的、白色",
+    "example": "He is wearing a white shirt.",
+    "description": "他穿著一件白色襯衫。"
+  },
+  {
+    "word": "who",
+    "pos": "pron.",
+    "chinese": "誰",
+    "example": "Who is your English teacher?",
+    "description": "誰是你的英文老師？"
+  },
+  {
+    "word": "why",
+    "pos": "adv.",
+    "chinese": "為什麼",
+    "example": "Why are you late for class?",
+    "description": "你為什麼上課遲到？"
+  },
+  {
+    "word": "wife",
+    "pos": "n.",
+    "chinese": "妻子、太太",
+    "example": "His wife is a very kind woman.",
+    "description": "他的妻子是一個非常親切的女性。"
+  },
+  {
+    "word": "will",
+    "pos": "modal v.",
+    "chinese": "將會",
+    "example": "I will call you tomorrow morning.",
+    "description": "我明天早上會打電話給你。"
+  },
+  {
+    "word": "win",
+    "pos": "v.",
+    "chinese": "贏、獲勝",
+    "example": "They hope to win the football match.",
+    "description": "他們希望贏得這場足球賽。"
+  },
+  {
+    "word": "window",
+    "pos": "n.",
+    "chinese": "窗戶",
+    "example": "Please close the window; it's cold.",
+    "description": "請關上窗戶，好冷。"
+  },
+  {
+    "word": "wine",
+    "pos": "n.",
+    "chinese": "葡萄酒",
+    "example": "He likes to drink a glass of wine with dinner.",
+    "description": "他喜歡晚餐時喝一杯葡萄酒。"
+  },
+  {
+    "word": "winter",
+    "pos": "n.",
+    "chinese": "冬天",
+    "example": "It often snows here in winter.",
+    "description": "這裡冬天經常下雪。"
+  },
+  {
+    "word": "with",
+    "pos": "prep.",
+    "chinese": "和、帶著",
+    "example": "I go to school with my brother.",
+    "description": "我和我的兄弟一起去上學。"
+  },
+  {
+    "word": "without",
+    "pos": "prep.",
+    "chinese": "沒有、無",
+    "example": "I can't drink coffee without sugar.",
+    "description": "我喝咖啡不能不加糖。"
+  },
+  {
+    "word": "woman",
+    "pos": "n.",
+    "chinese": "女人",
+    "example": "That woman over there is my aunt.",
+    "description": "那邊那位女性是我阿姨。"
+  },
+  {
+    "word": "wonderful",
+    "pos": "adj.",
+    "chinese": "很棒的、精彩的",
+    "example": "We had a wonderful time at the party.",
+    "description": "我們在派對上度過了精彩的時光。"
+  },
+  {
+    "word": "word",
+    "pos": "n.",
+    "chinese": "字、單字",
+    "example": "What does this word mean?",
+    "description": "這個單字是什麼意思？"
+  },
+  {
+    "word": "work",
+    "pos": "v., n.",
+    "chinese": "工作",
+    "example": "My father works in a big bank.",
+    "description": "我父親在一家大銀行工作。"
+  },
+  {
+    "word": "worker",
+    "pos": "n.",
+    "chinese": "工人、員工",
+    "example": "He is a hard worker.",
+    "description": "他是一個努力工作的員工。"
+  },
+  {
+    "word": "world",
+    "pos": "n.",
+    "chinese": "世界",
+    "example": "I want to travel around the world.",
+    "description": "我想環遊世界。"
+  },
+  {
+    "word": "would",
+    "pos": "modal v.",
+    "chinese": "將、會 (will 的過去式或委婉用法)",
+    "example": "Would you like some tea?",
+    "description": "你想要喝點茶嗎？"
+  },
+  {
+    "word": "write",
+    "pos": "v.",
+    "chinese": "寫",
+    "example": "Please write your name on the paper.",
+    "description": "請在紙上寫下你的名字。"
+  },
+  {
+    "word": "writer",
+    "pos": "n.",
+    "chinese": "作者、作家",
+    "example": "She is a famous children's book writer.",
+    "description": "她是一位著名的童書作家。"
+  },
+  {
+    "word": "writing",
+    "pos": "n.",
+    "chinese": "寫作、書寫",
+    "example": "His writing is very neat.",
+    "description": "他的筆跡非常工整。"
+  },
+  {
+    "word": "wrong",
+    "pos": "adj.",
+    "chinese": "錯誤的",
+    "example": "I'm sorry, you have the wrong number.",
+    "description": "抱歉，你撥錯電話號碼了。"
+  },
+  {
+    "word": "yard",
+    "pos": "n.",
+    "chinese": "庭院、碼",
+    "example": "The children are playing in the back yard.",
+    "description": "孩子們正在後院玩耍。"
+  },
+  {
+    "word": "yeah",
+    "pos": "exclam.",
+    "chinese": "是、對 (口語)",
+    "example": "Yeah, I'll meet you there at six.",
+    "description": "對，我六點在那裡跟你碰面。"
+  },
+  {
+    "word": "year",
+    "pos": "n.",
+    "chinese": "年",
+    "example": "Happy New Year!",
+    "description": "新年快樂！"
+  },
+  {
+    "word": "yellow",
+    "pos": "adj., n.",
+    "chinese": "黃色的、黃色",
+    "example": "She is wearing a yellow hat.",
+    "description": "她戴著一頂黃色的帽子。"
+  },
+  {
+    "word": "yes",
+    "pos": "exclam.",
+    "chinese": "是的",
+    "example": "Yes, I can speak English.",
+    "description": "是的，我會說英文。"
+  },
+  {
+    "word": "yesterday",
+    "pos": "adv., n.",
+    "chinese": "昨天",
+    "example": "I saw him at the library yesterday.",
+    "description": "我昨天在圖書館看到他。"
+  },
+  {
+    "word": "you",
+    "pos": "pron.",
+    "chinese": "你、你們",
+    "example": "How are you today?",
+    "description": "你今天好嗎？"
+  },
+  {
+    "word": "young",
+    "pos": "adj.",
+    "chinese": "年輕的",
+    "example": "My brother is still very young.",
+    "description": "我的弟弟還非常年輕。"
+  },
+  {
+    "word": "your",
+    "pos": "det.",
+    "chinese": "你的、你們的",
+    "example": "Is this your bag?",
+    "description": "這是你的包包嗎？"
+  },
+  {
+    "word": "yourself",
+    "pos": "pron.",
+    "chinese": "你自己",
+    "example": "Please help yourself to some cookies.",
+    "description": "請自己拿點餅乾吃（別客氣）。"
+  }
+]
